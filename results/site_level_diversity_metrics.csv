@@ -1,0 +1,291 @@
+site_name,name,value
+Abeokuta,shannon,2.5762345267167133
+Abeokuta,simpson,0.9061036324814176
+Abeokuta,invsimp,10.710549661903448
+Abeokuta,pielou,0.8913159768042763
+Abeokuta,richness,18
+Agroscope Changins,shannon,3.110091532952639
+Agroscope Changins,simpson,0.9155389042576836
+Agroscope Changins,invsimp,11.97518423168061
+Agroscope Changins,pielou,0.8268880775515824
+Agroscope Changins,richness,43
+Ainsdale Dune Slacks,shannon,3.225936542987817
+Ainsdale Dune Slacks,simpson,0.9377343971016056
+Ainsdale Dune Slacks,invsimp,16.19378772624848
+Ainsdale Dune Slacks,pielou,0.8333167236467671
+Ainsdale Dune Slacks,richness,48
+Algaida,shannon,2.823255495098021
+Algaida,simpson,0.9035429007327649
+Algaida,invsimp,10.484069951519512
+Algaida,pielou,0.760253320626569
+Algaida,richness,41
+Archbold Biological Station,shannon,3.20828863815996
+Archbold Biological Station,simpson,0.9479991627642568
+Archbold Biological Station,invsimp,19.354969248573024
+Archbold Biological Station,pielou,0.8884966968995912
+Archbold Biological Station,richness,37
+Bad Lauchstaedt,shannon,3.490055439466135
+Bad Lauchstaedt,simpson,0.9555266051381033
+Bad Lauchstaedt,invsimp,22.6196918984369
+Bad Lauchstaedt,pielou,0.8242720006397436
+Bad Lauchstaedt,richness,69
+Bayreuth DRAGNet,shannon,3.575111172985683
+Bayreuth DRAGNet,simpson,0.9560270569439828
+Bayreuth DRAGNet,invsimp,22.88012106702585
+Bayreuth DRAGNet,pielou,0.8596325266488617
+Bayreuth DRAGNet,richness,64
+Bladen Lakes State Forest,shannon,3.152699961449586
+Bladen Lakes State Forest,simpson,0.9472210376288287
+Bladen Lakes State Forest,invsimp,19.05244872174305
+Bladen Lakes State Forest,pielou,0.8940379009581705
+Bladen Lakes State Forest,richness,34
+Blandy Experimental Farm,shannon,3.3031550902068982
+Blandy Experimental Farm,simpson,0.9553535311495919
+Blandy Experimental Farm,invsimp,22.50285316898498
+Blandy Experimental Farm,pielou,0.9080623647565662
+Blandy Experimental Farm,richness,38
+CEREEP - Ecotron IDF,shannon,3.672408986029431
+CEREEP - Ecotron IDF,simpson,0.9592630144106826
+CEREEP - Ecotron IDF,invsimp,24.656823290218142
+CEREEP - Ecotron IDF,pielou,0.8479877880882469
+CEREEP - Ecotron IDF,richness,76
+Caracoles,shannon,2.674928424062486
+Caracoles,simpson,0.9227353667470026
+Caracoles,invsimp,13.042392109699914
+Caracoles,pielou,0.9254617219237934
+Caracoles,richness,18
+Cary IES,shannon,3.097758847543889
+Cary IES,simpson,0.9295088778237177
+Cary IES,invsimp,14.248140043609464
+Cary IES,pielou,0.8287941856580207
+Cary IES,richness,42
+Cass,shannon,2.137336298182022
+Cass,simpson,0.8503564797232701
+Cass,invsimp,6.763171996359709
+Cass,pielou,0.6725299231158769
+Cass,richness,24
+Castellanos,shannon,3.419255945920875
+Castellanos,simpson,0.9556844560321117
+Castellanos,invsimp,22.710017668928423
+Castellanos,pielou,0.8785749813733259
+Castellanos,richness,49
+Cedar Creek LTER,shannon,2.720125778132185
+Cedar Creek LTER,simpson,0.9181268408460207
+Cedar Creek LTER,invsimp,12.304857932144087
+Cedar Creek LTER,pielou,0.8675269641108626
+Cedar Creek LTER,richness,23
+Churning Rapids,shannon,3.567686949435018
+Churning Rapids,simpson,0.9653091594362757
+Churning Rapids,invsimp,28.98032340150859
+Churning Rapids,pielou,0.9266364094328268
+Churning Rapids,richness,47
+Colombia Missouri,shannon,3.1835815324121852
+Colombia Missouri,simpson,0.9403785713495713
+Colombia Missouri,invsimp,16.87093454915831
+Colombia Missouri,pielou,0.8268725934034801
+Colombia Missouri,richness,47
+Cowichan,shannon,2.633137891023646
+Cowichan,simpson,0.8590159234447189
+Cowichan,invsimp,7.143058363308145
+Cowichan,pielou,0.72921566059513
+Cowichan,richness,37
+Dauphin Island,shannon,2.4778244184110267
+Dauphin Island,simpson,0.8934302003979909
+Dauphin Island,invsimp,9.500849393826327
+Dauphin Island,pielou,0.8936862501587921
+Dauphin Island,richness,16
+Domaninek,shannon,2.7260922189079384
+Domaninek,simpson,0.9074419478736137
+Domaninek,invsimp,10.84726901713815
+Domaninek,pielou,0.793856254137283
+Domaninek,richness,31
+Fowlers Gap,shannon,3.1564024030090727
+Fowlers Gap,simpson,0.9523722076025974
+Fowlers Gap,invsimp,21.20673384964145
+Fowlers Gap,pielou,0.9373700923158128
+Fowlers Gap,richness,29
+GCE LTER - Sapelo Island,shannon,0
+GCE LTER - Sapelo Island,simpson,0
+GCE LTER - Sapelo Island,invsimp,1
+GCE LTER - Sapelo Island,pielou,NA
+GCE LTER - Sapelo Island,richness,1
+Hazelrigg,shannon,2.6207745890174383
+Hazelrigg,simpson,0.9014916541802502
+Hazelrigg,invsimp,10.255318768581448
+Hazelrigg,pielou,0.8246476393795085
+Hazelrigg,richness,24
+Hobcaw Barony,shannon,3.337212156164312
+Hobcaw Barony,simpson,0.9545100717866689
+Hobcaw Barony,invsimp,22.087668837935876
+Hobcaw Barony,pielou,0.9046682597455346
+Hobcaw Barony,richness,40
+Hulun Buir,shannon,3.8895930982028553
+Hulun Buir,simpson,0.9665402392243454
+Hulun Buir,invsimp,30.021791463365272
+Hulun Buir,pielou,0.8622731638135815
+Hulun Buir,richness,91
+Izaak Walton League of America (IWLA),shannon,2.919252049013143
+Izaak Walton League of America (IWLA),simpson,0.9166955389436248
+Izaak Walton League of America (IWLA),invsimp,12.102378322918234
+Izaak Walton League of America (IWLA),pielou,0.7761490905077342
+Izaak Walton League of America (IWLA),richness,43
+Jasper Ridge Biological Preserve,shannon,2.868114689613118
+Jasper Ridge Biological Preserve,simpson,0.9341621002472693
+Jasper Ridge Biological Preserve,invsimp,15.335923915000995
+Jasper Ridge Biological Preserve,pielou,0.9147249180184508
+Jasper Ridge Biological Preserve,richness,23
+Jena,shannon,3.5546525958912545
+Jena,simpson,0.9516366422396386
+Jena,invsimp,20.799238165233923
+Jena,pielou,0.8395283850398483
+Jena,richness,69
+Kellogg Biological Station (KBS),shannon,3.1521156111244544
+Kellogg Biological Station (KBS),simpson,0.9083889014290564
+Kellogg Biological Station (KBS),invsimp,11.003630233622387
+Kellogg Biological Station (KBS),pielou,0.7902051184785716
+Kellogg Biological Station (KBS),richness,54
+Kniezenberg,shannon,3.3615584037374213
+Kniezenberg,simpson,0.9491906988332859
+Kniezenberg,invsimp,19.83403935836852
+Kniezenberg,pielou,0.8592890172356029
+Kniezenberg,richness,50
+Konza LTER DRAGNet,shannon,2.9627812850973925
+Konza LTER DRAGNet,simpson,0.8904593529664658
+Konza LTER DRAGNet,invsimp,9.175122801745466
+Konza LTER DRAGNet,pielou,0.7207181205237981
+Konza LTER DRAGNet,richness,61
+LSU Botanical Garden,shannon,3.4767280711145676
+LSU Botanical Garden,simpson,0.9555572561889825
+LSU Botanical Garden,invsimp,22.65158038339119
+LSU Botanical Garden,pielou,0.8799072693908084
+LSU Botanical Garden,richness,52
+Ladybird Johnson Wildflower Center,shannon,3.493096052276387
+Ladybird Johnson Wildflower Center,simpson,0.9408722150173453
+Ladybird Johnson Wildflower Center,invsimp,17.014402676441662
+Ladybird Johnson Wildflower Center,pielou,0.8017740434883702
+Ladybird Johnson Wildflower Center,richness,78
+Lublin,shannon,3.8065197339323538
+Lublin,simpson,0.968643641015101
+Lublin,invsimp,32.01978948736273
+Lublin,pielou,0.866210894688595
+Lublin,richness,81
+Mendoza,shannon,0.9866341774912976
+Mendoza,simpson,0.46512958429345375
+Mendoza,invsimp,1.8851350966579374
+Mendoza,pielou,0.47447074501275216
+Mendoza,richness,8
+Meranges,shannon,3.330240810353848
+Meranges,simpson,0.9495131373637766
+Meranges,invsimp,19.94692116971566
+Meranges,pielou,0.9027784322526112
+Meranges,richness,40
+Millville,shannon,2.6085037644523097
+Millville,simpson,0.9109461994198316
+Millville,invsimp,11.365753419870908
+Millville,pielou,0.870739948118831
+Millville,richness,20
+Morella la Vella,shannon,2.711252253795806
+Morella la Vella,simpson,0.894966288271848
+Morella la Vella,invsimp,9.618739231601667
+Morella la Vella,pielou,0.805171980926516
+Morella la Vella,richness,29
+Nillahcootie,shannon,2.5860879158192556
+Nillahcootie,simpson,0.9087762343982555
+Nillahcootie,invsimp,11.053470511594833
+Nillahcootie,pielou,0.8247784042085732
+Nillahcootie,richness,23
+Oak Lake Field Station,shannon,2.6930189648304617
+Oak Lake Field Station,simpson,0.9074558744356872
+Oak Lake Field Station,invsimp,10.884950275243165
+Oak Lake Field Station,pielou,0.8170971666128952
+Oak Lake Field Station,richness,27
+Park Shaked,shannon,2.9360231323446078
+Park Shaked,simpson,0.9153744443640278
+Park Shaked,invsimp,12.031806869666989
+Park Shaked,pielou,0.8014122364902353
+Park Shaked,richness,39
+Piedmont Prairie,shannon,2.6620373893683524
+Piedmont Prairie,simpson,0.9018490902918195
+Piedmont Prairie,invsimp,10.375231920028314
+Piedmont Prairie,pielou,0.7988817556784308
+Piedmont Prairie,richness,28
+Potrok Aike,shannon,2.8161060855373776
+Potrok Aike,simpson,0.9195305740579574
+Potrok Aike,invsimp,12.66774798814524
+Potrok Aike,pielou,0.8643408974147498
+Potrok Aike,richness,26
+Saihanba,shannon,3.6462326887909895
+Saihanba,simpson,0.9508318264720556
+Saihanba,invsimp,20.465969908191862
+Saihanba,pielou,0.832088207757402
+Saihanba,richness,80
+San Claudio,shannon,2.779694362626866
+San Claudio,simpson,0.8859786300646583
+San Claudio,invsimp,8.834691346273681
+San Claudio,pielou,0.775688481173325
+San Claudio,richness,36
+Sandflats,shannon,2.018984532466347
+Sandflats,simpson,0.786512733322879
+Sandflats,invsimp,4.737832980069066
+Sandflats,pielou,0.6125863064679049
+Sandflats,richness,27
+Shortgrass Steppe LTER,shannon,2.5768492512158727
+Shortgrass Steppe LTER,simpson,0.8948521875253846
+Shortgrass Steppe LTER,invsimp,9.637847583087114
+Shortgrass Steppe LTER,pielou,0.8005432304370995
+Shortgrass Steppe LTER,richness,25
+Sierra Foothills REC,shannon,2.8111393234898063
+Sierra Foothills REC,simpson,0.9167231199042686
+Sierra Foothills REC,invsimp,12.147693992898494
+Sierra Foothills REC,pielou,0.790679076948702
+Sierra Foothills REC,richness,35
+Songyuan,shannon,2.4267330426532987
+Songyuan,simpson,0.8892325225563833
+Songyuan,invsimp,9.186896860025465
+Songyuan,pielou,0.8752589315493249
+Songyuan,richness,16
+Stoderzinken,shannon,3.514425265222515
+Stoderzinken,simpson,0.9648935719402713
+Stoderzinken,invsimp,29.011178422309957
+Stoderzinken,pielou,0.9463732498239815
+Stoderzinken,richness,41
+Temple,shannon,3.662917998387072
+Temple,simpson,0.967868252056204
+Temple,invsimp,31.21549795733694
+Temple,pielou,0.918258372465028
+Temple,richness,54
+Ukulinga,shannon,3.7145921835616913
+Ukulinga,simpson,0.9607206623560242
+Ukulinga,invsimp,25.540268777708942
+Ukulinga,pielou,0.8577282163754966
+Ukulinga,richness,76
+University of Michigan Biological Station,shannon,3.1242462139961047
+University of Michigan Biological Station,simpson,0.9367284198180739
+University of Michigan Biological Station,invsimp,15.89459074813861
+University of Michigan Biological Station,pielou,0.8358807848380682
+University of Michigan Biological Station,richness,42
+University of Wyoming - SAREC,shannon,2.567801116691975
+University of Wyoming - SAREC,simpson,0.8919163686075282
+University of Wyoming - SAREC,invsimp,9.433118958432788
+University of Wyoming - SAREC,pielou,0.7881292302809734
+University of Wyoming - SAREC,richness,26
+WSL,shannon,3.3038333009312115
+WSL,simpson,0.947666220534378
+WSL,invsimp,19.27506087762551
+WSL,pielou,0.8839286609950805
+WSL,richness,42
+Wallula Gap Biological Station-North Face,shannon,2.5762010274718903
+Wallula Gap Biological Station-North Face,simpson,0.8740437187037915
+Wallula Gap Biological Station-North Face,invsimp,8.017882086417206
+Wallula Gap Biological Station-North Face,pielou,0.7907073953788732
+Wallula Gap Biological Station-North Face,richness,26
+Wallula Gap Biological Station-South Face,shannon,2.2937901673002137
+Wallula Gap Biological Station-South Face,simpson,0.8498545266266075
+Wallula Gap Biological Station-South Face,invsimp,6.748109519017809
+Wallula Gap Biological Station-South Face,pielou,0.7790245216593271
+Wallula Gap Biological Station-South Face,richness,19
+Wytham Woods,shannon,4.092451403372487
+Wytham Woods,simpson,0.9764292570714639
+Wytham Woods,invsimp,42.628018171369725
+Wytham Woods,pielou,0.9028927902309398
+Wytham Woods,richness,93

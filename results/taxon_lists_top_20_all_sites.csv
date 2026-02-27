@@ -1,0 +1,3483 @@
+site_name,year_trt,New_taxon,prop
+Abeokuta,2,Panicum_maximum,48.75
+Abeokuta,2,Helianthus_hirsutus,15
+Abeokuta,2,Waltheria_indica,7.5
+Abeokuta,2,Aeschynomene_indica,4.583333333333333
+Abeokuta,2,Panicum_capillare,3.3333333333333335
+Abeokuta,2,Chromolaena_odorata,2.9166666666666665
+Abeokuta,2,Centrosema_pubescens,2.5
+Abeokuta,2,Lysiphyllum_binatum,2.5
+Abeokuta,2,Desmodium_rotundifolium,2.3333333333333335
+Abeokuta,2,Azadirachta_indica,1.6666666666666667
+Abeokuta,2,Commelina_erecta,1.6666666666666667
+Abeokuta,2,Desmanthus_illinoensis,1.6666666666666667
+Abeokuta,2,Stylosanthes_hamata,1.6666666666666667
+Abeokuta,2,Tridax_procumbens,1.6666666666666667
+Abeokuta,2,Clitoria_ternatea,1.25
+Abeokuta,2,Sida_acuta,0.4166666666666667
+Abeokuta,2,Strophostyles_umbellata,0.4166666666666667
+Abeokuta,2,Corchorus_olitorius,0.16666666666666669
+Agroscope Changins,0,Holcus_lanatus,18.154088359736303
+Agroscope Changins,0,Trifolium_pratense,14.464233002066324
+Agroscope Changins,0,Achillea_millefolium,10.184000787169145
+Agroscope Changins,0,Lotus_corniculatus,9.815015251402148
+Agroscope Changins,0,Crepis_biennis,6.6909377152415646
+Agroscope Changins,0,Ranunculus_acris,6.641739643805964
+Agroscope Changins,0,Festuca_arundinacea,5.042802322148973
+Agroscope Changins,0,Alopecurus_pratensis,4.580340450654336
+Agroscope Changins,0,Agrostis_capillaris,4.477024500639576
+Agroscope Changins,0,Trisetum_flavescens,2.287710321755388
+Agroscope Changins,0,Plantago_lanceolata,2.238512250319788
+Agroscope Changins,0,Poa_pratensis,2.1893141788841883
+Agroscope Changins,0,Centaurea_jacea,1.9531634359933097
+Agroscope Changins,0,Vicia_sativa,1.4316638787759524
+Agroscope Changins,0,Potentilla_neumanniana,1.1364754501623542
+Agroscope Changins,0,Daucus_carota,1.1118764144445543
+Agroscope Changins,0,Poa_trivialis,0.9839614287119948
+Agroscope Changins,0,Galium_album,0.944602971563515
+Agroscope Changins,0,Dactylis_glomerata,0.8265276001180757
+Agroscope Changins,0,Rumex_acetosa,0.8117681786873956
+Agroscope Changins,1,Holcus_lanatus,27.44998733856673
+Agroscope Changins,1,Achillea_millefolium,9.723980754621424
+Agroscope Changins,1,Ranunculus_acris,7.647505697644974
+Agroscope Changins,1,Festuca_arundinacea,6.963788300835655
+Agroscope Changins,1,Agrostis_capillaris,5.976196505444417
+Agroscope Changins,1,Polygonum_aviculare,5.976196505444417
+Agroscope Changins,1,Plantago_lanceolata,4.304887313243859
+Agroscope Changins,1,Trifolium_pratense,4.102304380855913
+Agroscope Changins,1,Alopecurus_pratensis,3.6718156495315277
+Agroscope Changins,1,Lotus_corniculatus,3.038743985819195
+Agroscope Changins,1,Crepis_biennis,2.7095467206887824
+Agroscope Changins,1,Trisetum_flavescens,2.22841225626741
+Agroscope Changins,1,Rumex_acetosa,2.07647505697645
+Agroscope Changins,1,Centaurea_jacea,1.676373765510256
+Agroscope Changins,1,Dactylis_glomerata,1.570017726006584
+Agroscope Changins,1,Poa_pratensis,1.4940491263611042
+Agroscope Changins,1,Poa_trivialis,1.1901747277791848
+Agroscope Changins,1,Daucus_carota,1.139528994682198
+Agroscope Changins,1,Prunella_vulgaris,1.114206128133705
+Agroscope Changins,1,Cerastium_fontanum,0.9926563687009371
+Agroscope Changins,2,Holcus_lanatus,54.230769230769226
+Agroscope Changins,2,Trisetum_flavescens,5.961538461538462
+Agroscope Changins,2,Agrostis_capillaris,5.4945054945054945
+Agroscope Changins,2,Ranunculus_acris,3.7362637362637363
+Agroscope Changins,2,Arrhenatherum_elatius,3.296703296703297
+Agroscope Changins,2,Lolium_perenne,3.2417582417582422
+Agroscope Changins,2,Achillea_millefolium,3.131868131868132
+Agroscope Changins,2,Alopecurus_pratensis,2.0879120879120876
+Agroscope Changins,2,Galium_album,1.8681318681318682
+Agroscope Changins,2,Festuca_arundinacea,1.7307692307692308
+Agroscope Changins,2,Polygonum_aviculare,1.6483516483516485
+Agroscope Changins,2,Rumex_acetosa,1.5934065934065933
+Agroscope Changins,2,Plantago_lanceolata,1.4835164835164834
+Agroscope Changins,2,Convolvulus_arvensis,1.1813186813186813
+Agroscope Changins,2,Lotus_corniculatus,1.0714285714285714
+Agroscope Changins,2,Crepis_biennis,1.0164835164835164
+Agroscope Changins,2,Vicia_sativa,1.0164835164835164
+Agroscope Changins,2,Dactylis_glomerata,0.9065934065934067
+Agroscope Changins,2,Trifolium_pratense,0.7417582417582417
+Agroscope Changins,2,Centaurea_jacea,0.7142857142857143
+Agroscope Changins,3,Holcus_lanatus,62.3303457106274
+Agroscope Changins,3,Agrostis_capillaris,4.250960307298335
+Agroscope Changins,3,Trisetum_flavescens,3.6875800256081948
+Agroscope Changins,3,Ranunculus_acris,2.9961587708066584
+Agroscope Changins,3,Achillea_millefolium,2.765685019206146
+Agroscope Changins,3,Galium_album,2.7400768245838667
+Agroscope Changins,3,Alopecurus_pratensis,2.330345710627401
+Agroscope Changins,3,Festuca_arundinacea,2.151088348271447
+Agroscope Changins,3,Arrhenatherum_elatius,1.9206145966709345
+Agroscope Changins,3,Lolium_perenne,1.8437900128040974
+Agroscope Changins,3,Dactylis_glomerata,1.5108834827144686
+Agroscope Changins,3,Rumex_acetosa,1.3060179257362354
+Agroscope Changins,3,Crepis_biennis,1.1267605633802817
+Agroscope Changins,3,Poa_trivialis,0.9218950064020487
+Agroscope Changins,3,Polygonum_aviculare,0.9218950064020487
+Agroscope Changins,3,Plantago_lanceolata,0.8194622279129321
+Agroscope Changins,3,Cerastium_fontanum,0.793854033290653
+Agroscope Changins,3,Festuca_pratensis,0.7682458386683738
+Agroscope Changins,3,Poa_pratensis,0.6402048655569782
+Agroscope Changins,3,Vicia_sativa,0.6402048655569782
+Ainsdale Dune Slacks,-1,Salix_repens,31.103601873896014
+Ainsdale Dune Slacks,-1,Equisetum_palustre,23.34690115966516
+Ainsdale Dune Slacks,-1,Hydrocotyle_vulgaris,17.279778818831122
+Ainsdale Dune Slacks,-1,Carex_nigra,6.37431840872437
+Ainsdale Dune Slacks,-1,Rubus_caesius,3.686352814683972
+Ainsdale Dune Slacks,-1,Equisetum_arvense,3.3023577298210585
+Ainsdale Dune Slacks,-1,Mentha_aquatica,3.3023577298210585
+Ainsdale Dune Slacks,-1,Pulicaria_dysenterica,3.1487596958758934
+Ainsdale Dune Slacks,-1,Filipendula_ulmaria,1.5359803394516551
+Ainsdale Dune Slacks,-1,Lotus_pedunculatus,1.390062207203748
+Ainsdale Dune Slacks,-1,Lysimachia_tenella,0.9983872206435759
+Ainsdale Dune Slacks,-1,Carex_flacca,0.921588203670993
+Ainsdale Dune Slacks,-1,Agrostis_stolonifera,0.8447891866984103
+Ainsdale Dune Slacks,-1,Cirsium_palustre,0.4607941018354965
+Ainsdale Dune Slacks,-1,Arrhenatherum_elatius,0.307196067890331
+Ainsdale Dune Slacks,-1,Equisetum_variegatum,0.23039705091774826
+Ainsdale Dune Slacks,-1,Holcus_lanatus,0.23039705091774826
+Ainsdale Dune Slacks,-1,Juncus_articulatus,0.23039705091774826
+Ainsdale Dune Slacks,-1,Leontodon_saxatilis,0.23039705091774826
+Ainsdale Dune Slacks,-1,Trifolium_repens,0.23039705091774826
+Ainsdale Dune Slacks,0,Salix_repens,26.31578947368421
+Ainsdale Dune Slacks,0,Hydrocotyle_vulgaris,25.649566955363092
+Ainsdale Dune Slacks,0,Equisetum_palustre,12.991339107261826
+Ainsdale Dune Slacks,0,Rubus_caesius,8.061292471685542
+Ainsdale Dune Slacks,0,Carex_nigra,6.262491672218521
+Ainsdale Dune Slacks,0,Equisetum_arvense,4.463690872751499
+Ainsdale Dune Slacks,0,Mentha_aquatica,4.197201865423051
+Ainsdale Dune Slacks,0,Pulicaria_dysenterica,2.898067954696869
+Ainsdale Dune Slacks,0,Filipendula_ulmaria,2.365089940039973
+Ainsdale Dune Slacks,0,Carex_flacca,1.2591605596269153
+Ainsdale Dune Slacks,0,Lysimachia_tenella,1.1325782811459029
+Ainsdale Dune Slacks,0,Lotus_pedunculatus,1.0726182544970022
+Ainsdale Dune Slacks,0,Lotus_corniculatus,0.6995336442371752
+Ainsdale Dune Slacks,0,Luzula_campestris,0.6662225183211192
+Ainsdale Dune Slacks,0,Agrostis_stolonifera,0.5996002664890072
+Ainsdale Dune Slacks,0,Hypericum_tetrapterum,0.39973351099267157
+Ainsdale Dune Slacks,0,Potentilla_mixta,0.19986675549633579
+Ainsdale Dune Slacks,0,Holcus_lanatus,0.13324450366422386
+Ainsdale Dune Slacks,0,Trifolium_repens,0.13324450366422386
+Ainsdale Dune Slacks,0,Epilobium_palustre,0.09993337774816789
+Ainsdale Dune Slacks,1,Hydrocotyle_vulgaris,18.945634266886326
+Ainsdale Dune Slacks,1,Salix_repens,16.474464579901152
+Ainsdale Dune Slacks,1,Equisetum_palustre,13.344316309719934
+Ainsdale Dune Slacks,1,Rubus_caesius,8.484349258649095
+Ainsdale Dune Slacks,1,Carex_nigra,7.00164744645799
+Ainsdale Dune Slacks,1,Equisetum_arvense,6.3426688632619435
+Ainsdale Dune Slacks,1,Mentha_aquatica,4.7775947281713345
+Ainsdale Dune Slacks,1,Carex_flacca,3.2125205930807246
+Ainsdale Dune Slacks,1,Pulicaria_dysenterica,3.047775947281713
+Ainsdale Dune Slacks,1,Epipactis_palustris,2.471169686985173
+Ainsdale Dune Slacks,1,Cirsium_palustre,1.9769357495881383
+Ainsdale Dune Slacks,1,Sonchus_arvensis,1.5650741350906094
+Ainsdale Dune Slacks,1,Agrostis_stolonifera,1.4827018121911038
+Ainsdale Dune Slacks,1,Hypericum_tetrapterum,1.3179571663920924
+Ainsdale Dune Slacks,1,Holcus_lanatus,1.2355848434925865
+Ainsdale Dune Slacks,1,Lotus_corniculatus,1.1532125205930808
+Ainsdale Dune Slacks,1,Prunella_vulgaris,0.9884678747940692
+Ainsdale Dune Slacks,1,Brachythecium_rutabulum,0.7413509060955519
+Ainsdale Dune Slacks,1,Lotus_pedunculatus,0.6589785831960462
+Ainsdale Dune Slacks,1,Lysimachia_tenella,0.5766062602965404
+Ainsdale Dune Slacks,2,Equisetum_palustre,25.936599423631122
+Ainsdale Dune Slacks,2,Salix_repens,15.658021133525457
+Ainsdale Dune Slacks,2,Hydrocotyle_vulgaris,13.064361191162345
+Ainsdale Dune Slacks,2,Carex_nigra,9.702209414024976
+Ainsdale Dune Slacks,2,Equisetum_arvense,8.45341018251681
+Ainsdale Dune Slacks,2,Pulicaria_dysenterica,7.396733909702209
+Ainsdale Dune Slacks,2,Rubus_caesius,3.842459173871278
+Ainsdale Dune Slacks,2,Mentha_aquatica,2.97790585975024
+Ainsdale Dune Slacks,2,Carex_flacca,1.729106628242075
+Ainsdale Dune Slacks,2,Juncus_articulatus,1.248799231508165
+Ainsdale Dune Slacks,2,Lotus_pedunculatus,1.1527377521613833
+Ainsdale Dune Slacks,2,Cirsium_arvense,0.9606147934678195
+Ainsdale Dune Slacks,2,Potentilla_mixta,0.9606147934678195
+Ainsdale Dune Slacks,2,Agrostis_stolonifera,0.8645533141210375
+Ainsdale Dune Slacks,2,Ranunculus_repens,0.8645533141210375
+Ainsdale Dune Slacks,2,Arrhenatherum_elatius,0.57636887608069165
+Ainsdale Dune Slacks,2,Holcus_lanatus,0.57636887608069165
+Ainsdale Dune Slacks,2,Lotus_corniculatus,0.48030739673390976
+Ainsdale Dune Slacks,2,Ranunculus_flammula,0.48030739673390976
+Ainsdale Dune Slacks,2,Brachythecium_rutabulum,0.38424591738712777
+Algaida,0,Chaetopogon_fasciculatus,52.88788221970555
+Algaida,0,Leontodon_longirostris,21.177802944507363
+Algaida,0,Vulpia_geniculata,7.701019252548131
+Algaida,0,Plantago_coronopus,3.737259343148358
+Algaida,0,Trifolium_resupinatum,3.2842582106455263
+Algaida,0,Lysimachia_arvensis,2.491506228765572
+Algaida,0,Trifolium_campestre,1.4722536806342015
+Algaida,0,Jacobaea_vulgaris,1.3590033975084939
+Algaida,0,Acis_trichophylla,0.7927519818799547
+Algaida,0,Hypochaeris_glabra,0.7927519818799547
+Algaida,0,Echium_vulgare,0.6795016987542469
+Algaida,0,Spergularia_rubra,0.6795016987542469
+Algaida,0,Lotus_corniculatus,0.5662514156285391
+Algaida,0,Carduus_meonanthus,0.4530011325028313
+Algaida,0,Erodium_moschatum,0.33975084937712347
+Algaida,0,Trifolium_stellatum,0.33975084937712347
+Algaida,0,Bellardia_trixago,0.22650056625141565
+Algaida,0,Cuscuta_epithymum,0.22650056625141565
+Algaida,0,Rumex_bucephalophorus,0.22650056625141565
+Algaida,0,Trifolium_pratense,0.22650056625141565
+Algaida,1,Vulpia_geniculata,37.10349247036206
+Algaida,1,Chaetopogon_fasciculatus,33.963473245754564
+Algaida,1,Plantago_coronopus,17.87888497276514
+Algaida,1,Echium_vulgare,2.56328099967959
+Algaida,1,Leontodon_longirostris,2.4991989746876
+Algaida,1,Lysimachia_arvensis,1.0573534123678308
+Algaida,1,Crepis_capillaris,0.768984299903877
+Algaida,1,Trifolium_campestre,0.768984299903877
+Algaida,1,Jacobaea_vulgaris,0.7049022749118872
+Algaida,1,Lythrum_junceum,0.7049022749118872
+Algaida,1,Trifolium_stellatum,0.4485741749439282
+Algaida,1,Spergularia_rubra,0.3844921499519385
+Algaida,1,Centaurium_erythraea,0.25632809996795897
+Algaida,1,Trifolium_resupinatum,0.19224607497596924
+Algaida,1,Bellardia_trixago,0.12816404998397948
+Algaida,1,Dipcadi_serotinum,0.12816404998397948
+Algaida,1,Sonchus_tenerrimus,0.12816404998397948
+Algaida,1,Acis_trichophylla,0.06408202499198974
+Algaida,1,Briza_minor,0.06408202499198974
+Algaida,1,Bromus_racemosus,0.06408202499198974
+Algaida,1,Heliotropium_europaeum,0.06408202499198974
+Algaida,1,Hypochaeris_glabra,0.06408202499198974
+Algaida,2,Plantago_coronopus,49.9477169745556
+Algaida,2,Vulpia_geniculata,21.29661903102126
+Algaida,2,Leontodon_longirostris,9.759498082955734
+Algaida,2,Echium_vulgare,9.306378529104217
+Algaida,2,Heliotropium_europaeum,3.346113628441966
+Algaida,2,Lysimachia_arvensis,2.997560125479261
+Algaida,2,Hypochaeris_glabra,1.2547926106657372
+Algaida,2,Acis_trichophylla,0.6971070059254095
+Algaida,2,Medicago_littoralis,0.27884280237016384
+Algaida,2,Sonchus_tenerrimus,0.27884280237016384
+Algaida,2,Dipcadi_serotinum,0.20913210177762287
+Algaida,2,Erodium_moschatum,0.13942140118508192
+Algaida,2,Trifolium_campestre,0.13942140118508192
+Algaida,2,Carduus_meonanthus,0.06971070059254096
+Algaida,2,Jacobaea_vulgaris,0.06971070059254096
+Algaida,2,Lythrum_junceum,0.06971070059254096
+Algaida,2,Sherardia_arvensis,0.06971070059254096
+Algaida,2,Spergularia_rubra,0.06971070059254096
+Algaida,3,Plantago_coronopus,41.43059490084986
+Algaida,3,Echium_vulgare,26.133144475920677
+Algaida,3,Leontodon_longirostris,14.23512747875354
+Algaida,3,Lysimachia_arvensis,5.594900849858357
+Algaida,3,Vulpia_geniculata,2.4787535410764874
+Algaida,3,Sonchus_tenerrimus,1.6288951841359773
+Algaida,3,Carduus_meonanthus,1.5580736543909348
+Algaida,3,Narcissus_obsoletus,0.9206798866855523
+Algaida,3,Heliotropium_europaeum,0.84985835694051
+Algaida,3,Erodium_moschatum,0.7790368271954674
+Algaida,3,Trifolium_campestre,0.7790368271954674
+Algaida,3,Centranthus_calcitrapa,0.708215297450425
+Algaida,3,Medicago_littoralis,0.49575070821529743
+Algaida,3,Bellardia_trixago,0.424929178470255
+Algaida,3,Chaetopogon_fasciculatus,0.3541076487252125
+Algaida,3,Dipcadi_serotinum,0.3541076487252125
+Algaida,3,Centaurium_erythraea,0.28328611898017
+Algaida,3,Lotus_corniculatus,0.28328611898017
+Algaida,3,Lythrum_thymifolia,0.28328611898017
+Algaida,3,Ranunculus_repens,0.141643059490085
+Algaida,4,Plantago_coronopus,30.710071639275178
+Algaida,4,Echium_vulgare,26.706700379266753
+Algaida,4,Vulpia_geniculata,18.173198482932996
+Algaida,4,Lysimachia_arvensis,11.999578592498946
+Algaida,4,Carduus_meonanthus,6.278971765697429
+Algaida,4,Erodium_moschatum,1.9174041297935107
+Algaida,4,Leontodon_longirostris,1.5592077538980191
+Algaida,4,Crepis_capillaris,0.9376316898440792
+Algaida,4,Chaetopogon_fasciculatus,0.47408343868520864
+Algaida,4,Hypochaeris_radicata,0.21070375052675938
+Algaida,4,Narcissus_obsoletus,0.18963337547408343
+Algaida,4,Valeriana_calcitrapae,0.18963337547408343
+Algaida,4,Trifolium_campestre,0.15802781289506954
+Algaida,4,Trifolium_stellatum,0.1264222503160556
+Algaida,4,Hypochaeris_glabra,0.11588706278971765
+Algaida,4,Ranunculus_repens,0.10535187526337969
+Algaida,4,Dipcadi_serotinum,0.03160556257901391
+Algaida,4,Lotus_corniculatus,0.03160556257901391
+Algaida,4,Arctotheca_calendula,0.02107037505267594
+Algaida,4,Spergularia_rubra,0.02107037505267594
+Archbold Biological Station,-1,Schizachyrium_rhizomatum,29.701686121919586
+Archbold Biological Station,-1,Quercus_minima,21.33592736705577
+Archbold Biological Station,-1,Hypericum_edisonianum,15.888456549935148
+Archbold Biological Station,-1,Galactia_elliottii,11.997405966277562
+Archbold Biological Station,-1,Pityopsis_graminifolia,3.372243839169909
+Archbold Biological Station,-1,Eupatorium_mohrii,2.594033722438392
+Archbold Biological Station,-1,Carphephorus_carphephorus,2.529182879377432
+Archbold Biological Station,-1,Pterocaulon_pycnostachyum,2.3994811932555127
+Archbold Biological Station,-1,Axonopus_furcatus,2.140077821011673
+Archbold Biological Station,-1,Dichanthelium_webberianum,1.4267185473411155
+Archbold Biological Station,-1,Aristida_stricta,1.297016861219196
+Archbold Biological Station,-1,Gaylussacia_dumosa,0.8430609597924773
+Archbold Biological Station,-1,Euthamia_caroliniana,0.7133592736705577
+Archbold Biological Station,-1,Lyonia_lucida,0.648508430609598
+Archbold Biological Station,-1,Coleataenia_longifolia,0.5836575875486382
+Archbold Biological Station,-1,Liatris_gracilis,0.5188067444876783
+Archbold Biological Station,-1,Serenoa_repens,0.324254215304799
+Archbold Biological Station,-1,Smilax_bona-nox,0.324254215304799
+Archbold Biological Station,-1,Lyonia_fruticosa,0.25940337224383914
+Archbold Biological Station,-1,Cyperus_retrorsus,0.19455252918287938
+Archbold Biological Station,-1,Hypericum_reductum,0.19455252918287938
+Archbold Biological Station,-1,Liatris_tenuifolia,0.19455252918287938
+Archbold Biological Station,0,Schizachyrium_rhizomatum,38.58807402330363
+Archbold Biological Station,0,Quercus_minima,21.04180945853324
+Archbold Biological Station,0,Hypericum_edisonianum,19.945167923235093
+Archbold Biological Station,0,Galactia_elliottii,5.962988348183687
+Archbold Biological Station,0,Carphephorus_carphephorus,1.9876627827278959
+Archbold Biological Station,0,Pityopsis_graminifolia,1.7135023989033584
+Archbold Biological Station,0,Aristida_stricta,1.5078821110349554
+Archbold Biological Station,0,Axonopus_furcatus,1.439342015078821
+Archbold Biological Station,0,Pterocaulon_pycnostachyum,1.0966415352981496
+Archbold Biological Station,0,Serenoa_repens,1.0281014393420151
+Archbold Biological Station,0,Gaylussacia_dumosa,0.822481151473612
+Archbold Biological Station,0,Polygala_rugelii,0.822481151473612
+Archbold Biological Station,0,Eupatorium_mohrii,0.616860863605209
+Archbold Biological Station,0,Ilex_glabra,0.411240575736806
+Archbold Biological Station,0,Dichanthelium_webberianum,0.3427004797806717
+Archbold Biological Station,0,Euthamia_caroliniana,0.3427004797806717
+Archbold Biological Station,0,Hypericum_reductum,0.3427004797806717
+Archbold Biological Station,0,Lyonia_lucida,0.3427004797806717
+Archbold Biological Station,0,Rhexia_mariana,0.3427004797806717
+Archbold Biological Station,0,Smilax_bona-nox,0.3427004797806717
+Archbold Biological Station,1,Schizachyrium_rhizomatum,28.4375
+Archbold Biological Station,1,Dichanthelium_webberianum,17.265625
+Archbold Biological Station,1,Quercus_minima,15.78125
+Archbold Biological Station,1,Hypericum_edisonianum,13.593749999999998
+Archbold Biological Station,1,Galactia_elliottii,4.765625
+Archbold Biological Station,1,Pterocaulon_pycnostachyum,4.609375
+Archbold Biological Station,1,Axonopus_furcatus,2.734375
+Archbold Biological Station,1,Gaylussacia_dumosa,2.1875
+Archbold Biological Station,1,Dichanthelium_glabrifolium,1.953125
+Archbold Biological Station,1,Carphephorus_carphephorus,1.5625
+Archbold Biological Station,1,Eupatorium_mohrii,1.484375
+Archbold Biological Station,1,Serenoa_repens,1.40625
+Archbold Biological Station,1,Coleataenia_longifolia,0.9375
+Archbold Biological Station,1,Hypericum_reductum,0.78125
+Archbold Biological Station,1,Lyonia_lucida,0.546875
+Archbold Biological Station,1,Euthamia_caroliniana,0.46875
+Archbold Biological Station,1,Scleria_reticularis,0.46875
+Archbold Biological Station,1,Oldenlandia_uniflora,0.390625
+Archbold Biological Station,1,Eleocharis_baldwinii,0.15625
+Archbold Biological Station,1,Ludwigia_maritima,0.15625
+Archbold Biological Station,1,Smilax_bona-nox,0.15625
+Archbold Biological Station,3,Dichanthelium_webberianum,21.428571428571427
+Archbold Biological Station,3,Quercus_minima,15.384615384615385
+Archbold Biological Station,3,Eupatorium_mohrii,15.054945054945055
+Archbold Biological Station,3,Schizachyrium_rhizomatum,11.758241758241757
+Archbold Biological Station,3,Galactia_elliottii,11.31868131868132
+Archbold Biological Station,3,Scoparia_dulcis,8.461538461538462
+Archbold Biological Station,3,Pterocaulon_pycnostachyum,2.857142857142857
+Archbold Biological Station,3,Cyperus_retrorsus,2.197802197802198
+Archbold Biological Station,3,Eleocharis_baldwinii,1.4285714285714286
+Archbold Biological Station,3,Coleataenia_longifolia,1.098901098901099
+Archbold Biological Station,3,Dichanthelium_glabrifolium,1.098901098901099
+Archbold Biological Station,3,Hypericum_edisonianum,1.098901098901099
+Archbold Biological Station,3,Scleria_reticularis,0.9890109890109889
+Archbold Biological Station,3,Carphephorus_carphephorus,0.7692307692307693
+Archbold Biological Station,3,Gaylussacia_dumosa,0.7692307692307693
+Archbold Biological Station,3,Oldenlandia_uniflora,0.7692307692307693
+Archbold Biological Station,3,Sabal_palmetto,0.6593406593406593
+Archbold Biological Station,3,Axonopus_furcatus,0.5494505494505495
+Archbold Biological Station,3,Ilex_glabra,0.43956043956043955
+Archbold Biological Station,3,Lyonia_lucida,0.43956043956043955
+Bad Lauchstaedt,-1,Vulpia_myuros,36.07078039927405
+Bad Lauchstaedt,-1,Taraxacum_officinale,15.925589836660617
+Bad Lauchstaedt,-1,Vicia_setifolia,11.116152450090745
+Bad Lauchstaedt,-1,Picris_hieracioides,10.208711433756806
+Bad Lauchstaedt,-1,Vicia_hirsuta,9.573502722323049
+Bad Lauchstaedt,-1,Crepis_biennis,3.221415607985481
+Bad Lauchstaedt,-1,Lolium_perenne,2.041742286751361
+Bad Lauchstaedt,-1,Bromus_sterilis,1.9736842105263157
+Bad Lauchstaedt,-1,Cirsium_arvense,1.5426497277676952
+Bad Lauchstaedt,-1,Bromus_hordeaceus,1.3157894736842104
+Bad Lauchstaedt,-1,Elymus_repens,1.043557168784029
+Bad Lauchstaedt,-1,Tanacetum_vulgare,1.043557168784029
+Bad Lauchstaedt,-1,Trifolium_campestre,0.7032667876588022
+Bad Lauchstaedt,-1,Trifolium_dubium,0.7032667876588022
+Bad Lauchstaedt,-1,Poa_pratensis,0.58983666061706
+Bad Lauchstaedt,-1,Solidago_canadensis,0.5671506352087115
+Bad Lauchstaedt,-1,Achillea_millefolium,0.4764065335753176
+Bad Lauchstaedt,-1,Dactylis_glomerata,0.4083484573502722
+Bad Lauchstaedt,-1,Medicago_lupulina,0.2268602540834846
+Bad Lauchstaedt,-1,Plantago_lanceolata,0.2041742286751361
+Bad Lauchstaedt,0,Vicia_setifolia,24.920534011443102
+Bad Lauchstaedt,0,Picris_hieracioides,23.013350286077557
+Bad Lauchstaedt,0,Taraxacum_officinale,15.554142826870098
+Bad Lauchstaedt,0,Vulpia_myuros,13.901250264886627
+Bad Lauchstaedt,0,Crepis_biennis,3.6448400084763724
+Bad Lauchstaedt,0,Lolium_perenne,2.733630006357279
+Bad Lauchstaedt,0,Vicia_hirsuta,2.5005297732570457
+Bad Lauchstaedt,0,Cirsium_arvense,1.7164653528289893
+Bad Lauchstaedt,0,Tanacetum_vulgare,1.5257469802924348
+Bad Lauchstaedt,0,Dactylis_glomerata,1.313837677474041
+Bad Lauchstaedt,0,Elymus_repens,1.1443102352193262
+Bad Lauchstaedt,0,Poa_pratensis,1.080737444373808
+Bad Lauchstaedt,0,Achillea_millefolium,0.8900190718372537
+Bad Lauchstaedt,0,Solidago_canadensis,0.7628734901462174
+Bad Lauchstaedt,0,Trifolium_dubium,0.5509641873278237
+Bad Lauchstaedt,0,Veronica_arvensis,0.5085823267641449
+Bad Lauchstaedt,0,Cerastium_fontanum,0.48739139648230556
+Bad Lauchstaedt,0,Plantago_lanceolata,0.4662004662004662
+Bad Lauchstaedt,0,Bromus_sterilis,0.42381860563678747
+Bad Lauchstaedt,0,Trifolium_campestre,0.42381860563678747
+Bad Lauchstaedt,1,Picris_hieracioides,20.35609885729471
+Bad Lauchstaedt,1,Vulpia_myuros,19.771458942333243
+Bad Lauchstaedt,1,Taraxacum_officinale,15.20063778899814
+Bad Lauchstaedt,1,Vicia_setifolia,7.49402072814244
+Bad Lauchstaedt,1,Trifolium_campestre,5.474355567366463
+Bad Lauchstaedt,1,Vicia_hirsuta,4.996013818761626
+Bad Lauchstaedt,1,Lolium_perenne,3.85330853042785
+Bad Lauchstaedt,1,Papaver_rhoeas,2.9231995748073345
+Bad Lauchstaedt,1,Fallopia_convolvulus,2.8700504916290193
+Bad Lauchstaedt,1,Dactylis_glomerata,1.8867924528301887
+Bad Lauchstaedt,1,Cirsium_arvense,1.674196120116928
+Bad Lauchstaedt,1,Elymus_repens,1.6476215785277704
+Bad Lauchstaedt,1,Tanacetum_vulgare,1.6210470369386127
+Bad Lauchstaedt,1,Crepis_biennis,1.4881743289928249
+Bad Lauchstaedt,1,Poa_pratensis,1.0098325803879882
+Bad Lauchstaedt,1,Plantago_lanceolata,0.8503853308530427
+Bad Lauchstaedt,1,Bromus_hordeaceus,0.7175126229072548
+Bad Lauchstaedt,1,Achillea_millefolium,0.6909380813180973
+Bad Lauchstaedt,1,Cerastium_fontanum,0.6377889981397821
+Bad Lauchstaedt,1,Descurainia_sophia,0.6112144565506245
+Bad Lauchstaedt,2,Vulpia_myuros,13.837670170601413
+Bad Lauchstaedt,2,Taraxacum_officinale,13.613648113044977
+Bad Lauchstaedt,2,Vicia_setifolia,9.236601757711528
+Bad Lauchstaedt,2,Picris_hieracioides,8.685162846803378
+Bad Lauchstaedt,2,Papaver_rhoeas,7.513355161123557
+Bad Lauchstaedt,2,Vicia_hirsuta,5.376529381354471
+Bad Lauchstaedt,2,Crepis_biennis,5.135274857832156
+Bad Lauchstaedt,2,Capsella_bursa-pastoris,5.049112528002757
+Bad Lauchstaedt,2,Lolium_perenne,4.721695674651043
+Bad Lauchstaedt,2,Trifolium_campestre,3.8428399103911772
+Bad Lauchstaedt,2,Elymus_repens,3.3086334654489056
+Bad Lauchstaedt,2,Dactylis_glomerata,2.929519214199552
+Bad Lauchstaedt,2,Tanacetum_vulgare,2.085128381871446
+Bad Lauchstaedt,2,Veronica_persica,2.0334309839738065
+Bad Lauchstaedt,2,Descurainia_sophia,1.895571256246769
+Bad Lauchstaedt,2,Cirsium_arvense,1.4130622092021368
+Bad Lauchstaedt,2,Poa_pratensis,1.1028778218163018
+Bad Lauchstaedt,2,Plantago_lanceolata,1.0167154919869033
+Bad Lauchstaedt,2,Polygonum_aviculare,0.9650180940892641
+Bad Lauchstaedt,2,Achillea_millefolium,0.8788557642598656
+Bad Lauchstaedt,3,Lolium_perenne,12.189110463813577
+Bad Lauchstaedt,3,Picris_hieracioides,10.710284561953841
+Bad Lauchstaedt,3,Taraxacum_officinale,10.441407125252072
+Bad Lauchstaedt,3,Vicia_hirsuta,8.290387631637913
+Bad Lauchstaedt,3,Elymus_repens,7.752632758234372
+Bad Lauchstaedt,3,Trifolium_campestre,7.058032713421465
+Bad Lauchstaedt,3,Papaver_rhoeas,5.153484203450594
+Bad Lauchstaedt,3,Dactylis_glomerata,4.862200313690343
+Bad Lauchstaedt,3,Crepis_biennis,4.660542236164015
+Bad Lauchstaedt,3,Vulpia_myuros,4.481290611696168
+Bad Lauchstaedt,3,Poa_pratensis,3.092090522070356
+Bad Lauchstaedt,3,Plantago_lanceolata,2.6439614609007394
+Bad Lauchstaedt,3,Tanacetum_vulgare,2.6439614609007394
+Bad Lauchstaedt,3,Calamagrostis_epigejos,1.5236388079766972
+Bad Lauchstaedt,3,Achillea_millefolium,1.4116065426842932
+Bad Lauchstaedt,3,Cirsium_arvense,1.2547613712749273
+Bad Lauchstaedt,3,Vicia_setifolia,1.2323549182164464
+Bad Lauchstaedt,3,Bromus_sterilis,1.008290387631638
+Bad Lauchstaedt,3,Polygonum_aviculare,1.008290387631638
+Bad Lauchstaedt,3,Cerastium_fontanum,0.9634774815146763
+Bayreuth DRAGNet,0,Festuca_rubra,22.465613856342333
+Bayreuth DRAGNet,0,Alopecurus_pratensis,10.035659704533877
+Bayreuth DRAGNet,0,Pilosella_piloselloides,8.201732042791646
+Bayreuth DRAGNet,0,Galium_album,6.571574121242996
+Bayreuth DRAGNet,0,Centaurea_jacea,5.450840550178299
+Bayreuth DRAGNet,0,Hypochaeris_radicata,4.177279673968416
+Bayreuth DRAGNet,0,Arrhenatherum_elatius,4.126337238920021
+Bayreuth DRAGNet,0,Pilosella_aurantiaca,3.922567498726439
+Bayreuth DRAGNet,0,Luzula_campestris,3.0056036678553237
+Bayreuth DRAGNet,0,Knautia_arvensis,2.547121752419766
+Bayreuth DRAGNet,0,Dactylis_glomerata,2.49617931737137
+Bayreuth DRAGNet,0,Trifolium_pratense,2.088639836984208
+Bayreuth DRAGNet,0,Poa_pratensis,1.9867549668874174
+Bayreuth DRAGNet,0,Anthoxanthum_odoratum,1.935812531839022
+Bayreuth DRAGNet,0,Leucanthemum_ircutianum,1.782985226693836
+Bayreuth DRAGNet,0,Holcus_lanatus,1.63015792154865
+Bayreuth DRAGNet,0,Vicia_sepium,1.5792154865002548
+Bayreuth DRAGNet,0,Vicia_hirsuta,1.5282730514518594
+Bayreuth DRAGNet,0,Rumex_acetosa,1.4263881813550687
+Bayreuth DRAGNet,0,Agrostis_capillaris,1.273560876209883
+Bayreuth DRAGNet,0,Ranunculus_acris,1.273560876209883
+Bayreuth DRAGNet,1,Festuca_rubra,17.52700482851312
+Bayreuth DRAGNet,1,Cerastium_fontanum,11.419184628403606
+Bayreuth DRAGNet,1,Holcus_lanatus,8.4673204241127
+Bayreuth DRAGNet,1,Galium_album,5.873861317138734
+Bayreuth DRAGNet,1,Knautia_arvensis,5.873861317138734
+Bayreuth DRAGNet,1,Pilosella_piloselloides,5.624968888446415
+Bayreuth DRAGNet,1,Anthoxanthum_odoratum,4.679177659415601
+Bayreuth DRAGNet,1,Plantago_lanceolata,4.430285230723282
+Bayreuth DRAGNet,1,Trifolium_pratense,4.236149136343273
+Bayreuth DRAGNet,1,Arrhenatherum_elatius,3.5392503360047787
+Bayreuth DRAGNet,1,Dactylis_glomerata,2.8373736870924393
+Bayreuth DRAGNet,1,Centaurea_jacea,2.6382597441385838
+Bayreuth DRAGNet,1,Leucanthemum_ircutianum,2.3395888297078007
+Bayreuth DRAGNet,1,Rumex_acetosa,2.240031858230873
+Bayreuth DRAGNet,1,Ranunculus_acris,2.190253372492409
+Bayreuth DRAGNet,1,Hypochaeris_radicata,1.7920254865846985
+Bayreuth DRAGNet,1,Pilosella_aurantiaca,1.5431330578923792
+Bayreuth DRAGNet,1,Luzula_campestris,1.4933545721539154
+Bayreuth DRAGNet,1,Trisetum_flavescens,1.1996615062969789
+Bayreuth DRAGNet,1,Alopecurus_pratensis,1.1548608691323614
+Bayreuth DRAGNet,2,Cerastium_fontanum,19.842135327413416
+Bayreuth DRAGNet,2,Festuca_rubra,15.994183933115236
+Bayreuth DRAGNet,2,Holcus_lanatus,12.099496287064449
+Bayreuth DRAGNet,2,Hypochaeris_radicata,6.548268162226726
+Bayreuth DRAGNet,2,Plantago_lanceolata,6.439216908137303
+Bayreuth DRAGNet,2,Galium_album,4.465908500804903
+Bayreuth DRAGNet,2,Pilosella_piloselloides,4.310120994962872
+Bayreuth DRAGNet,2,Knautia_arvensis,4.154333489120841
+Bayreuth DRAGNet,2,Arrhenatherum_elatius,3.7440930570701574
+Bayreuth DRAGNet,2,Trifolium_pratense,3.2248013709300527
+Bayreuth DRAGNet,2,Scorzoneroides_autumnalis,2.8041751051565673
+Bayreuth DRAGNet,2,Centaurea_jacea,2.7522459365425567
+Bayreuth DRAGNet,2,Anthoxanthum_odoratum,2.4977930103339054
+Bayreuth DRAGNet,2,Luzula_campestris,1.5578750584203152
+Bayreuth DRAGNet,2,Dactylis_glomerata,1.5059458898063047
+Bayreuth DRAGNet,2,Trisetum_flavescens,1.1995637949836429
+Bayreuth DRAGNet,2,Ranunculus_acris,0.9866542036661997
+Bayreuth DRAGNet,2,Trifolium_repens,0.9866542036661997
+Bayreuth DRAGNet,2,Alopecurus_pratensis,0.8360596146855692
+Bayreuth DRAGNet,2,Leucanthemum_ircutianum,0.5192916861401051
+Bayreuth DRAGNet,2,Taraxacum_campylodes,0.5192916861401051
+Bayreuth DRAGNet,3,Festuca_rubra,26.30995901185334
+Bayreuth DRAGNet,3,Holcus_lanatus,16.290018832391723
+Bayreuth DRAGNet,3,Cerastium_fontanum,13.686717624903075
+Bayreuth DRAGNet,3,Centaurea_jacea,6.6633433034230665
+Bayreuth DRAGNet,3,Trisetum_flavescens,6.0928326132713
+Bayreuth DRAGNet,3,Knautia_arvensis,4.985044865403791
+Bayreuth DRAGNet,3,Hypochaeris_radicata,4.375761604076661
+Bayreuth DRAGNet,3,Galium_album,4.010191647280382
+Bayreuth DRAGNet,3,Plantago_lanceolata,3.661238506702117
+Bayreuth DRAGNet,3,Arrhenatherum_elatius,2.880248144455524
+Bayreuth DRAGNet,3,Anthoxanthum_odoratum,2.0050958236401915
+Bayreuth DRAGNet,3,Luzula_campestris,1.3847346848343864
+Bayreuth DRAGNet,3,Dactylis_glomerata,1.107787747867509
+Bayreuth DRAGNet,3,Trifolium_pratense,0.9471585244267203
+Bayreuth DRAGNet,3,Alopecurus_pratensis,0.7754514235072564
+Bayreuth DRAGNet,3,Cardamine_pratensis,0.5594328126730921
+Bayreuth DRAGNet,3,Cynosurus_cristatus,0.4486540378863412
+Bayreuth DRAGNet,3,Pilosella_aurantiaca,0.44311509914700364
+Bayreuth DRAGNet,3,Vicia_hirsuta,0.3877257117536282
+Bayreuth DRAGNet,3,Vicia_sepium,0.3877257117536282
+Bayreuth DRAGNet,4,Holcus_lanatus,34.86936844270726
+Bayreuth DRAGNet,4,Festuca_rubra,16.920386751697187
+Bayreuth DRAGNet,4,Plantago_lanceolata,7.405883563052871
+Bayreuth DRAGNet,4,Centaurea_jacea,5.502982925324009
+Bayreuth DRAGNet,4,Galium_album,4.284097922238224
+Bayreuth DRAGNet,4,Trifolium_pratense,4.217239251182885
+Bayreuth DRAGNet,4,Trifolium_repens,4.068092984982514
+Bayreuth DRAGNet,4,Dactylis_glomerata,2.1086196255914427
+Bayreuth DRAGNet,4,Arrhenatherum_elatius,2.010903106356717
+Bayreuth DRAGNet,4,Luzula_campestris,1.9543303846945077
+Bayreuth DRAGNet,4,Knautia_arvensis,1.9029006377288629
+Bayreuth DRAGNet,4,Scorzoneroides_autumnalis,1.9029006377288629
+Bayreuth DRAGNet,4,Anthoxanthum_odoratum,1.8514708907632178
+Bayreuth DRAGNet,4,Trisetum_flavescens,1.8514708907632178
+Bayreuth DRAGNet,4,Hypochaeris_radicata,1.542892408969348
+Bayreuth DRAGNet,4,Achillea_millefolium,1.4400329150380582
+Bayreuth DRAGNet,4,Pilosella_piloselloides,1.4400329150380582
+Bayreuth DRAGNet,4,Agrostis_capillaris,0.771446204484674
+Bayreuth DRAGNet,4,Leucanthemum_ircutianum,0.4114379757251595
+Bayreuth DRAGNet,4,Lotus_corniculatus,0.36000822875951455
+Bladen Lakes State Forest,0,Vaccinium_tenellum,40.909090909090914
+Bladen Lakes State Forest,0,Gelsemium_sempervirens,34.40082644628099
+Bladen Lakes State Forest,0,Aristida_stricta,7.43801652892562
+Bladen Lakes State Forest,0,Panicum_acuminatum,4.75206611570248
+Bladen Lakes State Forest,0,Vaccinium_crassifolium,3.4090909090909087
+Bladen Lakes State Forest,0,Stipulicida_setacea,2.479338842975207
+Bladen Lakes State Forest,0,Ilex_glabra,2.37603305785124
+Bladen Lakes State Forest,0,Lyonia_mariana,1.2396694214876034
+Bladen Lakes State Forest,0,Morella_cerifera,0.7231404958677686
+Bladen Lakes State Forest,0,Clethra_alnifolia,0.5165289256198348
+Bladen Lakes State Forest,0,Rhexia_alifanus,0.5165289256198348
+Bladen Lakes State Forest,0,Panicum_commutatum,0.4132231404958678
+Bladen Lakes State Forest,0,Smilax_glauca,0.4132231404958678
+Bladen Lakes State Forest,0,Pinus_palustris,0.30991735537190085
+Bladen Lakes State Forest,0,Carphephorus_bellidifolius,0.10330578512396695
+Bladen Lakes State Forest,1,Vaccinium_tenellum,30.84603258013663
+Bladen Lakes State Forest,1,Gelsemium_sempervirens,27.74566473988439
+Bladen Lakes State Forest,1,Panicum_acuminatum,9.668943772990016
+Bladen Lakes State Forest,1,Stipulicida_setacea,5.622700998423542
+Bladen Lakes State Forest,1,Vaccinium_crassifolium,4.939569101418813
+Bladen Lakes State Forest,1,Andropogon_virginicus,3.783499737256963
+Bladen Lakes State Forest,1,Ilex_glabra,3.6258539148712563
+Bladen Lakes State Forest,1,Lyonia_mariana,3.520756699947451
+Bladen Lakes State Forest,1,Panicum_commutatum,3.25801366263794
+Bladen Lakes State Forest,1,Eupatorium_capillifolium,1.8392012611665791
+Bladen Lakes State Forest,1,Aristida_stricta,1.2611665790856543
+Bladen Lakes State Forest,1,Pinus_palustris,0.6831318970047293
+Bladen Lakes State Forest,1,Eupatorium_compositifolium,0.6305832895428272
+Bladen Lakes State Forest,1,Sporobolus_pinetorum,0.42038885969521805
+Bladen Lakes State Forest,1,Clethra_alnifolia,0.36784025223331585
+Bladen Lakes State Forest,1,Rhexia_alifanus,0.3152916447714136
+Bladen Lakes State Forest,1,Smilax_glauca,0.3152916447714136
+Bladen Lakes State Forest,1,Liatris_cokeri,0.2627430373095113
+Bladen Lakes State Forest,1,Baccharis_halimifolia,0.21019442984760903
+Bladen Lakes State Forest,1,Hypericum_gentianoides,0.21019442984760903
+Bladen Lakes State Forest,2,Vaccinium_tenellum,25.275827482447344
+Bladen Lakes State Forest,2,Gelsemium_sempervirens,24.473420260782348
+Bladen Lakes State Forest,2,Panicum_acuminatum,11.183550651955867
+Bladen Lakes State Forest,2,Lobelia_nuttallii,7.3219658976930795
+Bladen Lakes State Forest,2,Stipulicida_setacea,5.416248746238716
+Bladen Lakes State Forest,2,Vaccinium_crassifolium,4.964894684052156
+Bladen Lakes State Forest,2,Lyonia_mariana,4.714142427281845
+Bladen Lakes State Forest,2,Panicum_commutatum,3.3099297893681046
+Bladen Lakes State Forest,2,Morella_cerifera,2.507522567703109
+Bladen Lakes State Forest,2,Andropogon_virginicus,2.106318956870612
+Bladen Lakes State Forest,2,Hypericum_gentianoides,1.4042126379137412
+Bladen Lakes State Forest,2,Pinus_palustris,1.2036108324974923
+Bladen Lakes State Forest,2,Clethra_alnifolia,0.9528585757271816
+Bladen Lakes State Forest,2,Cyperus_croceus,0.8525576730190572
+Bladen Lakes State Forest,2,Aristida_stricta,0.802407221664995
+Bladen Lakes State Forest,2,Eupatorium_capillifolium,0.7522567703109327
+Bladen Lakes State Forest,2,Eupatorium_compositifolium,0.7522567703109327
+Bladen Lakes State Forest,2,Juncus_effusus,0.7522567703109327
+Bladen Lakes State Forest,2,Sporobolus_pinetorum,0.6519558676028084
+Bladen Lakes State Forest,2,Rhexia_alifanus,0.20060180541624875
+Bladen Lakes State Forest,3,Vaccinium_tenellum,35.667034178610805
+Bladen Lakes State Forest,3,Gelsemium_sempervirens,27.56339581036384
+Bladen Lakes State Forest,3,Panicum_acuminatum,10.363836824696802
+Bladen Lakes State Forest,3,Stipulicida_setacea,9.371554575523705
+Bladen Lakes State Forest,3,Vaccinium_crassifolium,5.237045203969129
+Bladen Lakes State Forest,3,Lobelia_nuttallii,2.9217199558985665
+Bladen Lakes State Forest,3,Ilex_glabra,2.3153252480705624
+Bladen Lakes State Forest,3,Pinus_palustris,1.8191841234840134
+Bladen Lakes State Forest,3,Aristida_stricta,1.3781697905181918
+Bladen Lakes State Forest,3,Cyperus_croceus,1.3781697905181918
+Bladen Lakes State Forest,3,Clethra_alnifolia,0.8269018743109152
+Bladen Lakes State Forest,3,Pinus_taeda,0.33076074972436603
+Bladen Lakes State Forest,3,Carphephorus_bellidifolius,0.27563395810363833
+Bladen Lakes State Forest,3,Rhexia_alifanus,0.2205071664829107
+Bladen Lakes State Forest,3,Eupatorium_compositifolium,0.16538037486218302
+Bladen Lakes State Forest,3,Morella_cerifera,0.05512679162072767
+Bladen Lakes State Forest,3,Smilax_glauca,0.05512679162072767
+Bladen Lakes State Forest,3,Sporobolus_pinetorum,0.05512679162072767
+Bladen Lakes State Forest,4,Vaccinium_tenellum,30.994152046783626
+Bladen Lakes State Forest,4,Gelsemium_sempervirens,25
+Bladen Lakes State Forest,4,Dichanthelium_sabulorum,16.910331384015596
+Bladen Lakes State Forest,4,Stipulicida_setacea,6.578947368421052
+Bladen Lakes State Forest,4,Lyonia_mariana,3.6062378167641325
+Bladen Lakes State Forest,4,Vaccinium_crassifolium,3.2651072124756335
+Bladen Lakes State Forest,4,Cyperus_croceus,2.9727095516569197
+Bladen Lakes State Forest,4,Gaylussacia_frondosa,2.3391812865497075
+Bladen Lakes State Forest,4,Nuttallanthus_canadensis,1.9980506822612085
+Bladen Lakes State Forest,4,Pinus_palustris,1.7543859649122806
+Bladen Lakes State Forest,4,Clethra_alnifolia,1.2183235867446394
+Bladen Lakes State Forest,4,Ilex_glabra,1.1695906432748537
+Bladen Lakes State Forest,4,Aristida_stricta,0.682261208576998
+Bladen Lakes State Forest,4,Pinus_taeda,0.5360623781676412
+Bladen Lakes State Forest,4,Carphephorus_bellidifolius,0.29239766081871343
+Bladen Lakes State Forest,4,Andropogon_virginicus,0.1949317738791423
+Bladen Lakes State Forest,4,Lupinus_diffusus,0.1949317738791423
+Bladen Lakes State Forest,4,Rhexia_alifanus,0.1949317738791423
+Bladen Lakes State Forest,4,Krigia_virginica,0.04873294346978557
+Bladen Lakes State Forest,4,Panicum_acuminatum,0.04873294346978557
+Blandy Experimental Farm,-1,Galium_verum,24.308300395256918
+Blandy Experimental Farm,-1,Solanum_carolinense,21.83794466403162
+Blandy Experimental Farm,-1,Carduus_acanthoides,20.059288537549406
+Blandy Experimental Farm,-1,Linaria_vulgaris,10.474308300395258
+Blandy Experimental Farm,-1,Asclepias_syriaca,9.189723320158102
+Blandy Experimental Farm,-1,Nepeta_cataria,3.458498023715415
+Blandy Experimental Farm,-1,Cirsium_arvense,2.9644268774703555
+Blandy Experimental Farm,-1,Verbascum_thapsus,2.4703557312252964
+Blandy Experimental Farm,-1,Symphoricarpos_orbiculatus,2.272727272727273
+Blandy Experimental Farm,-1,Celastrus_orbiculatus,1.9762845849802373
+Blandy Experimental Farm,-1,Apocynum_cannabinum,0.9881422924901186
+Blandy Experimental Farm,0,Solanum_carolinense,30.46594982078853
+Blandy Experimental Farm,0,Cirsium_arvense,18.064516129032256
+Blandy Experimental Farm,0,Galium_verum,16.344086021505376
+Blandy Experimental Farm,0,Asclepias_syriaca,13.476702508960573
+Blandy Experimental Farm,0,Centaurea_stoebe,5.376344086021505
+Blandy Experimental Farm,0,Symphoricarpos_orbiculatus,4.659498207885305
+Blandy Experimental Farm,0,Linaria_vulgaris,4.444444444444445
+Blandy Experimental Farm,0,Nepeta_cataria,2.3655913978494625
+Blandy Experimental Farm,0,Cirsium_vulgare,1.4336917562724014
+Blandy Experimental Farm,0,Celastrus_orbiculatus,1.146953405017921
+Blandy Experimental Farm,0,Rhamnus_davurica,0.7168458781362007
+Blandy Experimental Farm,0,Apocynum_cannabinum,0.6451612903225806
+Blandy Experimental Farm,0,Carex_tenera,0.35842293906810035
+Blandy Experimental Farm,0,Solanum_americanum,0.2867383512544803
+Blandy Experimental Farm,0,Allium_vineale,0.21505376344086022
+Blandy Experimental Farm,1,Cirsium_arvense,19.886363636363637
+Blandy Experimental Farm,1,Festuca_arundinacea,17.329545454545457
+Blandy Experimental Farm,1,Solanum_carolinense,12.180397727272728
+Blandy Experimental Farm,1,Poa_pratensis,9.090909090909092
+Blandy Experimental Farm,1,Galium_verum,5.46875
+Blandy Experimental Farm,1,Verbascum_thapsus,5.326704545454546
+Blandy Experimental Farm,1,Asclepias_syriaca,4.6164772727272725
+Blandy Experimental Farm,1,Cyperus_esculentus,4.083806818181818
+Blandy Experimental Farm,1,Eleusine_indica,3.196022727272727
+Blandy Experimental Farm,1,Linaria_vulgaris,2.911931818181818
+Blandy Experimental Farm,1,Symphoricarpos_orbiculatus,2.237215909090909
+Blandy Experimental Farm,1,Carex_muehlenbergii,2.024147727272727
+Blandy Experimental Farm,1,Physalis_virginiana,1.6335227272727273
+Blandy Experimental Farm,1,Nepeta_cataria,1.5269886363636365
+Blandy Experimental Farm,1,Sorghastrum_nutans,1.3494318181818181
+Blandy Experimental Farm,1,Celastrus_orbiculatus,1.2428977272727273
+Blandy Experimental Farm,1,Trifolium_repens,0.9943181818181818
+Blandy Experimental Farm,1,Centaurea_stoebe,0.8877840909090909
+Blandy Experimental Farm,1,Erysimum_cheiranthoides,0.78125
+Blandy Experimental Farm,1,Physalis_heterophylla,0.7102272727272727
+CEREEP - Ecotron IDF,1,Anthoxanthum_odoratum,44.229607250755286
+CEREEP - Ecotron IDF,1,Daucus_carota,8.459214501510575
+CEREEP - Ecotron IDF,1,Carex_divulsa,8.398791540785497
+CEREEP - Ecotron IDF,1,Plantago_lanceolata,6.88821752265861
+CEREEP - Ecotron IDF,1,Bromus_hordeaceus,3.8670694864048336
+CEREEP - Ecotron IDF,1,Luzula_campestris,2.9607250755287007
+CEREEP - Ecotron IDF,1,Rumex_acetosella,2.719033232628399
+CEREEP - Ecotron IDF,1,Convolvulus_arvensis,2.4773413897280965
+CEREEP - Ecotron IDF,1,Picris_hieracioides,2.4773413897280965
+CEREEP - Ecotron IDF,1,Poa_pratensis,2.416918429003021
+CEREEP - Ecotron IDF,1,Erodium_cicutarium,1.9939577039274923
+CEREEP - Ecotron IDF,1,Hieracium_umbellatum,1.6918429003021147
+CEREEP - Ecotron IDF,1,Hypericum_perforatum,1.2688821752265862
+CEREEP - Ecotron IDF,1,Avenula_pubescens,1.2084592145015105
+CEREEP - Ecotron IDF,1,Potentilla_grandiflora,0.906344410876133
+CEREEP - Ecotron IDF,1,Rumex_acetosa,0.906344410876133
+CEREEP - Ecotron IDF,1,Veronica_arvensis,0.8459214501510574
+CEREEP - Ecotron IDF,1,Hypochaeris_radicata,0.7250755287009063
+CEREEP - Ecotron IDF,1,Poa_trivialis,0.7250755287009063
+CEREEP - Ecotron IDF,1,Geranium_molle,0.6042296072507553
+CEREEP - Ecotron IDF,2,Anthoxanthum_odoratum,18.712085860942604
+CEREEP - Ecotron IDF,2,Agrostis_capillaris,13.579094727018198
+CEREEP - Ecotron IDF,2,Erodium_cicutarium,10.17265515632291
+CEREEP - Ecotron IDF,2,Plantago_lanceolata,9.846010265982267
+CEREEP - Ecotron IDF,2,Bromus_hordeaceus,4.619692020531964
+CEREEP - Ecotron IDF,2,Poa_trivialis,4.013065795613626
+CEREEP - Ecotron IDF,2,Carex_divulsa,3.873075128324778
+CEREEP - Ecotron IDF,2,Convolvulus_arvensis,3.6864209052729815
+CEREEP - Ecotron IDF,2,Daucus_carota,3.5930937937470833
+CEREEP - Ecotron IDF,2,Arrhenatherum_elatius,2.2865142323845076
+CEREEP - Ecotron IDF,2,Holcus_lanatus,2.2865142323845076
+CEREEP - Ecotron IDF,2,Hypericum_perforatum,2.2865142323845076
+CEREEP - Ecotron IDF,2,Bromus_erectus,2.2398506766215585
+CEREEP - Ecotron IDF,2,Rubus_fruticosus,2.099860009332711
+CEREEP - Ecotron IDF,2,Chenopodium_album,1.3532431171255248
+CEREEP - Ecotron IDF,2,Poa_pratensis,0.979934671021932
+CEREEP - Ecotron IDF,2,Potentilla_argentea,0.979934671021932
+CEREEP - Ecotron IDF,2,Hieracium_umbellatum,0.9332711152589827
+CEREEP - Ecotron IDF,2,Trifolium_repens,0.9332711152589827
+CEREEP - Ecotron IDF,2,Trifolium_campestre,0.7466168922071862
+CEREEP - Ecotron IDF,2,Vicia_hirsuta,0.7466168922071862
+CEREEP - Ecotron IDF,3,Anthoxanthum_odoratum,27.25480532281912
+CEREEP - Ecotron IDF,3,Bromus_hordeaceus,12.12419911286348
+CEREEP - Ecotron IDF,3,Agrostis_capillaris,12.025628388368654
+CEREEP - Ecotron IDF,3,Poa_pratensis,6.752094627895515
+CEREEP - Ecotron IDF,3,Plantago_lanceolata,5.519960571710202
+CEREEP - Ecotron IDF,3,Daucus_carota,4.829965500246427
+CEREEP - Ecotron IDF,3,Poa_annua,4.139970428782651
+CEREEP - Ecotron IDF,3,Convolvulus_arvensis,2.562838836865451
+CEREEP - Ecotron IDF,3,Arrhenatherum_elatius,2.464268112370626
+CEREEP - Ecotron IDF,3,Carex_divulsa,2.3656973878758008
+CEREEP - Ecotron IDF,3,Trifolium_arvense,1.7496303597831446
+CEREEP - Ecotron IDF,3,Rubus_fruticosus,1.232134056185313
+CEREEP - Ecotron IDF,3,Chenopodium_album,1.0842779694430755
+CEREEP - Ecotron IDF,3,Holcus_lanatus,0.9857072449482503
+CEREEP - Ecotron IDF,3,Luzula_campestris,0.9857072449482503
+CEREEP - Ecotron IDF,3,Picris_hieracioides,0.9857072449482503
+CEREEP - Ecotron IDF,3,Crepis_capillaris,0.8378511582060127
+CEREEP - Ecotron IDF,3,Erigeron_canadensis,0.7392804337111878
+CEREEP - Ecotron IDF,3,Hieracium_umbellatum,0.7392804337111878
+CEREEP - Ecotron IDF,3,Hypericum_perforatum,0.6899950714637753
+Caracoles,0,Leontodon_maroccanus,37.41573033707865
+Caracoles,0,Hordeum_marinum,35.168539325842694
+Caracoles,0,Scorzonera_laciniata,6.741573033707865
+Caracoles,0,Melilotus_elegans,5.168539325842696
+Caracoles,0,Plantago_coronopus,3.707865168539326
+Caracoles,0,Centaurium_tenuiflorum,3.5955056179775284
+Caracoles,0,Beta_macrocarpa,2.134831460674157
+Caracoles,0,Chamaemelum_fuscatum,2.0224719101123596
+Caracoles,0,Melilotus_sulcatus,1.6853932584269662
+Caracoles,0,Polypogon_maritimus,1.0112359550561798
+Caracoles,0,Cladanthus_mixtus,0.5617977528089888
+Caracoles,0,Ranunculus_muricatus,0.5617977528089888
+Caracoles,0,Lolium_rigidum,0.22471910112359553
+Caracoles,1,Beta_macrocarpa,51.715374841168995
+Caracoles,1,Chenopodium_album,21.346886912325285
+Caracoles,1,Leontodon_maroccanus,10.419313850063533
+Caracoles,1,Scorzonera_laciniata,7.369758576874205
+Caracoles,1,Hordeum_marinum,4.066073697585769
+Caracoles,1,Plantago_coronopus,1.9059720457433291
+Caracoles,1,Salsola_soda,1.5247776365946633
+Caracoles,1,Parapholis_incurva,1.2706480304955527
+Caracoles,1,Spergularia_rubra,0.3811944091486658
+Caracoles,2,Beta_macrocarpa,30.711610486891384
+Caracoles,2,Leontodon_maroccanus,14.756554307116104
+Caracoles,2,Hordeum_marinum,14.606741573033707
+Caracoles,2,Spergularia_rubra,8.98876404494382
+Caracoles,2,Scorzonera_laciniata,8.389513108614233
+Caracoles,2,Parapholis_incurva,7.490636704119851
+Caracoles,2,Chamaemelum_fuscatum,7.116104868913857
+Caracoles,2,Polypogon_maritimus,3.3707865168539324
+Caracoles,2,Lolium_rigidum,2.247191011235955
+Caracoles,2,Plantago_coronopus,1.647940074906367
+Caracoles,2,Centaurium_tenuiflorum,0.37453183520599254
+Caracoles,2,Cladanthus_mixtus,0.149812734082397
+Caracoles,2,Lysimachia_arvensis,0.149812734082397
+Caracoles,3,Beta_macrocarpa,42.53835425383542
+Caracoles,3,Scorzonera_laciniata,17.573221757322173
+Caracoles,3,Chamaemelum_fuscatum,16.736401673640167
+Caracoles,3,Hordeum_marinum,15.481171548117153
+Caracoles,3,Parapholis_incurva,3.765690376569038
+Caracoles,3,Cladanthus_mixtus,2.092050209205021
+Caracoles,3,Plantago_coronopus,1.2552301255230125
+Caracoles,3,Lolium_rigidum,0.2789400278940028
+Caracoles,3,Polypogon_maritimus,0.2789400278940028
+Cary IES,0,Poa_pratensis,31.309297912713475
+Cary IES,0,Monarda_fistulosa,11.195445920303605
+Cary IES,0,Toxicodendron_radicans,10.86337760910816
+Cary IES,0,Anthoxanthum_odoratum,9.250474383301707
+Cary IES,0,Bromus_inermis,7.447817836812145
+Cary IES,0,Lolium_pratense,7.447817836812145
+Cary IES,0,Dactylis_glomerata,5.692599620493358
+Cary IES,0,Clinopodium_vulgare,3.225806451612903
+Cary IES,0,Centaurea_stoebe,3.178368121442125
+Cary IES,0,Glechoma_hederacea,3.0834914611005693
+Cary IES,0,Elymus_repens,2.846299810246679
+Cary IES,0,Achillea_millefolium,2.1347248576850095
+Cary IES,0,Vincetoxicum_nigrum,0.9487666034155597
+Cary IES,0,Parthenocissus_quinquefolia,0.4269449715370019
+Cary IES,0,Rosa_multiflora,0.3795066413662239
+Cary IES,0,Schizachyrium_scoparium,0.23719165085388993
+Cary IES,0,Dianthus_armeria,0.09487666034155598
+Cary IES,0,Phleum_pratense,0.09487666034155598
+Cary IES,0,Plantago_lanceolata,0.09487666034155598
+Cary IES,0,Asclepias_syriaca,0.04743833017077799
+Cary IES,1,Bromus_inermis,29.34748673118951
+Cary IES,1,Poa_pratensis,23.103340618170463
+Cary IES,1,Lolium_pratense,11.239463003434281
+Cary IES,1,Toxicodendron_radicans,10.053075241960661
+Cary IES,1,Monarda_fistulosa,6.056821729628473
+Cary IES,1,Clinopodium_vulgare,4.214798626287855
+Cary IES,1,Centaurea_stoebe,2.934748673118951
+Cary IES,1,Dactylis_glomerata,2.497658445207618
+Cary IES,1,Trifolium_pratense,2.3415547923821416
+Cary IES,1,Achillea_millefolium,1.6546987199500467
+Cary IES,1,Parthenocissus_quinquefolia,1.5610365282547611
+Cary IES,1,Glechoma_hederacea,1.248829222603809
+Cary IES,1,Rosa_multiflora,0.9366219169528567
+Cary IES,1,Solanum_carolinense,0.7180768029971901
+Cary IES,1,Cornus_racemosa,0.6244146113019045
+Cary IES,1,Asclepias_syriaca,0.5307524196066188
+Cary IES,1,Hypericum_perforatum,0.18732438339057134
+Cary IES,1,Phleum_pratense,0.1561036528254761
+Cary IES,1,Schizachyrium_scoparium,0.1561036528254761
+Cary IES,1,Anthoxanthum_odoratum,0.09366219169528567
+Cary IES,2,Toxicodendron_radicans,12.551346417161113
+Cary IES,2,Monarda_fistulosa,10.406207211319032
+Cary IES,2,Cornus_racemosa,10.086718393427658
+Cary IES,2,Anthoxanthum_odoratum,9.949794614331356
+Cary IES,2,Centaurea_stoebe,8.534915563669557
+Cary IES,2,Clinopodium_vulgare,7.759014148790507
+Cary IES,2,Trifolium_repens,7.439525330899133
+Cary IES,2,Glechoma_hederacea,5.52259242355089
+Cary IES,2,Rumex_acetosella,4.198995892286627
+Cary IES,2,Poa_pratensis,4.15335463258786
+Cary IES,2,Elymus_repens,2.8753993610223643
+Cary IES,2,Achillea_millefolium,2.784116841624829
+Cary IES,2,Parthenocissus_quinquefolia,2.2820629849383844
+Cary IES,2,Turritis_glabra,2.2364217252396164
+Cary IES,2,Solanum_carolinense,1.5061615700593338
+Cary IES,2,Bromus_inermis,1.3692377909630304
+Cary IES,2,Phleum_pratense,1.3692377909630304
+Cary IES,2,Hypericum_perforatum,1.2779552715654952
+Cary IES,2,Dianthus_armeria,0.7759014148790506
+Cary IES,2,Erigeron_canadensis,0.5020538566864445
+Cass,0,Festuca_rubra,42.41601628775025
+Cass,0,Agrostis_capillaris,25.44960977265015
+Cass,0,Racomitrium_lanuginosum,20.28805187950081
+Cass,0,Pilosella_officinarum,7.201296987520264
+Cass,0,Hypochaeris_radicata,2.017117219017457
+Cass,0,Pilosella_piloselloides,0.9425781397277834
+Cass,0,Anthoxanthum_odoratum,0.7766843871356938
+Cass,0,Elymus_scabrus,0.3544093805376465
+Cass,0,Festuca_novae-zealandiae,0.226218753534668
+Cass,0,Poa_colensoi,0.11687968932624514
+Cass,0,Leucopogon_fraseri,0.05655468838366701
+Cass,0,Pyrrhanthera_exigua,0.052784375824755876
+Cass,0,Carex_breviculmis,0.04901406326584473
+Cass,0,Rumex_acetosella,0.0339328130302002
+Cass,0,Muehlenbeckia_axillaris,0.011310937676733402
+Cass,0,Celmisia_gracilenta,0.0037703125589111336
+Cass,0,Gonocarpus_aggregatus,0.0037703125589111336
+Cass,1,Agrostis_capillaris,44.09653687421497
+Cass,1,Festuca_rubra,28.584245469226634
+Cass,1,Anthoxanthum_odoratum,9.290328368921587
+Cass,1,Racomitrium_lanuginosum,5.607392786649919
+Cass,1,Hypochaeris_radicata,4.638435313116814
+Cass,1,Pilosella_officinarum,3.386865243136551
+Cass,1,Rumex_acetosella,2.1263233446976497
+Cass,1,Pilosella_piloselloides,1.3951193253185001
+Cass,1,Poa_colensoi,0.22878162569531668
+Cass,1,Trifolium_arvense,0.19738022609007722
+Cass,1,Trifolium_dubium,0.1884083976314373
+Cass,1,Carex_breviculmis,0.1345774268795981
+Cass,1,Pyrrhanthera_exigua,0.08074645612775884
+Cass,1,Styphelia_nescophila,0.013457742687959809
+Cass,1,Elymus_scabrus,0.008971828458639872
+Cass,1,Muehlenbeckia_axillaris,0.008971828458639872
+Cass,1,Geranium_brevicaule,0.004485914229319936
+Cass,1,Gonocarpus_aggregatus,0.004485914229319936
+Cass,1,Prasophyllum_colensoi,0.004485914229319936
+Cass,2,Festuca_rubra,45.88374734554794
+Cass,2,Anthoxanthum_odoratum,24.262926564274785
+Cass,2,Agrostis_capillaris,11.51661810459776
+Cass,2,Rumex_acetosella,4.7113437700627205
+Cass,2,Racomitrium_lanuginosum,4.345893624376513
+Cass,2,Hypochaeris_radicata,3.807595436811695
+Cass,2,Pilosella_officinarum,2.2272704824929632
+Cass,2,Pilosella_piloselloides,2.222331967010717
+Cass,2,Trifolium_arvense,0.395081238579683
+Cass,2,Poa_colensoi,0.20247913477208754
+Cass,2,Carex_breviculmis,0.1975406192898415
+Cass,2,Trifolium_dubium,0.1037088251271668
+Cass,2,Pyrrhanthera_exigua,0.07407773223369059
+Cass,2,Styphelia_nescophila,0.02469257741123019
+Cass,2,Elymus_scabrus,0.009877030964492077
+Cass,2,Aira_caryophyllea,0.004938515482246038
+Cass,2,Cirsium_vulgare,0.004938515482246038
+Cass,2,Gonocarpus_aggregatus,0.004938515482246038
+Castellanos,0,Ipomoea_purpurea,19.52054794520548
+Castellanos,0,Bromus_catharticus,17.465753424657535
+Castellanos,0,Nassella_neesiana,13.698630136986301
+Castellanos,0,Leersia_hexandra,9.58904109589041
+Castellanos,0,Cuphea_calophylla,6.278538812785388
+Castellanos,0,Modiolastrum_malvifolium,4.908675799086757
+Castellanos,0,Digitaria_ciliaris,3.5388127853881275
+Castellanos,0,Heimia_salicifolia,3.1963470319634704
+Castellanos,0,Acicarpha_tribuloides,2.3972602739726026
+Castellanos,0,Commelina_erecta,2.3972602739726026
+Castellanos,0,Galinsoga_quadriradiata,2.28310502283105
+Castellanos,0,Stellaria_media,2.28310502283105
+Castellanos,0,Cyperus_eragrostis,2.054794520547945
+Castellanos,0,Cantinoa_mutabilis,1.5981735159817352
+Castellanos,0,Desmodium_subsericeum,1.4840182648401825
+Castellanos,0,Cynoglossum_amabile,1.2557077625570776
+Castellanos,0,Bidens_mandonii,0.684931506849315
+Castellanos,0,Ipomoea_dumetorum,0.684931506849315
+Castellanos,0,Elephantopus_mollis,0.5707762557077625
+Castellanos,0,Dicliptera_squarrosa,0.45662100456621
+Castellanos,1,Bromus_catharticus,20.272572402044293
+Castellanos,1,Modiolastrum_malvifolium,15.076660988074957
+Castellanos,1,Leersia_hexandra,9.369676320272573
+Castellanos,1,Setaria_parviflora,8.517887563884157
+Castellanos,1,Cuphea_calophylla,7.240204429301533
+Castellanos,1,Senecio_madagascariensis,6.643952299829642
+Castellanos,1,Acicarpha_tribuloides,6.132879045996593
+Castellanos,1,Commelina_erecta,3.4071550255536627
+Castellanos,1,Bidens_mandonii,3.2367972742759794
+Castellanos,1,Trifolium_repens,2.2998296422487225
+Castellanos,1,Ipomoea_purpurea,2.0442930153321974
+Castellanos,1,Heimia_salicifolia,1.788756388415673
+Castellanos,1,Cantinoa_mutabilis,1.7035775127768313
+Castellanos,1,Nassella_neesiana,1.7035775127768313
+Castellanos,1,Dicliptera_squarrosa,1.2776831345826234
+Castellanos,1,Tragia_volubilis,1.2776831345826234
+Castellanos,1,Cynoglossum_amabile,1.1073253833049403
+Castellanos,1,Spermacoce_dasycephala,1.1073253833049403
+Castellanos,1,Galinsoga_quadriradiata,0.8517887563884157
+Castellanos,1,Stevia_grisebachiana,0.7666098807495741
+Castellanos,2,Setaria_parviflora,19.439421338155515
+Castellanos,2,Modiolastrum_malvifolium,15.551537070524413
+Castellanos,2,Senecio_madagascariensis,14.285714285714285
+Castellanos,2,Bidens_mandonii,13.743218806509946
+Castellanos,2,Cantinoa_mutabilis,10.126582278481013
+Castellanos,2,Bromus_catharticus,5.15370705244123
+Castellanos,2,Ipomoea_purpurea,3.1645569620253164
+Castellanos,2,Leersia_hexandra,2.9837251356238697
+Castellanos,2,Cuphea_calophylla,1.9891500904159132
+Castellanos,2,Cynoglossum_amabile,1.9891500904159132
+Castellanos,2,Acicarpha_tribuloides,1.62748643761302
+Castellanos,2,Desmodium_subsericeum,1.4466546112115732
+Castellanos,2,Alternanthera_philoxeroides,1.3562386980108498
+Castellanos,2,Trifolium_repens,1.2658227848101267
+Castellanos,2,Heimia_salicifolia,1.0849909584086799
+Castellanos,2,Tragia_volubilis,0.7233273056057866
+Castellanos,2,Spermacoce_dasycephala,0.6329113924050633
+Castellanos,2,Cuscuta_parodiana,0.45207956600361665
+Castellanos,2,Cayaponia_citrullifolia,0.3616636528028933
+Castellanos,2,Stellaria_media,0.3616636528028933
+Cedar Creek LTER,0,Monarda_fistulosa,24.889752597354065
+Cedar Creek LTER,0,Ambrosia_artemisiifolia,23.320128559683088
+Cedar Creek LTER,0,Elymus_repens,17.19112041258689
+Cedar Creek LTER,0,Poa_pratensis,8.819792211675013
+Cedar Creek LTER,0,Conyza_canadensis,8.33395620001495
+Cedar Creek LTER,0,Artemisia_ludoviciana,3.8119440914866582
+Cedar Creek LTER,0,Antennaria_neglecta,2.989760071754242
+Cedar Creek LTER,0,Solidago_gigantea,2.6160400627849616
+Cedar Creek LTER,0,Panicum_oligosanthes,2.541296060991106
+Cedar Creek LTER,0,Arabis_divaricarpa,1.7191120412586893
+Cedar Creek LTER,0,Verbascum_thapsus,1.3453920322894088
+Cedar Creek LTER,0,Berteroa_incana,1.0837880260109127
+Cedar Creek LTER,0,Rumex_acetosella,0.5979520143508484
+Cedar Creek LTER,0,Agrostis_scabra,0.2989760071754242
+Cedar Creek LTER,0,Vicia_villosa,0.2690784064578818
+Cedar Creek LTER,0,Polygonum_convolvulus,0.1494880035877121
+Cedar Creek LTER,0,Polygonum_tenue,0.01494880035877121
+Cedar Creek LTER,0,Silene_antirrhina,0.007474400179385605
+Cedar Creek LTER,1,Elymus_repens,31.61806746712407
+Cedar Creek LTER,1,Poa_pratensis,17.438536306460833
+Cedar Creek LTER,1,Ambrosia_artemisiifolia,14.408233276157805
+Cedar Creek LTER,1,Monarda_fistulosa,11.863922241280731
+Cedar Creek LTER,1,Setaria_pumila,4.888507718696398
+Cedar Creek LTER,1,Artemisia_ludoviciana,4.745568896512293
+Cedar Creek LTER,1,Polygonum_convolvulus,3.2590051457975986
+Cedar Creek LTER,1,Conyza_canadensis,2.9731275014293885
+Cedar Creek LTER,1,Verbascum_thapsus,2.172670097198399
+Cedar Creek LTER,1,Panicum_oligosanthes,1.7724413950829045
+Cedar Creek LTER,1,Vicia_villosa,1.315037164093768
+Cedar Creek LTER,1,Arabis_divaricarpa,1.2006861063464835
+Cedar Creek LTER,1,Chenopodium_album,0.7432818753573471
+Cedar Creek LTER,1,Rumex_acetosella,0.5717552887364208
+Cedar Creek LTER,1,Asclepias_ovalifolia,0.34305317324185247
+Cedar Creek LTER,1,Mollugo_verticillata,0.34305317324185247
+Cedar Creek LTER,1,Solidago_gigantea,0.22870211549456831
+Cedar Creek LTER,1,Berteroa_incana,0.05717552887364208
+Cedar Creek LTER,1,Oxalis_stricta,0.05717552887364208
+Cedar Creek LTER,2,Ambrosia_artemisiifolia,35.12160228898426
+Cedar Creek LTER,2,Elymus_repens,32.33190271816881
+Cedar Creek LTER,2,Setaria_pumila,6.294706723891273
+Cedar Creek LTER,2,Chenopodium_album,5.9370529327610875
+Cedar Creek LTER,2,Artemisia_ludoviciana,5.579399141630901
+Cedar Creek LTER,2,Monarda_fistulosa,4.005722460658083
+Cedar Creek LTER,2,Polygonum_convolvulus,3.7911301859799713
+Cedar Creek LTER,2,Poa_pratensis,1.9313304721030045
+Cedar Creek LTER,2,Vicia_villosa,1.859799713876967
+Cedar Creek LTER,2,Conyza_canadensis,1.0729613733905579
+Cedar Creek LTER,2,Panicum_oligosanthes,0.7153075822603719
+Cedar Creek LTER,2,Asclepias_ovalifolia,0.5722460658082975
+Cedar Creek LTER,2,Rumex_acetosella,0.5722460658082975
+Cedar Creek LTER,2,Arabis_divaricarpa,0.2145922746781116
+Churning Rapids,0,Leucanthemum_vulgare,13.13456889605157
+Churning Rapids,0,Centaurea_stoebe,12.812248186946013
+Churning Rapids,0,Clinopodium_vulgare,9.186140209508462
+Churning Rapids,0,Rumex_acetosella,8.38033843674456
+Churning Rapids,0,Achillea_millefolium,6.365834004834811
+Churning Rapids,0,Fragaria_vesca,5.47945205479452
+Churning Rapids,0,Phleum_pratense,5.47945205479452
+Churning Rapids,0,Potentilla_recta,4.6736502820306205
+Churning Rapids,0,Solidago_rugosa,4.43190975020145
+Churning Rapids,0,Solidago_juncea,4.0290088638195005
+Churning Rapids,0,Cladonia_rangiferina,3.94842868654311
+Churning Rapids,0,Solidago_canadensis,3.62610797743755
+Churning Rapids,0,Asclepias_syriaca,3.3843674456083805
+Churning Rapids,0,Tragopogon_dubius,3.0620467365028206
+Churning Rapids,0,Hypericum_perforatum,2.6591458501208702
+Churning Rapids,0,Daucus_carota,2.4174053182917
+Churning Rapids,0,Veronica_chamaedrys,1.9339242546333604
+Churning Rapids,0,Rudbeckia_hirta,1.20870265914585
+Churning Rapids,0,Dactylis_glomerata,0.9669621273166802
+Churning Rapids,0,Oenothera_biennis,0.6446414182111201
+Churning Rapids,0,Symphyotrichum_ciliolatum,0.6446414182111201
+Churning Rapids,1,Centaurea_stoebe,15.478484264611433
+Churning Rapids,1,Rumex_acetosella,12.716763005780345
+Churning Rapids,1,Elymus_repens,10.083493898522802
+Churning Rapids,1,Anthoxanthum_odoratum,8.734746307000641
+Churning Rapids,1,Dactylis_glomerata,8.606294155427104
+Churning Rapids,1,Leucanthemum_vulgare,6.74373795761079
+Churning Rapids,1,Achillea_millefolium,4.945407835581246
+Churning Rapids,1,Solidago_canadensis,4.4958253050738595
+Churning Rapids,1,Phleum_pratense,3.5966602440590876
+Churning Rapids,1,Clinopodium_vulgare,3.4682080924855487
+Churning Rapids,1,Potentilla_recta,2.6332691072575463
+Churning Rapids,1,Asclepias_syriaca,2.569043031470777
+Churning Rapids,1,Daucus_carota,1.6698779704560054
+Churning Rapids,1,Solidago_gigantea,1.6698779704560054
+Churning Rapids,1,Oenothera_biennis,1.605651894669236
+Churning Rapids,1,Oxalis_stricta,1.605651894669236
+Churning Rapids,1,Cladonia_rangiferina,1.2845215157353884
+Churning Rapids,1,Hypericum_perforatum,1.1560693641618496
+Churning Rapids,1,Fragaria_vesca,1.0918432883750802
+Churning Rapids,1,Prunus_virginiana,0.9633911368015413
+Churning Rapids,1,Solidago_juncea,0.9633911368015413
+Churning Rapids,2,Centaurea_stoebe,19.05615292712067
+Churning Rapids,2,Dactylis_glomerata,12.783751493428912
+Churning Rapids,2,Elymus_repens,11.887694145758662
+Churning Rapids,2,Rumex_acetosella,11.887694145758662
+Churning Rapids,2,Clinopodium_vulgare,5.854241338112306
+Churning Rapids,2,Achillea_millefolium,5.794504181600956
+Churning Rapids,2,Solidago_canadensis,3.225806451612903
+Churning Rapids,2,Leucanthemum_vulgare,3.046594982078853
+Churning Rapids,2,Phleum_pratense,2.927120669056153
+Churning Rapids,2,Asclepias_syriaca,2.3894862604540026
+Churning Rapids,2,Potentilla_recta,2.0908004778972518
+Churning Rapids,2,Oxalis_dillenii,2.031063321385902
+Churning Rapids,2,Rudbeckia_hirta,1.8518518518518516
+Churning Rapids,2,Daucus_carota,1.6726403823178015
+Churning Rapids,2,Hypericum_perforatum,1.5531660692951015
+Churning Rapids,2,Solidago_gigantea,1.5531660692951015
+Churning Rapids,2,Cladonia_rangiferina,1.3739545997610514
+Churning Rapids,2,Silene_latifolia,1.3142174432497014
+Churning Rapids,2,Eurybia_macrophylla,1.1947431302270013
+Churning Rapids,2,Fragaria_vesca,1.1947431302270013
+Colombia Missouri,-1,Andropogon_gerardii,31.077783026295076
+Colombia Missouri,-1,Solidago_canadensis,11.946937490159032
+Colombia Missouri,-1,Desmodium_glabellum,9.624468587623998
+Colombia Missouri,-1,Silphium_perfoliatum,7.4397732640529055
+Colombia Missouri,-1,Poa_pratensis,6.632813730121241
+Colombia Missouri,-1,Helianthus_mollis,6.239174933081405
+Colombia Missouri,-1,Carex_vulpinoidea,5.235396000629823
+Colombia Missouri,-1,Baptisia_alba,3.9757518501023466
+Colombia Missouri,-1,Helianthus_maximiliani,2.942450007872776
+Colombia Missouri,-1,Sorghastrum_nutans,2.93260903794678
+Colombia Missouri,-1,Silphium_integrifolium,2.224059203275075
+Colombia Missouri,-1,Desmodium_canadense,1.8697842859392224
+Colombia Missouri,-1,Carex_frankii,1.4564635490473943
+Colombia Missouri,-1,Dipsacus_laciniatus,0.9663832467327981
+Colombia Missouri,-1,Elymus_virginicus,0.7183908045977012
+Colombia Missouri,-1,Geum_canadense,0.639663045189734
+Colombia Missouri,-1,Desmanthus_illinoensis,0.6101401354117463
+Colombia Missouri,-1,Monarda_fistulosa,0.5707762557077626
+Colombia Missouri,-1,Baptisia_australis,0.3739568571878445
+Colombia Missouri,-1,Juncus_interior,0.32475200755786493
+Cowichan,0,Alopecurus_pratensis,73.7987987987988
+Cowichan,0,Vicia_hirsuta,15.165165165165165
+Cowichan,0,Trifolium_dubium,5.555555555555555
+Cowichan,0,Poa_pratensis,2.2522522522522523
+Cowichan,0,Vicia_sativa,1.6516516516516515
+Cowichan,0,Convolvulus_arvensis,0.6006006006006006
+Cowichan,0,Geranium_molle,0.3003003003003003
+Cowichan,0,Plantago_lanceolata,0.3003003003003003
+Cowichan,0,Bellis_perennis,0.07507507507507508
+Cowichan,0,Bromus_hordeaceus,0.07507507507507508
+Cowichan,0,Cirsium_arvense,0.07507507507507508
+Cowichan,0,Festuca_rubra,0.07507507507507508
+Cowichan,0,Leucanthemum_vulgare,0.07507507507507508
+Cowichan,1,Alopecurus_pratensis,47.196870925684486
+Cowichan,1,Trifolium_dubium,13.102998696219034
+Cowichan,1,Cerastium_glomeratum,11.342894393741851
+Cowichan,1,Myosotis_discolor,10.821382007822686
+Cowichan,1,Vicia_hirsuta,5.019556714471968
+Cowichan,1,Anthoxanthum_odoratum,1.4341590612777053
+Cowichan,1,Vicia_sativa,1.4341590612777053
+Cowichan,1,Bromus_sterilis,1.2385919165580181
+Cowichan,1,Poa_pratensis,1.2385919165580181
+Cowichan,1,Bellis_perennis,1.108213820078227
+Cowichan,1,Valerianella_locusta,0.847457627118644
+Cowichan,1,Erodium_cicutarium,0.7170795306388527
+Cowichan,1,Geranium_molle,0.7170795306388527
+Cowichan,1,Bromus_hordeaceus,0.5867014341590613
+Cowichan,1,Taraxacum_officinale,0.5867014341590613
+Cowichan,1,Vulpia_bromoides,0.5867014341590613
+Cowichan,1,Cirsium_vulgare,0.3911342894393742
+Cowichan,1,Leucanthemum_vulgare,0.3911342894393742
+Cowichan,1,Sherardia_arvensis,0.3259452411994785
+Cowichan,1,Veronica_arvensis,0.3259452411994785
+Cowichan,2,Alopecurus_pratensis,49.07178217821782
+Cowichan,2,Cerastium_glomeratum,12.685643564356436
+Cowichan,2,Trifolium_dubium,11.324257425742575
+Cowichan,2,Myosotis_discolor,10.891089108910892
+Cowichan,2,Bromus_sterilis,3.2797029702970297
+Cowichan,2,Vicia_hirsuta,1.9801980198019802
+Cowichan,2,Anthoxanthum_odoratum,1.4851485148514851
+Cowichan,2,Geranium_molle,1.3613861386138615
+Cowichan,2,Bromus_hordeaceus,1.2376237623762376
+Cowichan,2,Vulpia_bromoides,1.051980198019802
+Cowichan,2,Bellis_perennis,0.7425742574257426
+Cowichan,2,Poa_pratensis,0.7425742574257426
+Cowichan,2,Vicia_sativa,0.7425742574257426
+Cowichan,2,Cirsium_vulgare,0.49504950495049505
+Cowichan,2,Taraxacum_officinale,0.49504950495049505
+Cowichan,2,Sherardia_arvensis,0.4331683168316832
+Cowichan,2,Erodium_cicutarium,0.3712871287128713
+Cowichan,2,Leucanthemum_vulgare,0.3712871287128713
+Cowichan,2,Valerianella_locusta,0.3094059405940594
+Cowichan,2,Polygonum_convolvulus,0.24752475247524752
+Cowichan,3,Alopecurus_pratensis,43.44112263575351
+Cowichan,3,Trifolium_dubium,14.032946918852959
+Cowichan,3,Myosotis_discolor,12.995729103111653
+Cowichan,3,Cerastium_glomeratum,7.26052471018914
+Cowichan,3,Vicia_hirsuta,2.7455765710799267
+Cowichan,3,Geranium_molle,2.5625381330079318
+Cowichan,3,Vicia_sativa,2.4405125076266017
+Cowichan,3,Bromus_sterilis,2.2574740695546063
+Cowichan,3,Bellis_perennis,1.464307504575961
+Cowichan,3,Anthoxanthum_odoratum,1.4032946918852958
+Cowichan,3,Erodium_cicutarium,1.4032946918852958
+Cowichan,3,Vulpia_bromoides,1.0372178157413057
+Cowichan,3,Poa_pratensis,0.9762050030506406
+Cowichan,3,Bromus_hordeaceus,0.9151921903599756
+Cowichan,3,Hypochaeris_glabra,0.7931665649786455
+Cowichan,3,Cirsium_vulgare,0.6711409395973155
+Cowichan,3,Taraxacum_officinale,0.6101281269066504
+Cowichan,3,Leucanthemum_vulgare,0.5491153142159854
+Cowichan,3,Sherardia_arvensis,0.36607687614399026
+Cowichan,3,Valerianella_locusta,0.36607687614399026
+Dauphin Island,0,Spartina_patens,61.372950819672134
+Dauphin Island,0,Strophostyles_helvola,10.348360655737705
+Dauphin Island,0,Iva_imbricata,10.245901639344263
+Dauphin Island,0,Panicum_amarum,9.01639344262295
+Dauphin Island,0,Smilax_bona-nox,4.610655737704918
+Dauphin Island,0,Ipomoea_imperati,2.7663934426229506
+Dauphin Island,0,Heterotheca_subaxillaris,1.1270491803278688
+Dauphin Island,0,Sabatia_grandiflora,0.5122950819672131
+Dauphin Island,1,Spartina_patens,59.130434782608695
+Dauphin Island,1,Strophostyles_helvola,15.05720823798627
+Dauphin Island,1,Iva_imbricata,8.329519450800916
+Dauphin Island,1,Panicum_amarum,7.7345537757437075
+Dauphin Island,1,Hydrocotyle_bonariensis,3.3867276887871856
+Dauphin Island,1,Ipomoea_imperati,1.7848970251716247
+Dauphin Island,1,Euphorbia_bombensis,1.0983981693363845
+Dauphin Island,1,Cyperus_eragrostis,1.0068649885583525
+Dauphin Island,1,Rhynchosia_minima,0.7322654462242564
+Dauphin Island,1,Solidago_mexicana,0.7322654462242564
+Dauphin Island,1,Heterotheca_subaxillaris,0.6407322654462242
+Dauphin Island,1,Centella_asiatica,0.1830663615560641
+Dauphin Island,1,Eustoma_exaltatum,0.1830663615560641
+Dauphin Island,2,Spartina_patens,52.349486049926576
+Dauphin Island,2,Strophostyles_helvola,18.94273127753304
+Dauphin Island,2,Iva_imbricata,8.223201174743025
+Dauphin Island,2,Panicum_amarum,7.709251101321586
+Dauphin Island,2,Ipomoea_imperati,3.0837004405286343
+Dauphin Island,2,Sabatia_grandiflora,2.7900146842878124
+Dauphin Island,2,Hydrocotyle_bonariensis,2.5697503671071953
+Dauphin Island,2,Heterotheca_subaxillaris,2.276064610866373
+Dauphin Island,2,Phyla_nodiflora,1.1013215859030838
+Dauphin Island,2,Solidago_mexicana,0.4405286343612335
+Dauphin Island,2,Cyperus_eragrostis,0.2936857562408223
+Dauphin Island,2,Eustoma_exaltatum,0.22026431718061676
+Domaninek,0,Trifolium_repens,48.117604876299744
+Domaninek,0,Festuca_rubra,31.086410899964147
+Domaninek,0,Festuca_pratensis,7.386159913947651
+Domaninek,0,Plantago_lanceolata,5.449982072427393
+Domaninek,0,Anthoxanthum_odoratum,3.6930799569738255
+Domaninek,0,Dactylis_glomerata,1.4700609537468627
+Domaninek,0,Holcus_lanatus,1.4700609537468627
+Domaninek,0,Crepis_biennis,0.7171029042667623
+Domaninek,0,Trifolium_pratense,0.25098601649336677
+Domaninek,0,Lolium_perenne,0.10756543564001435
+Domaninek,0,Trifolium_dubium,0.10756543564001435
+Domaninek,0,Alopecurus_pratensis,0.035855145213338116
+Domaninek,0,Crepis_paludosa,0.035855145213338116
+Domaninek,0,Luzula_campestris,0.035855145213338116
+Domaninek,0,Rumex_acetosa,0.035855145213338116
+Domaninek,1,Festuca_rubra,26.523887973640857
+Domaninek,1,Festuca_pratensis,24.3163097199341
+Domaninek,1,Plantago_lanceolata,16.935749588138385
+Domaninek,1,Holcus_lanatus,7.644151565074135
+Domaninek,1,Poa_trivialis,7.479406919275124
+Domaninek,1,Dactylis_glomerata,6.490939044481054
+Domaninek,1,Anthoxanthum_odoratum,3.8220757825370675
+Domaninek,1,Achillea_millefolium,2.471169686985173
+Domaninek,1,Poa_pratensis,1.0543657331136738
+Domaninek,1,Arenaria_serpyllifolia,0.9225700164744647
+Domaninek,1,Rumex_acetosa,0.8896210873146623
+Domaninek,1,Viola_arvensis,0.85667215815486
+Domaninek,1,Alopecurus_pratensis,0.19769357495881384
+Domaninek,1,Crepis_biennis,0.19769357495881384
+Domaninek,1,Lolium_perenne,0.06589785831960461
+Domaninek,1,Trifolium_repens,0.06589785831960461
+Domaninek,1,Trifolium_pratense,0.032948929159802305
+Domaninek,1,Trisetum_flavescens,0.032948929159802305
+Domaninek,2,Festuca_pratensis,39.60674157303371
+Domaninek,2,Festuca_rubra,12.515605493133583
+Domaninek,2,Plantago_lanceolata,9.176029962546817
+Domaninek,2,Cerastium_fontanum,8.551810237203496
+Domaninek,2,Festuca_arundinacea,5.930087390761548
+Domaninek,2,Holcus_lanatus,5.617977528089887
+Domaninek,2,Dactylis_glomerata,4.0886392009987516
+Domaninek,2,Hypericum_perforatum,3.1210986267166043
+Domaninek,2,Veronica_arvensis,2.153558052434457
+Domaninek,2,Poa_pratensis,1.9350811485642945
+Domaninek,2,Trifolium_dubium,1.8102372034956304
+Domaninek,2,Rumex_acetosella,1.5917602996254683
+Domaninek,2,Myosotis_stricta,1.5605493133583022
+Domaninek,2,Anthoxanthum_odoratum,1.435705368289638
+Domaninek,2,Alopecurus_pratensis,0.3121098626716604
+Domaninek,2,Convolvulus_arvensis,0.3121098626716604
+Domaninek,2,Viola_arvensis,0.12484394506866417
+Domaninek,2,Myosotis_arvensis,0.062421972534332085
+Domaninek,2,Poa_trivialis,0.031210986267166042
+Domaninek,2,Scorzoneroides_autumnalis,0.031210986267166042
+Domaninek,2,Vicia_sativa,0.031210986267166042
+Fowlers Gap,0,Sclerolaena_diacantha,16.93834160170092
+Fowlers Gap,0,Wahlenbergia_stricta,16.017009213323885
+Fowlers Gap,0,Sclerolaena_ventricosa,13.890857547838412
+Fowlers Gap,0,Vittadinia_eremaea,8.646350106307583
+Fowlers Gap,0,Gnephosis_arachnoidea,8.291991495393338
+Fowlers Gap,0,Malvastrum_americanum,6.307583274273565
+Fowlers Gap,0,Rhodanthe_floribunda,6.307583274273565
+Fowlers Gap,0,Plantago_drummondii,4.677533664068037
+Fowlers Gap,0,Vittadinia_cuneata,3.7562012756909993
+Fowlers Gap,0,Tripogon_loliiformis,2.97661233167966
+Fowlers Gap,0,Brachyscome_ciliaris,2.7639971651311126
+Fowlers Gap,0,Dichanthium_sericeum,2.551381998582565
+Fowlers Gap,0,Atriplex_angulata,2.1970233876683203
+Fowlers Gap,0,Euphorbia_stevenii,1.0630758327427356
+Fowlers Gap,0,Dissocarpus_biflorus,0.7087172218284904
+Fowlers Gap,0,Osteocarpum_acropterum,0.7087172218284904
+Fowlers Gap,0,Arabidella_nasturtium,0.6378454996456413
+Fowlers Gap,0,Sclerolaena_brachyptera,0.6378454996456413
+Fowlers Gap,0,Medicago_polymorpha,0.3543586109142452
+Fowlers Gap,0,Carrichtera_annua,0.28348688873139616
+Fowlers Gap,1,Portulaca_oleracea,20.98890010090817
+Fowlers Gap,1,Dactyloctenium_radulans,18.970736629667005
+Fowlers Gap,1,Sclerolaena_diacantha,11.503531786074673
+Fowlers Gap,1,Maireana_coronata,8.980827447023207
+Fowlers Gap,1,Astrebla_lappacea,8.072653884964682
+Fowlers Gap,1,Brachyscome_ciliaris,7.467204843592332
+Fowlers Gap,1,Dissocarpus_biflorus,7.063572149344097
+Fowlers Gap,1,Malvastrum_americanum,3.632694248234107
+Fowlers Gap,1,Sclerolaena_ventricosa,3.3299697275479314
+Fowlers Gap,1,Tripogon_loliiformis,3.229061553985873
+Fowlers Gap,1,Salsola_kali,2.3713420787083757
+Fowlers Gap,1,Enneapogon_avenaceus,1.917255297679112
+Fowlers Gap,1,Sclerolaena_brachyptera,1.2108980827447022
+Fowlers Gap,1,Euphorbia_stevenii,0.45408678102926336
+Fowlers Gap,1,Atriplex_angulata,0.4036326942482341
+Fowlers Gap,1,Dichanthium_sericeum,0.35317860746720486
+Fowlers Gap,1,Tribulus_terrestris,0.050454086781029264
+GCE LTER - Sapelo Island,0,Spartina_alterniflora,100
+GCE LTER - Sapelo Island,1,Spartina_alterniflora,100
+Hazelrigg,-1,Festuca_rubra,30.405405405405407
+Hazelrigg,-1,Agrostis_capillaris,25.7985257985258
+Hazelrigg,-1,Dactylis_glomerata,11.67076167076167
+Hazelrigg,-1,Alopecurus_pratensis,10.012285012285012
+Hazelrigg,-1,Anthoxanthum_odoratum,5.712530712530713
+Hazelrigg,-1,Rumex_acetosa,4.606879606879607
+Hazelrigg,-1,Cirsium_arvense,3.86977886977887
+Hazelrigg,-1,Taraxacum_officinale,2.334152334152334
+Hazelrigg,-1,Holcus_lanatus,2.272727272727273
+Hazelrigg,-1,Agrostis_stolonifera,1.4742014742014742
+Hazelrigg,-1,Arrhenatherum_elatius,0.4914004914004914
+Hazelrigg,-1,Ranunculus_repens,0.36855036855036855
+Hazelrigg,-1,Ranunculus_acris,0.2457002457002457
+Hazelrigg,-1,Cardamine_pratensis,0.18427518427518427
+Hazelrigg,-1,Poa_pratensis,0.18427518427518427
+Hazelrigg,-1,Cerastium_fontanum,0.12285012285012285
+Hazelrigg,-1,Achillea_millefolium,0.06142506142506143
+Hazelrigg,-1,Lolium_perenne,0.06142506142506143
+Hazelrigg,-1,Trifolium_repens,0.06142506142506143
+Hazelrigg,-1,Urtica_dioica,0.06142506142506143
+Hazelrigg,0,Agrostis_capillaris,33.26996197718631
+Hazelrigg,0,Festuca_rubra,28.517110266159694
+Hazelrigg,0,Anthoxanthum_odoratum,18.567807351077313
+Hazelrigg,0,Dactylis_glomerata,9.505703422053232
+Hazelrigg,0,Holcus_lanatus,2.4714828897338403
+Hazelrigg,0,Cirsium_arvense,2.091254752851711
+Hazelrigg,0,Taraxacum_officinale,1.520912547528517
+Hazelrigg,0,Rumex_acetosa,1.0139416983523446
+Hazelrigg,0,Alopecurus_pratensis,0.8238276299112801
+Hazelrigg,0,Agrostis_stolonifera,0.7604562737642585
+Hazelrigg,0,Arrhenatherum_elatius,0.38022813688212925
+Hazelrigg,0,Ranunculus_repens,0.38022813688212925
+Hazelrigg,0,Trifolium_repens,0.25348542458808615
+Hazelrigg,0,Cerastium_fontanum,0.12674271229404308
+Hazelrigg,0,Urtica_dioica,0.12674271229404308
+Hazelrigg,0,Achillea_millefolium,0.06337135614702154
+Hazelrigg,0,Cardamine_pratensis,0.06337135614702154
+Hazelrigg,0,Plantago_lanceolata,0.06337135614702154
+Hazelrigg,1,Festuca_rubra,29.586656997824512
+Hazelrigg,1,Agrostis_capillaris,27.19361856417694
+Hazelrigg,1,Anthoxanthum_odoratum,11.240029006526468
+Hazelrigg,1,Cirsium_arvense,10.224800580130529
+Hazelrigg,1,Dactylis_glomerata,9.282088469905728
+Hazelrigg,1,Ranunculus_repens,6.889050036258158
+Hazelrigg,1,Taraxacum_officinale,2.030456852791878
+Hazelrigg,1,Holcus_lanatus,1.2327773749093547
+Hazelrigg,1,Achillea_millefolium,0.580130529369108
+Hazelrigg,1,Alopecurus_pratensis,0.580130529369108
+Hazelrigg,1,Rumex_acetosa,0.580130529369108
+Hazelrigg,1,Agrostis_stolonifera,0.36258158085569253
+Hazelrigg,1,Urtica_dioica,0.145032632342277
+Hazelrigg,1,Cerastium_fontanum,0.0725163161711385
+Hazelrigg,2,Agrostis_capillaris,42.69449715370019
+Hazelrigg,2,Festuca_rubra,14.104996837444656
+Hazelrigg,2,Dactylis_glomerata,7.71663504111322
+Hazelrigg,2,Ranunculus_repens,7.463630613535736
+Hazelrigg,2,Rumex_acetosa,7.463630613535736
+Hazelrigg,2,Cynosurus_cristatus,5.376344086021505
+Hazelrigg,2,Cirsium_arvense,4.80708412397217
+Hazelrigg,2,Holcus_lanatus,4.301075268817205
+Hazelrigg,2,Anthoxanthum_odoratum,3.984819734345351
+Hazelrigg,2,Agrostis_stolonifera,0.9487666034155597
+Hazelrigg,2,Plantago_lanceolata,0.31625553447185323
+Hazelrigg,2,Taraxacum_officinale,0.31625553447185323
+Hazelrigg,2,Arrhenatherum_elatius,0.2530044275774826
+Hazelrigg,2,Cerastium_fontanum,0.06325110689437065
+Hazelrigg,2,Epilobium_tetragonum,0.06325110689437065
+Hazelrigg,2,Trifolium_repens,0.06325110689437065
+Hazelrigg,2,Veronica_serpyllifolia,0.06325110689437065
+Hobcaw Barony,0,Schizachyrium_scoparium,20.833333333333336
+Hobcaw Barony,0,Desmodium_lineatum,15.476190476190476
+Hobcaw Barony,0,Diodia_virginiana,13.988095238095239
+Hobcaw Barony,0,Pityopsis_graminifolia,13.541666666666666
+Hobcaw Barony,0,Aristida_purpurascens,12.648809523809524
+Hobcaw Barony,0,Eupatorium_compositifolium,12.053571428571429
+Hobcaw Barony,0,Cyperus_retrorsus,6.25
+Hobcaw Barony,0,Andropogon_virginicus,2.083333333333333
+Hobcaw Barony,0,Chamaecrista_nictitans,1.3392857142857142
+Hobcaw Barony,0,Buchnera_americana,1.1904761904761905
+Hobcaw Barony,0,Packera_glabella,0.5952380952380952
+Hobcaw Barony,1,Andropogon_virginicus,22.075055187637968
+Hobcaw Barony,1,Pityopsis_graminifolia,21.58940397350993
+Hobcaw Barony,1,Eupatorium_compositifolium,16.55629139072848
+Hobcaw Barony,1,Dichanthelium_portoricense,10.154525386313466
+Hobcaw Barony,1,Desmodium_lineatum,6.843267108167771
+Hobcaw Barony,1,Chamaecrista_nictitans,4.7240618101545255
+Hobcaw Barony,1,Tragia_urens,4.679911699779249
+Hobcaw Barony,1,Cyperus_retrorsus,2.6048565121412803
+Hobcaw Barony,1,Quercus_stellata,2.163355408388521
+Hobcaw Barony,1,Juncus_dichotomus,1.9867549668874174
+Hobcaw Barony,1,Dichanthelium_aciculare,1.6777041942604858
+Hobcaw Barony,1,Aristida_purpurascens,1.545253863134658
+Hobcaw Barony,1,Lechea_mucronata,1.5011037527593818
+Hobcaw Barony,1,Crocanthemum_carolinianum,0.6622516556291391
+Hobcaw Barony,1,Buchnera_americana,0.44150110375275936
+Hobcaw Barony,1,Pinus_taeda,0.26490066225165565
+Hobcaw Barony,1,Diodia_virginiana,0.13245033112582782
+Hobcaw Barony,1,Erigeron_strigosus,0.08830022075055188
+Hobcaw Barony,1,Packera_anonyma,0.08830022075055188
+Hobcaw Barony,1,Rhexia_mariana,0.08830022075055188
+Hobcaw Barony,1,Symphyotrichum_racemosum,0.08830022075055188
+Hobcaw Barony,2,Andropogon_virginicus,37.26291216807704
+Hobcaw Barony,2,Pityopsis_graminifolia,12.605777648088706
+Hobcaw Barony,2,Eupatorium_compositifolium,6.7114093959731544
+Hobcaw Barony,2,Eupatorium_hyssopifolium,4.843886781441494
+Hobcaw Barony,2,Crocanthemum_corymbosum,4.668806536329151
+Hobcaw Barony,2,Tragia_urens,4.114385760140064
+Hobcaw Barony,2,Chamaecrista_nictitans,3.4432448205427484
+Hobcaw Barony,2,Nuttallanthus_canadensis,3.3265246571345197
+Hobcaw Barony,2,Desmodium_lineatum,3.1514444120221765
+Hobcaw Barony,2,Dichanthelium_portoricense,2.742923840093376
+Hobcaw Barony,2,Dichanthelium_aciculare,2.0426028596440036
+Hobcaw Barony,2,Juncus_dichotomus,2.0426028596440036
+Hobcaw Barony,2,Cyperus_retrorsus,1.517362124306974
+Hobcaw Barony,2,Gamochaeta_purpurea,1.517362124306974
+Hobcaw Barony,2,Eupatorium_capillifolium,1.4298220017508025
+Hobcaw Barony,2,Symphyotrichum_dumosum,1.3131018383425737
+Hobcaw Barony,2,Packera_anonyma,1.2839217974905166
+Hobcaw Barony,2,Rhexia_cubensis,1.1963816749343448
+Hobcaw Barony,2,Crocanthemum_carolinianum,0.9337613072658301
+Hobcaw Barony,2,Erechtites_hieraciifolius,0.8170411438576015
+Hulun Buir,0,Leymus_chinensis,15.242839352428394
+Hulun Buir,0,Thalictrum_foetidum,13.20049813200498
+Hulun Buir,0,Artemisia_tanacetifolia,12.303860523038605
+Hulun Buir,0,Pulsatilla_turczaninovii,9.115815691158156
+Hulun Buir,0,Koeleria_macrantha,7.322540473225405
+Hulun Buir,0,Carex_pediformis,6.425902864259029
+Hulun Buir,0,Stipa_tianschanica,4.433374844333748
+Hulun Buir,0,Artemisia_frigida,3.4869240348692405
+Hulun Buir,0,Carex_korshinskyi,2.938978829389788
+Hulun Buir,0,Stipa_sibirica,2.8891656288916563
+Hulun Buir,0,Taraxacum_mongolicum,2.640099626400996
+Hulun Buir,0,Cleistogenes_squarrosa,2.415940224159402
+Hulun Buir,0,Galium_verum,1.9427148194271482
+Hulun Buir,0,Adenophora_stenanthina,1.4445828144458281
+Hulun Buir,0,Allium_bidentatum,1.2951432129514322
+Hulun Buir,0,Ixeris_polycephala,1.1955168119551682
+Hulun Buir,0,Potentilla_tanacetifolia,1.095890410958904
+Hulun Buir,0,Bupleurum_scorzonerifolium,1.046077210460772
+Hulun Buir,0,Sibbaldianthe_bifurca,1.046077210460772
+Hulun Buir,0,Artemisia_dracunculus,0.9464508094645082
+Hulun Buir,1,Artemisia_tanacetifolia,16.221004262857775
+Hulun Buir,1,Pulsatilla_turczaninovii,12.843935115982946
+Hulun Buir,1,Chenopodium_acuminatum,12.124231855173557
+Hulun Buir,1,Leymus_chinensis,7.418479765266013
+Hulun Buir,1,Thalictrum_foetidum,5.923711454354204
+Hulun Buir,1,Sibbaldianthe_bifurca,5.702264297182085
+Hulun Buir,1,Artemisia_dracunculus,4.650390300614515
+Hulun Buir,1,Thermopsis_lanceolata,2.934174832530587
+Hulun Buir,1,Galium_verum,2.6020040967724074
+Hulun Buir,1,Astragalus_melilotoides,2.3805569396002877
+Hulun Buir,1,Persicaria_lapathifolia,2.214471571721198
+Hulun Buir,1,Artemisia_frigida,1.9930244145490779
+Hulun Buir,1,Carex_korshinskyi,1.8933731938216243
+Hulun Buir,1,Adenophora_stenanthina,1.8823008359630182
+Hulun Buir,1,Carex_pediformis,1.7162154680839283
+Hulun Buir,1,Linaria_vulgaris,1.6608536787908985
+Hulun Buir,1,Salsola_collina,1.6608536787908985
+Hulun Buir,1,Koeleria_macrantha,1.3840447323257485
+Hulun Buir,1,Tripolium_pannonicum,1.3286829430327187
+Hulun Buir,1,Potentilla_tanacetifolia,1.2179593644466589
+Hulun Buir,2,Oxybasis_glauca,20.98681359499783
+Hulun Buir,2,Leymus_chinensis,19.12957345384758
+Hulun Buir,2,Poa_annua,4.7669163622856425
+Hulun Buir,2,Thalictrum_foetidum,4.333560329350584
+Hulun Buir,2,Setaria_viridis,4.209744319940568
+Hulun Buir,2,Artemisia_tanacetifolia,3.683526279947997
+Hulun Buir,2,Thermopsis_lanceolata,3.5597102705379804
+Hulun Buir,2,Sibbaldianthe_bifurca,3.2811242493654427
+Hulun Buir,2,Koeleria_macrantha,2.9406302234878967
+Hulun Buir,2,Pulsatilla_turczaninovii,2.3525041787903174
+Hulun Buir,2,Artemisia_dracunculus,2.166780164675292
+Hulun Buir,2,Carex_pediformis,2.0429641552652757
+Hulun Buir,2,Heteropappus_altaicus,1.8572401411502504
+Hulun Buir,2,Vicia_amoena,1.8262861387977465
+Hulun Buir,2,Salsola_collina,1.6405621246827213
+Hulun Buir,2,Artemisia_argyi,1.609608122330217
+Hulun Buir,2,Artemisia_pubescens,1.5477001176252088
+Hulun Buir,2,Carex_korshinskyi,1.4857921129202005
+Hulun Buir,2,Fallopia_convolvulus,1.423884108215192
+Hulun Buir,2,Cleistogenes_squarrosa,1.1452980870426546
+Hulun Buir,3,Leymus_chinensis,20.17499457661436
+Hulun Buir,3,Chenopodium_glaucum,16.19784510810615
+Hulun Buir,3,Artemisia_tanacetifolia,8.098922554053075
+Hulun Buir,3,Ixeris_polycephala,5.2932243835418324
+Hulun Buir,3,Poa_annua,4.931665340950177
+Hulun Buir,3,Thermopsis_lanceolata,4.157928989804035
+Hulun Buir,3,Thalictrum_squarrosum,3.760214042953214
+Hulun Buir,3,Sibbaldianthe_bifurca,3.2540313833248966
+Hulun Buir,3,Pulsatilla_turczaninovii,3.0370959577699037
+Hulun Buir,3,Festuca_ovina,2.8924723407332418
+Hulun Buir,3,Vicia_amoena,2.8780099790295752
+Hulun Buir,3,Hieracium_umbellatum,2.567069202400752
+Hulun Buir,3,Iris_tectorum,2.2778219683274274
+Hulun Buir,3,Takhtajaniantha_pusilla,2.241666064068262
+Hulun Buir,3,Kalimeris_altaica,1.6270156916624483
+Hulun Buir,3,Artemisia_dracunculus,1.5547038831441173
+Hulun Buir,3,Carex_tristachya,1.3016125533299587
+Hulun Buir,3,Artemisia_frigida,1.120833032034131
+Hulun Buir,3,Nepeta_multifida,0.9400535107383035
+Hulun Buir,3,Allium_bidentatum,0.7954298937016414
+Hulun Buir,3,Chenopodium_acuminatum,0.7954298937016414
+Hulun Buir,3,Tripolium_pannonicum,0.7954298937016414
+Izaak Walton League of America (IWLA),0,Lolium_arundinaceum,30.395333765392092
+Izaak Walton League of America (IWLA),0,Lonicera_japonica,26.50680492546986
+Izaak Walton League of America (IWLA),0,Solidago_canadensis,8.392741412832146
+Izaak Walton League of America (IWLA),0,Poa_pratensis,7.906675307841867
+Izaak Walton League of America (IWLA),0,Solidago_altissima,5.865197666882696
+Izaak Walton League of America (IWLA),0,Schizachyrium_scoparium,5.184705119896306
+Izaak Walton League of America (IWLA),0,Sorghastrum_nutans,4.601425793907971
+Izaak Walton League of America (IWLA),0,Rosa_multiflora,2.3331173039533377
+Izaak Walton League of America (IWLA),0,Elaeagnus_umbellata,2.138690861957226
+Izaak Walton League of America (IWLA),0,Setaria_parviflora,1.1989630589760207
+Izaak Walton League of America (IWLA),0,Achillea_millefolium,1.134154244977317
+Izaak Walton League of America (IWLA),0,Tridens_flavus,1.069345430978613
+Izaak Walton League of America (IWLA),0,Panicum_clandestinum,0.8425145819831497
+Izaak Walton League of America (IWLA),0,Galium_pilosum,0.712896953985742
+Izaak Walton League of America (IWLA),0,Symphyotrichum_ericoides,0.45366169799092676
+Izaak Walton League of America (IWLA),0,Clinopodium_vulgare,0.2592352559948153
+Izaak Walton League of America (IWLA),0,Coleataenia_anceps,0.2592352559948153
+Izaak Walton League of America (IWLA),0,Toxicodendron_radicans,0.19442644199611148
+Izaak Walton League of America (IWLA),0,Dactylis_glomerata,0.12961762799740764
+Izaak Walton League of America (IWLA),0,Trifolium_repens,0.09721322099805574
+Izaak Walton League of America (IWLA),1,Lolium_arundinaceum,39.44223107569721
+Izaak Walton League of America (IWLA),1,Lonicera_japonica,25.53120849933599
+Izaak Walton League of America (IWLA),1,Solidago_canadensis,6.97211155378486
+Izaak Walton League of America (IWLA),1,Solidago_altissima,5.909694555112882
+Izaak Walton League of America (IWLA),1,Elaeagnus_umbellata,5.3120849933598935
+Izaak Walton League of America (IWLA),1,Rosa_multiflora,3.718459495351926
+Izaak Walton League of America (IWLA),1,Poa_pratensis,3.2204515272244354
+Izaak Walton League of America (IWLA),1,Achillea_millefolium,1.9588313413014609
+Izaak Walton League of America (IWLA),1,Setaria_parviflora,1.693227091633466
+Izaak Walton League of America (IWLA),1,Oxalis_stricta,1.0956175298804782
+Izaak Walton League of America (IWLA),1,Panicum_clandestinum,0.8632138114209826
+Izaak Walton League of America (IWLA),1,Sorghastrum_nutans,0.5644090305444888
+Izaak Walton League of America (IWLA),1,Leucanthemum_vulgare,0.46480743691899074
+Izaak Walton League of America (IWLA),1,Verbascum_thapsus,0.398406374501992
+Izaak Walton League of America (IWLA),1,Plantago_lanceolata,0.36520584329349265
+Izaak Walton League of America (IWLA),1,Coleataenia_anceps,0.29880478087649404
+Izaak Walton League of America (IWLA),1,Acalypha_gracilens,0.199203187250996
+Izaak Walton League of America (IWLA),1,Persicaria_arifolia,0.199203187250996
+Izaak Walton League of America (IWLA),1,Ampelopsis_glandulosa,0.16600265604249667
+Izaak Walton League of America (IWLA),1,Desmodium_paniculatum,0.16600265604249667
+Izaak Walton League of America (IWLA),1,Phytolacca_americana,0.16600265604249667
+Jasper Ridge Biological Preserve,0,Avena_barbata,26.799714896650034
+Jasper Ridge Biological Preserve,0,Hypochaeris_glabra,15.11047754811119
+Jasper Ridge Biological Preserve,0,Brachypodium_distachyon,12.544547398431932
+Jasper Ridge Biological Preserve,0,Stipa_pulchra,10.83392729864576
+Jasper Ridge Biological Preserve,0,Sherardia_arvensis,5.702066999287242
+Jasper Ridge Biological Preserve,0,Erodium_botrys,5.48823948681397
+Jasper Ridge Biological Preserve,0,Trifolium_hirtum,4.06272273699216
+Jasper Ridge Biological Preserve,0,Lysimachia_arvensis,3.6350677120456165
+Jasper Ridge Biological Preserve,0,Briza_maxima,2.6372059871703493
+Jasper Ridge Biological Preserve,0,Bromus_hordeaceus,2.4946543121881684
+Jasper Ridge Biological Preserve,0,Festuca_myuros,1.924447612259444
+Jasper Ridge Biological Preserve,0,Erodium_cicutarium,1.639344262295082
+Jasper Ridge Biological Preserve,0,Crepis_vesicaria,1.4255167498218104
+Jasper Ridge Biological Preserve,0,Vicia_sativa,1.2829650748396295
+Jasper Ridge Biological Preserve,0,Sisyrinchium_bellum,1.069137562366358
+Jasper Ridge Biological Preserve,0,Carduus_pycnocephalus,0.8553100498930863
+Jasper Ridge Biological Preserve,0,Torilis_arvensis,0.7840342124019958
+Jasper Ridge Biological Preserve,0,Elymus_glaucus,0.7127583749109052
+Jasper Ridge Biological Preserve,0,Geranium_dissectum,0.4989308624376337
+Jasper Ridge Biological Preserve,0,Lolium_perenne,0.21382751247327159
+Jena,-1,Achillea_millefolium,37.005245588936575
+Jena,-1,Lolium_perenne,12.446351931330472
+Jena,-1,Geranium_pusillum,9.203624225083452
+Jena,-1,Poa_pratensis,6.19933237958989
+Jena,-1,Bellis_perennis,6.056270863137816
+Jena,-1,Convolvulus_arvensis,5.388650453028135
+Jena,-1,Arenaria_serpyllifolia,3.7911301859799713
+Jena,-1,Cerastium_fontanum,3.099666189794945
+Jena,-1,Trifolium_dubium,2.956604673342871
+Jena,-1,Geranium_dissectum,2.527420123986648
+Jena,-1,Taraxacum_officinale,1.9790176442536958
+Jena,-1,Elymus_repens,1.4067715784453982
+Jena,-1,Medicago_lupulina,0.9060562708631379
+Jena,-1,Veronica_persica,0.7391511683357177
+Jena,-1,Veronica_arvensis,0.6914639961850262
+Jena,-1,Dactylis_glomerata,0.5007153075822603
+Jena,-1,Myosotis_arvensis,0.5007153075822603
+Jena,-1,Cirsium_arvense,0.4768717215069146
+Jena,-1,Crepis_biennis,0.4291845493562232
+Jena,-1,Falcaria_vulgaris,0.35765379113018597
+Jena,0,Achillea_millefolium,35.130366594785336
+Jena,0,Bellis_perennis,13.801215447951382
+Jena,0,Lolium_perenne,6.52813173887473
+Jena,0,Trifolium_dubium,6.46931974122721
+Jena,0,Cerastium_fontanum,5.567535777298569
+Jena,0,Poa_pratensis,5.175455792981768
+Jena,0,Convolvulus_arvensis,4.273671829053127
+Jena,0,Geranium_pusillum,4.116839835326407
+Jena,0,Arenaria_serpyllifolia,2.8229758870809643
+Jena,0,Taraxacum_officinale,1.8035679278572831
+Jena,0,Geranium_dissectum,1.7251519309939227
+Jena,0,Veronica_arvensis,1.5683199372672023
+Jena,0,Valerianella_carinata,1.274259949029602
+Jena,0,Medicago_lupulina,1.0194079592236818
+Jena,0,Elymus_repens,0.9998039600078416
+Jena,0,Cerastium_glomeratum,0.9017839639286416
+Jena,0,Crepis_biennis,0.8233679670652814
+Jena,0,Dactylis_glomerata,0.7645559694177613
+Jena,0,Arrhenatherum_elatius,0.588119976475201
+Jena,0,Cirsium_arvense,0.4704959811801608
+Jena,1,Achillea_millefolium,26.694150992012368
+Jena,1,Trifolium_dubium,9.662458129348106
+Jena,1,Lolium_perenne,6.956969853130636
+Jena,1,Convolvulus_arvensis,6.441638752898737
+Jena,1,Valerianella_carinata,6.158206647771193
+Jena,1,Valerianella_locusta,6.029373872713218
+Jena,1,Cerastium_fontanum,5.668642102550889
+Jena,1,Poa_pratensis,3.658850811646483
+Jena,1,Geranium_pusillum,3.1177531564029892
+Jena,1,Bromus_hordeaceus,2.2932233960319506
+Jena,1,Arrhenatherum_elatius,2.138624065962381
+Jena,1,Chenopodium_album,2.0097912909044062
+Jena,1,Elymus_repens,1.9067250708580261
+Jena,1,Taraxacum_officinale,1.8551919608348364
+Jena,1,Potentilla_reptans,1.597526410718887
+Jena,1,Bellis_perennis,1.494460190672507
+Jena,1,Fumaria_vaillantii,1.3398608606029374
+Jena,1,Geranium_dissectum,1.2110280855449627
+Jena,1,Polygonum_aviculare,0.9018294254058232
+Jena,1,Lamium_purpureum,0.8502963153826334
+Jena,2,Achillea_millefolium,17.74738783036263
+Jena,2,Arenaria_serpyllifolia,8.466502765826675
+Jena,2,Valerianella_carinata,8.189920098340504
+Jena,2,Trifolium_dubium,7.682851874615857
+Jena,2,Poa_pratensis,7.129686539643516
+Jena,2,Bromus_hordeaceus,5.762138905961893
+Jena,2,Convolvulus_arvensis,5.593116164720344
+Jena,2,Lolium_perenne,5.4394591272280275
+Jena,2,Geranium_pusillum,4.425322679778733
+Jena,2,Arrhenatherum_elatius,3.8414259373079287
+Jena,2,Stellaria_media,3.687768899815612
+Jena,2,Polygonum_aviculare,2.8272894898586354
+Jena,2,Valerianella_locusta,2.796558082360172
+Jena,2,Elymus_repens,1.7209588199139523
+Jena,2,Geranium_dissectum,1.7209588199139523
+Jena,2,Cerastium_fontanum,1.4290104486785495
+Jena,2,Bellis_perennis,1.1370620774431468
+Jena,2,Lactuca_serriola,1.0909649661954517
+Jena,2,Dactylis_glomerata,1.014136447449293
+Jena,2,Taraxacum_officinale,0.9373079287031346
+Kellogg Biological Station (KBS),-1,Solidago_altissima,37.79527559055118
+Kellogg Biological Station (KBS),-1,Andropogon_gerardii,34.120734908136484
+Kellogg Biological Station (KBS),-1,Echinacea_purpurea,9.396325459317586
+Kellogg Biological Station (KBS),-1,Poa_pratensis,5.091863517060367
+Kellogg Biological Station (KBS),-1,Ratibida_pinnata,2.8871391076115485
+Kellogg Biological Station (KBS),-1,Schizachyrium_scoparium,2.4671916010498687
+Kellogg Biological Station (KBS),-1,Achillea_millefolium,1.2073490813648293
+Kellogg Biological Station (KBS),-1,Euthamia_graminifolia,1.2073490813648293
+Kellogg Biological Station (KBS),-1,Daucus_carota,0.8398950131233596
+Kellogg Biological Station (KBS),-1,Symphyotrichum_pilosum,0.6299212598425197
+Kellogg Biological Station (KBS),-1,Coreopsis_lanceolata,0.5774278215223096
+Kellogg Biological Station (KBS),-1,Rubus_flagellaris,0.5774278215223096
+Kellogg Biological Station (KBS),-1,Chamaecrista_fasciculata,0.47244094488188976
+Kellogg Biological Station (KBS),-1,Juncus_tenuis,0.4199475065616798
+Kellogg Biological Station (KBS),-1,Trifolium_pratense,0.3674540682414698
+Kellogg Biological Station (KBS),-1,Taraxacum_campylodes,0.31496062992125984
+Kellogg Biological Station (KBS),-1,Hypericum_perforatum,0.26246719160104987
+Kellogg Biological Station (KBS),-1,Rudbeckia_hirta,0.2099737532808399
+Kellogg Biological Station (KBS),-1,Plantago_lanceolata,0.15748031496062992
+Kellogg Biological Station (KBS),-1,Potentilla_recta,0.15748031496062992
+Kellogg Biological Station (KBS),0,Solidago_altissima,46.22802041973908
+Kellogg Biological Station (KBS),0,Andropogon_gerardii,34.20306296086217
+Kellogg Biological Station (KBS),0,Echinacea_purpurea,4.197390811117414
+Kellogg Biological Station (KBS),0,Poa_pratensis,3.119682359614294
+Kellogg Biological Station (KBS),0,Schizachyrium_scoparium,1.9852524106636416
+Kellogg Biological Station (KBS),0,Achillea_millefolium,1.7016449234259785
+Kellogg Biological Station (KBS),0,Ratibida_pinnata,1.6449234259784458
+Kellogg Biological Station (KBS),0,Daucus_carota,1.0209869540555871
+Kellogg Biological Station (KBS),0,Euthamia_graminifolia,0.9075439591605219
+Kellogg Biological Station (KBS),0,Chamaecrista_fasciculata,0.6806579693703914
+Kellogg Biological Station (KBS),0,Coreopsis_lanceolata,0.6239364719228588
+Kellogg Biological Station (KBS),0,Juncus_tenuis,0.3403289846851957
+Kellogg Biological Station (KBS),0,Oxalis_stricta,0.3403289846851957
+Kellogg Biological Station (KBS),0,Ambrosia_artemisiifolia,0.28360748723766305
+Kellogg Biological Station (KBS),0,Rubus_flagellaris,0.28360748723766305
+Kellogg Biological Station (KBS),0,Sorghastrum_nutans,0.28360748723766305
+Kellogg Biological Station (KBS),0,Barbarea_vulgaris,0.22688598979013047
+Kellogg Biological Station (KBS),0,Elymus_repens,0.22688598979013047
+Kellogg Biological Station (KBS),0,Hypericum_perforatum,0.22688598979013047
+Kellogg Biological Station (KBS),0,Potentilla_recta,0.22688598979013047
+Kellogg Biological Station (KBS),0,Rubus_occidentalis,0.22688598979013047
+Kellogg Biological Station (KBS),1,Solidago_altissima,40.768782760629
+Kellogg Biological Station (KBS),1,Andropogon_gerardii,31.56668608037274
+Kellogg Biological Station (KBS),1,Poa_pratensis,11.589982527664532
+Kellogg Biological Station (KBS),1,Coreopsis_lanceolata,2.7955736750145603
+Kellogg Biological Station (KBS),1,Chamaecrista_fasciculata,2.5043680838672104
+Kellogg Biological Station (KBS),1,Ratibida_pinnata,2.03843913803145
+Kellogg Biological Station (KBS),1,Euthamia_graminifolia,1.22306348281887
+Kellogg Biological Station (KBS),1,Echinacea_purpurea,0.8736167734420501
+Kellogg Biological Station (KBS),1,Achillea_millefolium,0.6988934187536401
+Kellogg Biological Station (KBS),1,Barbarea_vulgaris,0.5824111822947
+Kellogg Biological Station (KBS),1,Rubus_flagellaris,0.5824111822947
+Kellogg Biological Station (KBS),1,Conyza_canadensis,0.52417006406523
+Kellogg Biological Station (KBS),1,Rumex_acetosella,0.46592894583576006
+Kellogg Biological Station (KBS),1,Hypericum_perforatum,0.4076878276062901
+Kellogg Biological Station (KBS),1,Schizachyrium_scoparium,0.4076878276062901
+Kellogg Biological Station (KBS),1,Daucus_carota,0.34944670937682004
+Kellogg Biological Station (KBS),1,Oxalis_stricta,0.34944670937682004
+Kellogg Biological Station (KBS),1,Rubus_allegheniensis,0.34944670937682004
+Kellogg Biological Station (KBS),1,Rubus_occidentalis,0.29120559114735
+Kellogg Biological Station (KBS),1,Sorghastrum_nutans,0.29120559114735
+Kellogg Biological Station (KBS),2,Andropogon_gerardii,43.111366245694605
+Kellogg Biological Station (KBS),2,Solidago_altissima,28.185993111366248
+Kellogg Biological Station (KBS),2,Poa_pratensis,6.371986222732491
+Kellogg Biological Station (KBS),2,Coreopsis_lanceolata,4.3628013777267505
+Kellogg Biological Station (KBS),2,Ratibida_pinnata,2.1814006888633752
+Kellogg Biological Station (KBS),2,Daucus_carota,1.951779563719862
+Kellogg Biological Station (KBS),2,Euthamia_graminifolia,1.8369690011481057
+Kellogg Biological Station (KBS),2,Chamaecrista_fasciculata,1.4351320321469576
+Kellogg Biological Station (KBS),2,Lepidium_campestre,0.8610792192881744
+Kellogg Biological Station (KBS),2,Achillea_millefolium,0.8036739380022963
+Kellogg Biological Station (KBS),2,Echinacea_purpurea,0.7462686567164178
+Kellogg Biological Station (KBS),2,Rubus_allegheniensis,0.7462686567164178
+Kellogg Biological Station (KBS),2,Rubus_flagellaris,0.7462686567164178
+Kellogg Biological Station (KBS),2,Potentilla_simplex,0.6888633754305395
+Kellogg Biological Station (KBS),2,Oxalis_stricta,0.6314580941446613
+Kellogg Biological Station (KBS),2,Rudbeckia_hirta,0.5740528128587831
+Kellogg Biological Station (KBS),2,Bromus_inermis,0.4592422502870264
+Kellogg Biological Station (KBS),2,Schizachyrium_scoparium,0.4592422502870264
+Kellogg Biological Station (KBS),2,Panicum_dichotomiflorum,0.3444316877152698
+Kellogg Biological Station (KBS),2,Barbarea_vulgaris,0.28702640642939153
+Kellogg Biological Station (KBS),3,Andropogon_gerardii,60.68476977567887
+Kellogg Biological Station (KBS),3,Solidago_altissima,9.090909090909092
+Kellogg Biological Station (KBS),3,Daucus_carota,5.194805194805195
+Kellogg Biological Station (KBS),3,Euthamia_graminifolia,4.250295159386068
+Kellogg Biological Station (KBS),3,Poa_pratensis,2.95159386068477
+Kellogg Biological Station (KBS),3,Coreopsis_lanceolata,2.8925619834710745
+Kellogg Biological Station (KBS),3,Ratibida_pinnata,2.5383707201889023
+Kellogg Biological Station (KBS),3,Conyza_canadensis,1.357733175914994
+Kellogg Biological Station (KBS),3,Chamaecrista_fasciculata,1.2396694214876034
+Kellogg Biological Station (KBS),3,Echinacea_purpurea,0.885478158205431
+Kellogg Biological Station (KBS),3,Rubus_flagellaris,0.885478158205431
+Kellogg Biological Station (KBS),3,Rudbeckia_hirta,0.885478158205431
+Kellogg Biological Station (KBS),3,Solanum_carolinense,0.885478158205431
+Kellogg Biological Station (KBS),3,Hypericum_perforatum,0.7674144037780402
+Kellogg Biological Station (KBS),3,Rubus_allegheniensis,0.7674144037780402
+Kellogg Biological Station (KBS),3,Schizachyrium_scoparium,0.7674144037780402
+Kellogg Biological Station (KBS),3,Rubus_occidentalis,0.3541912632821724
+Kellogg Biological Station (KBS),3,Achillea_millefolium,0.29515938606847697
+Kellogg Biological Station (KBS),3,Bromus_inermis,0.29515938606847697
+Kellogg Biological Station (KBS),3,Sorghastrum_nutans,0.29515938606847697
+Kniezenberg,-1,Agrostis_capillaris,21.295060080106808
+Kniezenberg,-1,Arrhenatherum_elatius,14.018691588785046
+Kniezenberg,-1,Stachys_officinalis,13.484646194926569
+Kniezenberg,-1,Dactylis_glomerata,10.814419225634179
+Kniezenberg,-1,Poa_pratensis,9.813084112149532
+Kniezenberg,-1,Holcus_lanatus,5.34045393858478
+Kniezenberg,-1,Plantago_lanceolata,5.14018691588785
+Kniezenberg,-1,Galium_mollugo,4.939919893190922
+Kniezenberg,-1,Lathyrus_pratensis,4.2723631508678235
+Kniezenberg,-1,Lysimachia_nummularia,2.7369826435246996
+Kniezenberg,-1,Calamagrostis_epigejos,2.53671562082777
+Kniezenberg,-1,Carex_hirta,1.268357810413885
+Kniezenberg,-1,Glechoma_hederacea,0.9345794392523363
+Kniezenberg,-1,Rumex_acetosa,0.7343124165554071
+Kniezenberg,-1,Vicia_cracca,0.6008010680907877
+Kniezenberg,-1,Bellis_perennis,0.5340453938584779
+Kniezenberg,-1,Briza_media,0.5340453938584779
+Kniezenberg,-1,Hypericum_perforatum,0.33377837116154874
+Kniezenberg,-1,Achillea_millefolium,0.20026702269692925
+Kniezenberg,-1,Ranunculus_acris,0.20026702269692925
+Kniezenberg,0,Agrostis_capillaris,21.832358674463936
+Kniezenberg,0,Stachys_officinalis,14.10006497725796
+Kniezenberg,0,Holcus_lanatus,12.735542560103962
+Kniezenberg,0,Galium_mollugo,10.396361273554255
+Kniezenberg,0,Arrhenatherum_elatius,6.302794022092267
+Kniezenberg,0,Poa_pratensis,5.7179987004548405
+Kniezenberg,0,Calamagrostis_epigejos,4.808317089018843
+Kniezenberg,0,Plantago_lanceolata,2.8589993502274202
+Kniezenberg,0,Glechoma_hederacea,2.6640675763482777
+Kniezenberg,0,Lathyrus_pratensis,2.599090318388564
+Kniezenberg,0,Lysimachia_nummularia,2.079272254710851
+Kniezenberg,0,Hypericum_perforatum,1.949317738791423
+Kniezenberg,0,Carex_hirta,1.7543859649122806
+Kniezenberg,0,Rumex_acetosa,1.5594541910331383
+Kniezenberg,0,Festuca_pratensis,1.4294996751137101
+Kniezenberg,0,Equisetum_arvense,0.8447043534762833
+Kniezenberg,0,Festuca_rubra,0.8447043534762833
+Kniezenberg,0,Ajuga_reptans,0.7147498375568551
+Kniezenberg,0,Dactylis_glomerata,0.7147498375568551
+Kniezenberg,0,Vicia_cracca,0.649772579597141
+Kniezenberg,1,Festuca_rubra,16.291793313069906
+Kniezenberg,1,Holcus_lanatus,16.291793313069906
+Kniezenberg,1,Agrostis_capillaris,14.954407294832828
+Kniezenberg,1,Stachys_officinalis,9.300911854103342
+Kniezenberg,1,Galium_mollugo,7.841945288753799
+Kniezenberg,1,Trisetum_flavescens,5.835866261398176
+Kniezenberg,1,Lathyrus_pratensis,5.47112462006079
+Kniezenberg,1,Arrhenatherum_elatius,4.741641337386018
+Kniezenberg,1,Calamagrostis_epigejos,2.7963525835866263
+Kniezenberg,1,Dactylis_glomerata,2.492401215805471
+Kniezenberg,1,Glechoma_hederacea,2.127659574468085
+Kniezenberg,1,Hypericum_perforatum,1.82370820668693
+Kniezenberg,1,Elymus_repens,1.762917933130699
+Kniezenberg,1,Rumex_acetosa,1.702127659574468
+Kniezenberg,1,Lysimachia_nummularia,1.5805471124620063
+Kniezenberg,1,Festuca_pratensis,0.60790273556231
+Kniezenberg,1,Veronica_chamaedrys,0.60790273556231
+Kniezenberg,1,Anthoxanthum_odoratum,0.425531914893617
+Kniezenberg,1,Poa_pratensis,0.425531914893617
+Kniezenberg,1,Briza_media,0.364741641337386
+Kniezenberg,1,Trifolium_repens,0.364741641337386
+Kniezenberg,2,Holcus_lanatus,59.00123304562269
+Kniezenberg,2,Festuca_rubra,8.446362515413071
+Kniezenberg,2,Dactylis_glomerata,8.014796547472256
+Kniezenberg,2,Agrostis_capillaris,5.733662145499383
+Kniezenberg,2,Arrhenatherum_elatius,5.117139334155364
+Kniezenberg,2,Galium_mollugo,3.822441430332922
+Kniezenberg,2,Stachys_officinalis,2.281134401972873
+Kniezenberg,2,Lathyrus_pratensis,1.5413070283600494
+Kniezenberg,2,Trisetum_flavescens,1.5413070283600494
+Kniezenberg,2,Calamagrostis_epigejos,0.8631319358816275
+Kniezenberg,2,Plantago_lanceolata,0.6165228113440198
+Kniezenberg,2,Festuca_pratensis,0.4932182490752158
+Kniezenberg,2,Cerastium_fontanum,0.43156596794081376
+Kniezenberg,2,Elymus_repens,0.43156596794081376
+Kniezenberg,2,Equisetum_arvense,0.3082614056720099
+Kniezenberg,2,Hypericum_perforatum,0.3082614056720099
+Kniezenberg,2,Lotus_corniculatus,0.2466091245376079
+Kniezenberg,2,Lysimachia_nummularia,0.18495684340320592
+Kniezenberg,2,Anthoxanthum_odoratum,0.12330456226880394
+Kniezenberg,2,Carex_hirta,0.12330456226880394
+Kniezenberg,2,Carex_pallescens,0.12330456226880394
+Kniezenberg,2,Veronica_chamaedrys,0.12330456226880394
+Konza LTER DRAGNet,-1,Sorghastrum_nutans,43.12423124231242
+Konza LTER DRAGNet,-1,Sporobolus_compositus,14.391143911439114
+Konza LTER DRAGNet,-1,Symphyotrichum_ericoides,9.54489544895449
+Konza LTER DRAGNet,-1,Kummerowia_stipulacea,5.215252152521526
+Konza LTER DRAGNet,-1,Solidago_missouriensis,4.723247232472325
+Konza LTER DRAGNet,-1,Brickellia_eupatorioides,4.329643296432964
+Konza LTER DRAGNet,-1,Asclepias_verticillata,3.7392373923739237
+Konza LTER DRAGNet,-1,Tripsacum_dactyloides,1.968019680196802
+Konza LTER DRAGNet,-1,Carex_brevior,1.7712177121771218
+Konza LTER DRAGNet,-1,Achillea_millefolium,1.3530135301353015
+Konza LTER DRAGNet,-1,Ambrosia_psilostachya,1.0578105781057812
+Konza LTER DRAGNet,-1,Artemisia_ludoviciana,0.8118081180811807
+Konza LTER DRAGNet,-1,Eupatorium_altissimum,0.7872078720787207
+Konza LTER DRAGNet,-1,Asclepias_viridis,0.6642066420664207
+Konza LTER DRAGNet,-1,Ambrosia_artemisiifolia,0.5904059040590406
+Konza LTER DRAGNet,-1,Antennaria_neglecta,0.4920049200492005
+Konza LTER DRAGNet,-1,Lepidium_densiflorum,0.4920049200492005
+Konza LTER DRAGNet,-1,Bromus_inermis,0.46740467404674046
+Konza LTER DRAGNet,-1,Vernonia_baldwinii,0.4182041820418204
+Konza LTER DRAGNet,-1,Dichanthelium_oligosanthes,0.39360393603936034
+Konza LTER DRAGNet,0,Sorghastrum_nutans,54.09356725146199
+Konza LTER DRAGNet,0,Symphyotrichum_ericoides,11.769005847953217
+Konza LTER DRAGNet,0,Solidago_missouriensis,5.226608187134503
+Konza LTER DRAGNet,0,Brickellia_eupatorioides,5.0438596491228065
+Konza LTER DRAGNet,0,Asclepias_verticillata,3.435672514619883
+Konza LTER DRAGNet,0,Tripsacum_dactyloides,3.1067251461988303
+Konza LTER DRAGNet,0,Artemisia_ludoviciana,2.2660818713450293
+Konza LTER DRAGNet,0,Asclepias_viridis,1.7909356725146197
+Konza LTER DRAGNet,0,Achillea_millefolium,1.7543859649122806
+Konza LTER DRAGNet,0,Ambrosia_psilostachya,1.608187134502924
+Konza LTER DRAGNet,0,Kummerowia_stipulacea,1.4985380116959064
+Konza LTER DRAGNet,0,Antennaria_neglecta,1.425438596491228
+Konza LTER DRAGNet,0,Carex_austrina,1.0599415204678362
+Konza LTER DRAGNet,0,Solidago_altissima,1.0599415204678362
+Konza LTER DRAGNet,0,Vernonia_baldwinii,0.6944444444444444
+Konza LTER DRAGNet,0,Carex_brevior,0.6213450292397661
+Konza LTER DRAGNet,0,Eupatorium_altissimum,0.5482456140350876
+Konza LTER DRAGNet,0,Mirabilis_albida,0.5482456140350876
+Konza LTER DRAGNet,0,Dichanthelium_oligosanthes,0.4751461988304093
+Konza LTER DRAGNet,0,Bromus_inermis,0.3289473684210526
+Konza LTER DRAGNet,0,Physalis_pumila,0.3289473684210526
+LSU Botanical Garden,0,Axonopus_fissifolius,17.96690307328605
+LSU Botanical Garden,0,Gelsemium_sempervirens,14.420803782505912
+LSU Botanical Garden,0,Helianthus_simulans,8.628841607565011
+LSU Botanical Garden,0,Vernonia_gigantea,6.8557919621749415
+LSU Botanical Garden,0,Carex_cherokeensis,6.73758865248227
+LSU Botanical Garden,0,Lonicera_japonica,6.264775413711583
+LSU Botanical Garden,0,Campsis_radicans,5.319148936170213
+LSU Botanical Garden,0,Symphyotrichum_racemosum,4.137115839243498
+LSU Botanical Garden,0,Conoclinium_coelestinum,3.309692671394799
+LSU Botanical Garden,0,Carex_aureolensis,2.8368794326241136
+LSU Botanical Garden,0,Verbena_brasiliensis,2.4822695035460995
+LSU Botanical Garden,0,Andropogon_glomeratus,2.3640661938534278
+LSU Botanical Garden,0,Rubus_argutus,2.3640661938534278
+LSU Botanical Garden,0,Phyllanthus_urinaria,2.127659574468085
+LSU Botanical Garden,0,Rubus_trivialis,1.6548463356973995
+LSU Botanical Garden,0,Andropogon_virginicus,1.5366430260047281
+LSU Botanical Garden,0,Centella_erecta,1.4184397163120568
+LSU Botanical Garden,0,Juncus_marginatus,1.4184397163120568
+LSU Botanical Garden,0,Panicum_anceps,1.4184397163120568
+LSU Botanical Garden,0,Hydrocotyle_umbellata,0.8274231678486997
+LSU Botanical Garden,1,Gelsemium_sempervirens,17.485380116959064
+LSU Botanical Garden,1,Lonicera_japonica,10
+LSU Botanical Garden,1,Verbena_brasiliensis,9.941520467836257
+LSU Botanical Garden,1,Dichanthelium_acuminatum,8.362573099415204
+LSU Botanical Garden,1,Vernonia_gigantea,6.842105263157896
+LSU Botanical Garden,1,Carex_cherokeensis,6.549707602339182
+LSU Botanical Garden,1,Helianthus_simulans,6.081871345029239
+LSU Botanical Garden,1,Rubus_argutus,4.970760233918129
+LSU Botanical Garden,1,Axonopus_fissifolius,3.91812865497076
+LSU Botanical Garden,1,Rubus_trivialis,3.3918128654970756
+LSU Botanical Garden,1,Campsis_radicans,3.3333333333333335
+LSU Botanical Garden,1,Eupatorium_capillifolium,1.9298245614035088
+LSU Botanical Garden,1,Conoclinium_coelestinum,1.4035087719298245
+LSU Botanical Garden,1,Phyllanthus_urinaria,1.345029239766082
+LSU Botanical Garden,1,Baccharis_halimifolia,1.1695906432748537
+LSU Botanical Garden,1,Diodia_virginiana,0.9941520467836258
+LSU Botanical Garden,1,Carex_aureolensis,0.8771929824561403
+LSU Botanical Garden,1,Lythrum_alatum,0.8187134502923977
+LSU Botanical Garden,1,Solidago_altissima,0.8187134502923977
+LSU Botanical Garden,1,Steinchisma_hians,0.7602339181286549
+Ladybird Johnson Wildflower Center,0,Nassella_leucotricha,66.2902315076228
+Ladybird Johnson Wildflower Center,0,Solanum_elaeagnifolium,5.081874647092039
+Ladybird Johnson Wildflower Center,0,Sida_abutifolia,3.2185206098249575
+Ladybird Johnson Wildflower Center,0,Hilaria_belangeri,3.1055900621118013
+Ladybird Johnson Wildflower Center,0,Cynodon_dactylon,2.710333145115754
+Ladybird Johnson Wildflower Center,0,Croton_monanthogynus,2.4280067758328627
+Ladybird Johnson Wildflower Center,0,Evolvulus_sericeus,2.3150762281197066
+Ladybird Johnson Wildflower Center,0,Ditaxis_humilis,1.4116318464144553
+Ladybird Johnson Wildflower Center,0,Abutilon_fruticosum,1.2987012987012987
+Ladybird Johnson Wildflower Center,0,Amphiachyris_dracunculoides,1.2422360248447204
+Ladybird Johnson Wildflower Center,0,Panicum_diffusum,1.2422360248447204
+Ladybird Johnson Wildflower Center,0,Bothriochloa_laguroides,0.846979107848673
+Ladybird Johnson Wildflower Center,0,Digitaria_cognata,0.846979107848673
+Ladybird Johnson Wildflower Center,0,Bouteloua_rigidiseta,0.6775832862789385
+Ladybird Johnson Wildflower Center,0,Opuntia_macrorhiza,0.6775832862789385
+Ladybird Johnson Wildflower Center,0,Ulmus_crassifolia,0.564652738565782
+Ladybird Johnson Wildflower Center,0,Aristida_purpurea,0.5081874647092038
+Ladybird Johnson Wildflower Center,0,Bothriochloa_ischaemum,0.5081874647092038
+Ladybird Johnson Wildflower Center,0,Convolvulus_equitans,0.5081874647092038
+Ladybird Johnson Wildflower Center,0,Ambrosia_psilostachya,0.4517221908526256
+Ladybird Johnson Wildflower Center,0,Senna_lindheimeriana,0.4517221908526256
+Ladybird Johnson Wildflower Center,1,Nassella_leucotricha,36.979046741883494
+Ladybird Johnson Wildflower Center,1,Croton_monanthogynus,25.53534423209763
+Ladybird Johnson Wildflower Center,1,Bromus_arvensis,9.808887865530739
+Ladybird Johnson Wildflower Center,1,Solanum_elaeagnifolium,3.9603960396039604
+Ladybird Johnson Wildflower Center,1,Sida_abutifolia,3.615012664057103
+Ladybird Johnson Wildflower Center,1,Panicum_hallii,2.118351370020723
+Ladybird Johnson Wildflower Center,1,Cynodon_dactylon,1.7499424361040756
+Ladybird Johnson Wildflower Center,1,Cirsium_texanum,1.5657379691457518
+Ladybird Johnson Wildflower Center,1,Medicago_minima,1.5657379691457518
+Ladybird Johnson Wildflower Center,1,Abutilon_fruticosum,1.2433801519686851
+Ladybird Johnson Wildflower Center,1,Convolvulus_equitans,1.1512779184895234
+Ladybird Johnson Wildflower Center,1,Evolvulus_sericeus,0.8519456596822473
+Ladybird Johnson Wildflower Center,1,Solanum_rostratum,0.6677411927239235
+Ladybird Johnson Wildflower Center,1,Vicia_ludoviciana,0.5986645176145522
+Ladybird Johnson Wildflower Center,1,Eragrostis_intermedia,0.5526134008749712
+Ladybird Johnson Wildflower Center,1,Monarda_citriodora,0.5065622841353903
+Ladybird Johnson Wildflower Center,1,Geranium_carolinianum,0.4835367257655998
+Ladybird Johnson Wildflower Center,1,Lygodesmia_texana,0.4374856090260189
+Ladybird Johnson Wildflower Center,1,Dichanthelium_oligosanthes,0.41446005065622843
+Ladybird Johnson Wildflower Center,1,Gaillardia_pulchella,0.345383375546857
+Lublin,0,Erigeron_annuus,20.202952029520297
+Lublin,0,Elymus_repens,16.605166051660518
+Lublin,0,Fragaria_vesca,6.826568265682657
+Lublin,0,Calamagrostis_epigejos,6.134686346863469
+Lublin,0,Agrostis_capillaris,5.119926199261993
+Lublin,0,Echinochloa_crus-galli,3.6900369003690034
+Lublin,0,Taraxacum_officinale,3.5285977859778597
+Lublin,0,Poa_pratensis,3.0904059040590406
+Lublin,0,Daucus_carota,2.7675276752767526
+Lublin,0,Dactylis_glomerata,2.7214022140221403
+Lublin,0,Jacobaea_vulgaris,2.53690036900369
+Lublin,0,Urtica_dioica,2.1678966789667897
+Lublin,0,Achillea_millefolium,1.9603321033210335
+Lublin,0,Hieracium_pilosella,1.8911439114391144
+Lublin,0,Geum_urbanum,1.5682656826568264
+Lublin,0,Rubus_idaeus,1.5452029520295203
+Lublin,0,Solidago_virgaurea,1.3837638376383763
+Lublin,0,Cirsium_arvense,1.3607011070110702
+Lublin,0,Convolvulus_arvensis,1.3376383763837638
+Lublin,0,Veronica_chamaedrys,1.2915129151291513
+Lublin,1,Elymus_repens,27.58334914279439
+Lublin,1,Erigeron_annuus,18.60191111421754
+Lublin,1,Urtica_dioica,5.416820600892653
+Lublin,1,Fragaria_vesca,4.81772523489531
+Lublin,1,Dactylis_glomerata,4.343441403480745
+Lublin,1,Agrostis_capillaris,4.3184790965641895
+Lublin,1,Sonchus_arvensis,3.7493384988667127
+Lublin,1,Chenopodium_album,3.644496809817177
+Lublin,1,Setaria_pumila,2.396381463989377
+Lublin,1,Solidago_gigantea,2.0968337809907047
+Lublin,1,Agrimonia_eupatoria,1.9969845533244805
+Lublin,1,Cirsium_arvense,1.9720222464079247
+Lublin,1,Calamagrostis_epigejos,1.9071202484248793
+Lublin,1,Poa_pratensis,1.7473614841589207
+Lublin,1,Daucus_carota,1.7223991772423646
+Lublin,1,Pilosella_officinarum,1.5726253357430287
+Lublin,1,Geum_urbanum,1.332987189344091
+Lublin,1,Rubus_idaeus,1.2780701141276678
+Lublin,1,Capsella_bursa-pastoris,1.1981907319946885
+Lublin,1,Achillea_millefolium,0.9335902786791948
+Mendoza,0,Eragrostis_lehmanniana,99.48415622697127
+Mendoza,0,Solanum_elaeagnifolium,0.2947678703021371
+Mendoza,0,Leptochloa_crinita,0.2210759027266028
+Mendoza,1,Eragrostis_lehmanniana,89.74042027194066
+Mendoza,1,Solanum_elaeagnifolium,3.584672435105068
+Mendoza,1,Leptochloa_crinita,2.843016069221261
+Mendoza,1,Lycium_chilense,1.8541409147095178
+Mendoza,1,Sphaeralcea_miniata,0.9888751545117428
+Mendoza,1,Allionia_incarnata,0.6180469715698393
+Mendoza,1,Kallstroemia_tribuloides,0.2472187886279357
+Mendoza,1,Verbena_mendocina,0.12360939431396785
+Meranges,0,Galium_verum,26.150925486473657
+Meranges,0,Agrostis_capillaris,15.282392026578073
+Meranges,0,Lotus_corniculatus,6.4546748932131
+Meranges,0,Cerastium_glomeratum,6.169909824394875
+Meranges,0,Euphrasia_minima,5.932605600379687
+Meranges,0,Stellaria_graminea,4.935927859515899
+Meranges,0,Trifolium_pratense,4.698623635500712
+Meranges,0,Carlina_acanthifolia,4.556241101091599
+Meranges,0,Pimpinella_saxifraga,3.8917892738490742
+Meranges,0,Plantago_media,3.7968675842429995
+Meranges,0,Achillea_millefolium,2.5628856193640246
+Meranges,0,Pilosella_officinarum,2.1357380161366875
+Meranges,0,Centaurea_nigra,1.8035121025154248
+Meranges,0,Thymus_serpyllum,1.7560512577123872
+Meranges,0,Cuscuta_epithymum,1.2339819648789747
+Meranges,0,Phalaris_arundinacea,1.044138585666825
+Meranges,0,Genista_sagittalis,0.9492168960607499
+Meranges,0,Arrhenatherum_elatius,0.7593735168485999
+Meranges,0,Briza_media,0.7119126720455624
+Meranges,0,Poa_bulbosa,0.6169909824394874
+Meranges,0,Prunella_grandiflora,0.6169909824394874
+Meranges,1,Galium_verum,31.480817497310866
+Meranges,1,Agrostis_capillaris,16.063105055575473
+Meranges,1,Lotus_corniculatus,12.836141986375043
+Meranges,1,Carlina_acanthifolia,6.09537468626748
+Meranges,1,Pimpinella_saxifraga,4.481893151667264
+Meranges,1,Cerastium_glomeratum,3.442093940480459
+Meranges,1,Plantago_media,3.3345285048404447
+Meranges,1,Achillea_millefolium,3.119397633560416
+Meranges,1,Genista_sagittalis,3.083542488347078
+Meranges,1,Centaurea_nigra,2.5457153101470062
+Meranges,1,Cuscuta_epithymum,2.007888131946934
+Meranges,1,Festuca_arundinacea,2.007888131946934
+Meranges,1,Euphorbia_cyparissias,1.5059160989602007
+Meranges,1,Stellaria_graminea,1.3624955181068483
+Meranges,1,Ranunculus_acris,1.2907852276801721
+Meranges,1,Trifolium_pratense,1.219074937253496
+Meranges,1,Thymus_serpyllum,1.003944065973467
+Meranges,1,Carex_nigra,0.8246683399067766
+Meranges,1,Trifolium_badium,0.6453926138400861
+Meranges,1,Pilosella_officinarum,0.46611688777339555
+Meranges,2,Galium_verum,29.84054669703872
+Meranges,2,Agrostis_capillaris,21.64009111617312
+Meranges,2,Cerastium_glomeratum,9.567198177676538
+Meranges,2,Pimpinella_saxifraga,7.915717539863326
+Meranges,2,Carlina_acanthifolia,5.637813211845103
+Meranges,2,Achillea_millefolium,3.8724373576309796
+Meranges,2,Prunella_grandiflora,3.530751708428246
+Meranges,2,Lotus_corniculatus,2.9612756264236904
+Meranges,2,Phleum_pratense,2.6765375854214124
+Meranges,2,Trifolium_pratense,2.1070615034168565
+Meranges,2,Ranunculus_acris,1.9077448747152619
+Meranges,2,Phalaris_arundinacea,1.879271070615034
+Meranges,2,Euphorbia_cyparissias,1.082004555808656
+Meranges,2,Rumex_acetosella,0.8542141230068337
+Meranges,2,Plantago_media,0.7972665148063782
+Meranges,2,Briza_media,0.683371298405467
+Meranges,2,Thymus_serpyllum,0.6264236902050113
+Meranges,2,Arrhenatherum_elatius,0.5694760820045558
+Meranges,2,Genista_sagittalis,0.5694760820045558
+Meranges,2,Cuscuta_epithymum,0.4271070615034169
+Meranges,3,Galium_verum,49.2630199803472
+Meranges,3,Agrostis_capillaris,19.65280052407468
+Meranges,3,Carlina_acanthifolia,7.009498853586636
+Meranges,3,Ranunculus_acris,5.50278414674091
+Meranges,3,Cerastium_glomeratum,4.258106780216181
+Meranges,3,Lotus_corniculatus,3.209957418932198
+Meranges,3,Euphorbia_cyparissias,1.9325253848673438
+Meranges,3,Plantago_media,1.3101867016049789
+Meranges,3,Centaurea_nigra,1.1791680314444808
+Meranges,3,Rumex_acetosella,1.1136586963642319
+Meranges,3,Genista_sagittalis,1.048149361283983
+Meranges,3,Achillea_millefolium,0.982640026203734
+Meranges,3,Phleum_pratense,0.982640026203734
+Meranges,3,Phalaris_arundinacea,0.7206026858827383
+Meranges,3,Pimpinella_saxifraga,0.6550933508024894
+Meranges,3,Prunella_grandiflora,0.3930560104814936
+Meranges,3,Stellaria_graminea,0.3275466754012447
+Meranges,3,Euphrasia_minima,0.13101867016049787
+Meranges,3,Urtica_dioica,0.13101867016049787
+Meranges,3,Arrhenatherum_elatius,0.06550933508024893
+Meranges,3,Pilosella_officinarum,0.06550933508024893
+Meranges,3,Trifolium_pratense,0.06550933508024893
+Millville,-1,Poa_bulbosa,50.92546273136568
+Millville,-1,Erodium_cicutarium,19.209604802401202
+Millville,-1,Convolvulus_arvensis,16.50825412706353
+Millville,-1,Isatis_tinctoria,8.0040020010005
+Millville,-1,Agropyron_cristatum,2.501250625312656
+Millville,-1,Tragopogon_dubius,1.7008504252126064
+Millville,-1,Medicago_sativa,0.6003001500750376
+Millville,-1,Bromus_tectorum,0.3001500750375188
+Millville,-1,Taraxacum_officinale,0.25012506253126565
+Millville,0,Poa_bulbosa,37.28813559322034
+Millville,0,Convolvulus_arvensis,35.02824858757062
+Millville,0,Agropyron_cristatum,19.2090395480226
+Millville,0,Erodium_cicutarium,3.1073446327683616
+Millville,0,Poa_secunda,1.977401129943503
+Millville,0,Tragopogon_dubius,1.4124293785310735
+Millville,0,Bromus_tectorum,0.847457627118644
+Millville,0,Centaurea_stoebe,0.5649717514124294
+Millville,0,Grindelia_squarrosa,0.2824858757062147
+Millville,0,Taraxacum_officinale,0.2824858757062147
+Millville,1,Poa_bulbosa,35.66021867115223
+Millville,1,Convolvulus_arvensis,23.465096719932717
+Millville,1,Erodium_cicutarium,21.530698065601346
+Millville,1,Secale_cereale,16.232127838519762
+Millville,1,Avena_fatua,0.8410428931875525
+Millville,1,Eremopyrum_triticeum,0.7569386038687973
+Millville,1,Medicago_sativa,0.6728343145500421
+Millville,1,Centaurea_stoebe,0.42052144659377627
+Millville,1,Isatis_tinctoria,0.16820857863751051
+Millville,1,Taraxacum_officinale,0.16820857863751051
+Millville,1,Tragopogon_dubius,0.08410428931875526
+Millville,2,Convolvulus_arvensis,29.98405103668261
+Millville,2,Poa_bulbosa,19.138755980861244
+Millville,2,Erodium_cicutarium,17.065390749601274
+Millville,2,Elymus_repens,15.47049441786284
+Millville,2,Elymus_trachycaulus,14.513556618819775
+Millville,2,Isatis_tinctoria,0.9569377990430622
+Millville,2,Medicago_lupulina,0.6379585326953748
+Millville,2,Medicago_sativa,0.6379585326953748
+Millville,2,Tragopogon_dubius,0.6379585326953748
+Millville,2,Bromus_tectorum,0.4784688995215311
+Millville,2,Capsella_bursa-pastoris,0.3189792663476874
+Millville,2,Onopordum_acanthium,0.1594896331738437
+Morella la Vella,0,Brachypodium_phoenicoides,35.88374851720047
+Morella la Vella,0,Koeleria_vallesiana,21.945432977461447
+Morella la Vella,0,Dorycnium_pentaphyllum,15.06524317912218
+Morella la Vella,0,Trifolium_campestre,4.389086595492289
+Morella la Vella,0,Dactylis_glomerata,3.6773428232502967
+Morella la Vella,0,Globularia_vulgaris,3.6180308422301306
+Morella la Vella,0,Medicago_sativa,1.8386714116251484
+Morella la Vella,0,Thymus_vulgaris,1.6607354685646498
+Morella la Vella,0,Galium_verum,1.601423487544484
+Morella la Vella,0,Onobrychis_argentea,1.4234875444839856
+Morella la Vella,0,Eryngium_campestre,1.3048635824436536
+Morella la Vella,0,Helianthemum_marifolium,1.3048635824436536
+Morella la Vella,0,Helianthemum_apenninum,0.8896797153024912
+Morella la Vella,0,Helictotrichon_bromoides,0.8896797153024912
+Morella la Vella,0,Hippocrepis_fruticescens,0.7117437722419928
+Morella la Vella,0,Linum_narbonense,0.6524317912218268
+Morella la Vella,0,Sanguisorba_minor,0.5931198102016607
+Morella la Vella,0,Ranunculus_bulbosus,0.4744958481613286
+Morella la Vella,0,Tanacetum_corymbosum,0.4744958481613286
+Morella la Vella,0,Argyrolobium_zanonii,0.41518386714116245
+Nillahcootie,0,Microlaena_stipoides,35.87846171095414
+Nillahcootie,0,Agrostis_capillaris,15.235155616232365
+Nillahcootie,0,Anthoxanthum_odoratum,15.235155616232365
+Nillahcootie,0,Themeda_triandra,13.223587450452767
+Nillahcootie,0,Stenotaphrum_secundatum,7.136120509421394
+Nillahcootie,0,Eragrostis_brownii,3.0997935669390526
+Nillahcootie,0,Vulpia_muralis,2.618336268244264
+Nillahcootie,0,Holcus_lanatus,2.2094273296267715
+Nillahcootie,0,Hypochaeris_radicata,1.6883981981625478
+Nillahcootie,0,Juncus_bufonius,1.6092545326236787
+Nillahcootie,0,Setaria_parviflora,1.121201928467317
+Nillahcootie,0,Aira_elegantissima,0.5606009642336585
+Nillahcootie,0,Rumex_acetosella,0.14509672015459396
+Nillahcootie,0,Romulea_rosea,0.11871549830830418
+Nillahcootie,0,Drosera_hookeri,0.04616713823100717
+Nillahcootie,0,Hypericum_gramineum,0.04155042440790645
+Nillahcootie,0,Trifolium_glomeratum,0.02638122184628981
+Nillahcootie,0,Cetraria_ericetorum,0.006595305461572452
+Nillahcootie,1,Anthoxanthum_odoratum,20.953757225433524
+Nillahcootie,1,Juncus_bufonius,17.174299688750555
+Nillahcootie,1,Agrostis_capillaris,14.395286794130724
+Nillahcootie,1,Microlaena_stipoides,12.783459315251221
+Nillahcootie,1,Themeda_triandra,10.893730546909737
+Nillahcootie,1,Trifolium_glomeratum,4.001778568252556
+Nillahcootie,1,Stenotaphrum_secundatum,3.6682970208981773
+Nillahcootie,1,Eragrostis_brownii,3.5571365051133834
+Nillahcootie,1,Vulpia_muralis,3.4459759893285904
+Nillahcootie,1,Holcus_lanatus,2.612272120942641
+Nillahcootie,1,Aira_elegantissima,2.334370831480658
+Nillahcootie,1,Hypochaeris_radicata,2.334370831480658
+Nillahcootie,1,Setaria_parviflora,0.7225433526011561
+Nillahcootie,1,Rumex_acetosella,0.3056914184081814
+Nillahcootie,1,Hypericum_gramineum,0.2890173410404624
+Nillahcootie,1,Drosera_hookeri,0.2779012894619831
+Nillahcootie,1,Romulea_rosea,0.22232103156958646
+Nillahcootie,1,Centaurium_erythraea,0.027790128946198308
+Nillahcootie,2,Anthoxanthum_odoratum,37.626926447090355
+Nillahcootie,2,Vulpia_muralis,25.44971908664502
+Nillahcootie,2,Trifolium_glomeratum,9.567805783207053
+Nillahcootie,2,Juncus_bufonius,5.734240503066852
+Nillahcootie,2,Themeda_triandra,5.605381165919283
+Nillahcootie,2,Holcus_lanatus,4.742023607030566
+Nillahcootie,2,Microlaena_stipoides,4.059069120148446
+Nillahcootie,2,Hypochaeris_radicata,2.7382609143858567
+Nillahcootie,2,Agrostis_capillaris,2.6416164115251792
+Nillahcootie,2,Cetraria_ericetorum,0.6120818514509562
+Nillahcootie,2,Romulea_rosea,0.5798670171640637
+Nillahcootie,2,Rumex_acetosella,0.5476521828771713
+Nillahcootie,2,Laphangium_luteoalbum,0.06442966857378486
+Nillahcootie,2,Hypericum_gramineum,0.016107417143446216
+Nillahcootie,2,Microtis_unifolia,0.006442966857378486
+Nillahcootie,2,Centaurium_erythraea,0.003221483428689243
+Nillahcootie,2,Aira_elegantissima,0.0025771867429513944
+Nillahcootie,2,Drosera_hookeri,0.0025771867429513944
+Nillahcootie,3,Anthoxanthum_odoratum,19.722955145118735
+Nillahcootie,3,Holcus_lanatus,18.799472295514512
+Nillahcootie,3,Hypochaeris_radicata,18.601583113456467
+Nillahcootie,3,Microlaena_stipoides,13.522427440633244
+Nillahcootie,3,Rumex_acetosella,7.137203166226913
+Nillahcootie,3,Eragrostis_brownii,5.936675461741425
+Nillahcootie,3,Agrostis_capillaris,5.145118733509235
+Nillahcootie,3,Vulpia_muralis,4.122691292875989
+Nillahcootie,3,Panicum_effusum,2.9023746701846966
+Nillahcootie,3,Themeda_triandra,1.912928759894459
+Nillahcootie,3,Setaria_parviflora,0.9894459102902375
+Nillahcootie,3,Trifolium_glomeratum,0.5408970976253298
+Nillahcootie,3,Centaurium_erythraea,0.2770448548812665
+Nillahcootie,3,Cetraria_ericetorum,0.2638522427440633
+Nillahcootie,3,Romulea_rosea,0.0857519788918206
+Nillahcootie,3,Oxalis_exilis,0.01978891820580475
+Nillahcootie,3,Hypericum_gramineum,0.013192612137203165
+Nillahcootie,3,Aira_elegantissima,0.0065963060686015824
+Oak Lake Field Station,0,Trifolium_repens,55.75692963752665
+Oak Lake Field Station,0,Artemisia_biennis,11.40724946695096
+Oak Lake Field Station,0,Bromus_inermis,8.528784648187633
+Oak Lake Field Station,0,Setaria_pumila,7.036247334754798
+Oak Lake Field Station,0,Taraxacum_officinale,5.6503198294243075
+Oak Lake Field Station,0,Medicago_sativa,3.091684434968017
+Oak Lake Field Station,0,Poa_pratensis,2.55863539445629
+Oak Lake Field Station,0,Cirsium_arvense,2.2388059701492535
+Oak Lake Field Station,0,Symphyotrichum_ericoides,1.279317697228145
+Oak Lake Field Station,0,Solidago_rigida,1.0660980810234542
+Oak Lake Field Station,0,Solidago_canadensis,0.5330490405117271
+Oak Lake Field Station,0,Bouteloua_curtipendula,0.21321961620469082
+Oak Lake Field Station,0,Andropogon_gerardii,0.10660980810234541
+Oak Lake Field Station,0,Buchloe_dactyloides,0.10660980810234541
+Oak Lake Field Station,0,Dactylis_glomerata,0.10660980810234541
+Oak Lake Field Station,0,Panicum_virgatum,0.10660980810234541
+Oak Lake Field Station,0,Rhamnus_cathartica,0.10660980810234541
+Oak Lake Field Station,0,Sorghastrum_nutans,0.10660980810234541
+Oak Lake Field Station,1,Ambrosia_artemisiifolia,49.549549549549546
+Oak Lake Field Station,1,Setaria_pumila,9.95732574679943
+Oak Lake Field Station,1,Artemisia_biennis,7.965860597439544
+Oak Lake Field Station,1,Cirsium_arvense,7.396870554765292
+Oak Lake Field Station,1,Eriochloa_villosa,7.112375533428166
+Oak Lake Field Station,1,Bromus_inermis,4.172593646277857
+Oak Lake Field Station,1,Trifolium_pratense,3.4613560929350404
+Oak Lake Field Station,1,Asclepias_syriaca,3.319108582266477
+Oak Lake Field Station,1,Medicago_sativa,2.1337126600284493
+Oak Lake Field Station,1,Apocynum_cannabinum,2.0388809862494073
+Oak Lake Field Station,1,Trifolium_repens,1.327643432906591
+Oak Lake Field Station,1,Taraxacum_officinale,0.42674253200568996
+Oak Lake Field Station,1,Arctium_minus,0.33191085822664773
+Oak Lake Field Station,1,Panicum_virgatum,0.33191085822664773
+Oak Lake Field Station,1,Solidago_missouriensis,0.2370791844476055
+Oak Lake Field Station,1,Lactuca_serriola,0.0948316737790422
+Oak Lake Field Station,1,Chenopodium_album,0.0474158368895211
+Oak Lake Field Station,1,Solidago_canadensis,0.0474158368895211
+Oak Lake Field Station,1,Solidago_rigida,0.0474158368895211
+Park Shaked,0,Bromus_fasciculatus,66.91982071713149
+Park Shaked,0,Scorzoneroides_laciniata,14.81573705179283
+Park Shaked,0,Erucaria_pinnata,3.710159362549801
+Park Shaked,0,Stipa_capensis,3.548306772908367
+Park Shaked,0,Anagallis_arvensis,1.8550796812749004
+Park Shaked,0,Erodium_ciconium,1.6558764940239046
+Park Shaked,0,Avena_barbata,1.4940239043824701
+Park Shaked,0,Brachypodium_distachyon,1.4940239043824701
+Park Shaked,0,Calendula_arvensis,1.245019920318725
+Park Shaked,0,Senecio_glaucus,0.8839641434262949
+Park Shaked,0,Deverra_tortuosa,0.7470119521912353
+Park Shaked,0,Centaurea_hyalolepis,0.4980079681274901
+Park Shaked,0,Onobrychis_squarrosa,0.43575697211155384
+Park Shaked,0,Anthemis_pseudocotula,0.37350597609561753
+Park Shaked,0,Trigonella_stellata,0.3237051792828685
+Park Shaked,1,Bromus_fasciculatus,51.921370554910915
+Park Shaked,1,Stipa_capensis,19.602757490956243
+Park Shaked,1,Brachypodium_distachyon,5.528632857825404
+Park Shaked,1,Scorzoneroides_laciniata,5.474029076513547
+Park Shaked,1,Centaurea_hyalolepis,2.9759060814961433
+Park Shaked,1,Erodium_ciconium,2.204627670466179
+Park Shaked,1,Deverra_tortuosa,2.1841512524742335
+Park Shaked,1,Anagallis_arvensis,1.542556822059927
+Park Shaked,1,Erucaria_pinnata,1.4879530407480714
+Park Shaked,1,Onobrychis_squarrosa,1.324141696812504
+Park Shaked,1,Hippocrepis_unisiliquosa,1.1262029895570265
+Park Shaked,1,Aegilops_geniculata,1.1057265715650808
+Park Shaked,1,Calendula_arvensis,1.044297317589243
+Park Shaked,1,Avena_barbata,0.7235001023820898
+Park Shaked,1,Silene_colorata,0.3003207972152071
+Park Shaked,1,Crupina_crupinastrum,0.25254248856733325
+Park Shaked,1,Anthemis_pseudocotula,0.20476417991945936
+Park Shaked,1,Sonchus_oleraceus,0.1569858712715855
+Park Shaked,1,Hedypnois_rhagadioloides,0.1365094532796396
+Park Shaked,1,Picris_altissima,0.1365094532796396
+Park Shaked,2,Stipa_capensis,71.02453643004309
+Park Shaked,2,Bromus_scoparius,12.649060373353315
+Park Shaked,2,Brachypodium_distachyon,8.971717550103016
+Park Shaked,2,Deverra_tortuosa,2.959355684585128
+Park Shaked,2,Erucaria_pinnata,2.022850721108822
+Park Shaked,2,Erodium_ciconium,1.386027345944934
+Park Shaked,2,Centaurea_hyalolepis,0.4370356496222764
+Park Shaked,2,Silene_colorata,0.18730099269526132
+Park Shaked,2,Scorzoneroides_laciniata,0.16232752700255978
+Park Shaked,2,Anagallis_arvensis,0.08740712992445526
+Park Shaked,2,Anthemis_pseudocotula,0.049946931385403
+Park Shaked,2,Plantago_afra,0.03746019853905227
+Park Shaked,2,Aegilops_geniculata,0.0249734656927015
+Park Shaked,3,Stipa_capensis,34.95724572457245
+Park Shaked,3,Senecio_vernalis,16.08910891089109
+Park Shaked,3,Scorzoneroides_laciniata,11.532403240324031
+Park Shaked,3,Bromus_fasciculatus,10.924842484248423
+Park Shaked,3,Anagallis_arvensis,5.344284428442843
+Park Shaked,3,Calendula_arvensis,4.759225922592259
+Park Shaked,3,Erodium_ciconium,2.9702970297029703
+Park Shaked,3,Erucaria_pinnata,1.991449144914491
+Park Shaked,3,Brachypodium_distachyon,1.5751575157515747
+Park Shaked,3,Centaurea_hyalolepis,1.3276327632763276
+Park Shaked,3,Trigonella_arabica,1.3051305130513053
+Park Shaked,3,Onobrychis_squarrosa,1.2151215121512149
+Park Shaked,3,Anthemis_pseudocotula,1.0463546354635465
+Park Shaked,3,Crupina_crupinastrum,0.9000900090009
+Park Shaked,3,Silene_colorata,0.8663366336633664
+Park Shaked,3,Deverra_tortuosa,0.8438343834383438
+Park Shaked,3,Hippocrepis_unisiliquosa,0.7200720072007198
+Park Shaked,3,Hedypnois_rhagadioloides,0.36003600360036003
+Park Shaked,3,Plantago_albicans,0.27002700270027
+Park Shaked,3,Spergula_fallax,0.225022502250225
+Piedmont Prairie,0,Panicum_oligosanthes,48.040693293142425
+Piedmont Prairie,0,Verbesina_occidentalis,20.779954785229837
+Piedmont Prairie,0,Schizachyrium_scoparium,10.474755086661641
+Piedmont Prairie,0,Eupatorium_capillifolium,10.022607385079125
+Piedmont Prairie,0,Erigeron_canadensis,2.091183119819141
+Piedmont Prairie,0,Andropogon_gerardii,1.5071590052750563
+Piedmont Prairie,0,Solanum_carolinense,1.3376036171816126
+Piedmont Prairie,0,Quercus_rubra,1.0361718161266011
+Piedmont Prairie,0,Pseudognaphalium_obtusifolium,0.9231348907309721
+Piedmont Prairie,0,Callicarpa_americana,0.8854559155990956
+Piedmont Prairie,0,Ligustrum_sinense,0.5651846269781461
+Piedmont Prairie,0,Quercus_alba,0.5651846269781461
+Piedmont Prairie,0,Juniperus_virginiana,0.48982667671439334
+Piedmont Prairie,0,Passiflora_incarnata,0.4709871891484551
+Piedmont Prairie,0,Hypericum_hypericoides,0.3767897513187641
+Piedmont Prairie,0,Lonicera_japonica,0.18839487565938204
+Piedmont Prairie,0,Oxalis_stricta,0.09419743782969102
+Piedmont Prairie,0,Phytolacca_americana,0.09419743782969102
+Piedmont Prairie,0,Verbena_brasiliensis,0.05651846269781462
+Piedmont Prairie,1,Panicum_oligosanthes,23.40341134470448
+Piedmont Prairie,1,Verbesina_occidentalis,22.173740579135266
+Piedmont Prairie,1,Erigeron_canadensis,13.354488959407643
+Piedmont Prairie,1,Verbascum_thapsus,13.22226629644321
+Piedmont Prairie,1,Eupatorium_capillifolium,7.682136718233506
+Piedmont Prairie,1,Schizachyrium_scoparium,5.619463175988365
+Piedmont Prairie,1,Senna_obtusifolia,5.341795583763058
+Piedmont Prairie,1,Solanum_carolinense,2.578341927806426
+Piedmont Prairie,1,Pseudognaphalium_obtusifolium,1.824672748909163
+Piedmont Prairie,1,Passiflora_incarnata,1.3486711622372074
+Piedmont Prairie,1,Callicarpa_americana,1.3222266296443212
+Piedmont Prairie,1,Juniperus_virginiana,0.9123363744545816
+Piedmont Prairie,1,Oxalis_stricta,0.4627793203755124
+Piedmont Prairie,1,Erigeron_strigosus,0.27766759222530746
+Piedmont Prairie,1,Andropogon_gerardii,0.1322226629644321
+Piedmont Prairie,1,Phytolacca_americana,0.1057781303715457
+Piedmont Prairie,1,Ligustrum_sinense,0.07933359777865927
+Piedmont Prairie,1,Erechtites_hieraciifolius,0.06611133148221605
+Piedmont Prairie,1,Hypericum_hypericoides,0.039666798889329634
+Piedmont Prairie,1,Rhus_copallinum,0.026444532592886424
+Piedmont Prairie,1,Verbena_brasiliensis,0.026444532592886424
+Piedmont Prairie,2,Erigeron_canadensis,35.60806681605214
+Piedmont Prairie,2,Verbesina_occidentalis,25.056019555917697
+Piedmont Prairie,2,Schizachyrium_scoparium,12.690975758810346
+Piedmont Prairie,2,Panicum_oligosanthes,6.151965777144021
+Piedmont Prairie,2,Eupatorium_capillifolium,6.029741291505397
+Piedmont Prairie,2,Passiflora_incarnata,4.298227744958239
+Piedmont Prairie,2,Solanum_carolinense,3.07598288857201
+Piedmont Prairie,2,Senna_obtusifolia,2.0574455082501526
+Piedmont Prairie,2,Callicarpa_americana,1.996333265430841
+Piedmont Prairie,2,Tragus_berteronianus,0.8148299042574861
+Piedmont Prairie,2,Verbascum_thapsus,0.6314931757995518
+Piedmont Prairie,2,Carduus_nutans,0.44815644734161736
+Piedmont Prairie,2,Pseudognaphalium_obtusifolium,0.44815644734161736
+Piedmont Prairie,2,Lonicera_japonica,0.20370747606437153
+Piedmont Prairie,2,Oxalis_stricta,0.1833367284579344
+Piedmont Prairie,2,Erigeron_strigosus,0.14259523324506004
+Piedmont Prairie,2,Hedera_helix,0.10185373803218577
+Piedmont Prairie,2,Melia_azedarach,0.06111224281931145
+Potrok Aike,0,Carex_andina,30.0556586270872
+Potrok Aike,0,Festuca_pyrogea,21.150278293135436
+Potrok Aike,0,Nardophyllum_bryoides,12.059369202226346
+Potrok Aike,0,Perezia_recurvata,5.75139146567718
+Potrok Aike,0,Junellia_odonellii,4.081632653061225
+Potrok Aike,0,Luzula_chilensis,4.081632653061225
+Potrok Aike,0,Colobanthus_lycopodoides,2.782931354359926
+Potrok Aike,0,Acaena_poeppigiana,2.5974025974025974
+Potrok Aike,0,Senecio_miser,2.5974025974025974
+Potrok Aike,0,Armeria_maritima,2.2263450834879404
+Potrok Aike,0,Calceolaria_uniflora,2.2263450834879404
+Potrok Aike,0,Azorella_fuegiana,2.0408163265306123
+Potrok Aike,0,Adesmia_lotoides,1.6697588126159555
+Potrok Aike,0,Nassauvia_aculeata,1.4842300556586272
+Potrok Aike,0,Bromus_setifolius,1.2987012987012987
+Potrok Aike,0,Cerastium_arvense,1.1131725417439702
+Potrok Aike,0,Hypochaeris_incana,0.5565862708719851
+Potrok Aike,0,Azorella_monantha,0.3710575139146568
+Potrok Aike,0,Lathyrus_nervosus,0.3710575139146568
+Potrok Aike,0,Oxalis_enneaphylla,0.3710575139146568
+Potrok Aike,1,Calceolaria_uniflora,38.74045801526718
+Potrok Aike,1,Carex_andina,21.374045801526716
+Potrok Aike,1,Festuca_pyrogea,12.977099236641221
+Potrok Aike,1,Nardophyllum_bryoides,7.251908396946565
+Potrok Aike,1,Junellia_odonellii,4.198473282442748
+Potrok Aike,1,Perezia_recurvata,2.8625954198473282
+Potrok Aike,1,Acaena_poeppigiana,2.480916030534351
+Potrok Aike,1,Armeria_maritima,1.5267175572519083
+Potrok Aike,1,Colobanthus_lycopodoides,1.3358778625954197
+Potrok Aike,1,Luzula_chilensis,1.3358778625954197
+Potrok Aike,1,Azorella_fuegiana,0.9541984732824428
+Potrok Aike,1,Bromus_setifolius,0.9541984732824428
+Potrok Aike,1,Cerastium_arvense,0.7633587786259541
+Potrok Aike,1,Adesmia_lotoides,0.5725190839694656
+Potrok Aike,1,Hypochaeris_incana,0.5725190839694656
+Potrok Aike,1,Senecio_miser,0.5725190839694656
+Potrok Aike,1,Nassauvia_aculeata,0.38167938931297707
+Potrok Aike,1,Clinopodium_darwinii,0.19083969465648853
+Potrok Aike,1,Erigeron_patagonicus,0.19083969465648853
+Potrok Aike,1,Lathyrus_nervosus,0.19083969465648853
+Potrok Aike,1,Leucheria_purpurea,0.19083969465648853
+Potrok Aike,1,Oxalis_enneaphylla,0.19083969465648853
+Potrok Aike,1,Senecio_laseguei,0.19083969465648853
+Potrok Aike,2,Calceolaria_uniflora,36.240310077519375
+Potrok Aike,2,Carex_andina,23.06201550387597
+Potrok Aike,2,Festuca_pyrogea,14.34108527131783
+Potrok Aike,2,Nardophyllum_bryoides,7.751937984496124
+Potrok Aike,2,Junellia_odonellii,4.263565891472868
+Potrok Aike,2,Perezia_recurvata,2.9069767441860463
+Potrok Aike,2,Acaena_poeppigiana,2.5193798449612403
+Potrok Aike,2,Bromus_setifolius,1.1627906976744187
+Potrok Aike,2,Colobanthus_lycopodoides,1.1627906976744187
+Potrok Aike,2,Luzula_chilensis,1.1627906976744187
+Potrok Aike,2,Azorella_fuegiana,0.9689922480620154
+Potrok Aike,2,Armeria_maritima,0.7751937984496124
+Potrok Aike,2,Cerastium_arvense,0.7751937984496124
+Potrok Aike,2,Adesmia_lotoides,0.5813953488372093
+Potrok Aike,2,Nassauvia_aculeata,0.5813953488372093
+Potrok Aike,2,Senecio_miser,0.5813953488372093
+Potrok Aike,2,Clinopodium_darwinii,0.3875968992248062
+Potrok Aike,2,Erigeron_patagonicus,0.1937984496124031
+Potrok Aike,2,Hypochaeris_incana,0.1937984496124031
+Potrok Aike,2,Leucheria_purpurea,0.1937984496124031
+Potrok Aike,2,Senecio_laseguei,0.1937984496124031
+Potrok Aike,3,Calceolaria_uniflora,32.79352226720648
+Potrok Aike,3,Carex_andina,24.696356275303643
+Potrok Aike,3,Festuca_pyrogea,15.789473684210526
+Potrok Aike,3,Nardophyllum_bryoides,8.502024291497975
+Potrok Aike,3,Junellia_odonellii,4.4534412955465585
+Potrok Aike,3,Perezia_recurvata,3.2388663967611335
+Potrok Aike,3,Acaena_poeppigiana,1.8218623481781375
+Potrok Aike,3,Bromus_setifolius,1.6194331983805668
+Potrok Aike,3,Luzula_chilensis,1.417004048582996
+Potrok Aike,3,Colobanthus_lycopodoides,1.214574898785425
+Potrok Aike,3,Nassauvia_aculeata,1.214574898785425
+Potrok Aike,3,Azorella_fuegiana,0.8097165991902834
+Potrok Aike,3,Clinopodium_darwinii,0.6072874493927125
+Potrok Aike,3,Armeria_maritima,0.4048582995951417
+Potrok Aike,3,Cerastium_arvense,0.4048582995951417
+Potrok Aike,3,Adesmia_lotoides,0.20242914979757085
+Potrok Aike,3,Erigeron_patagonicus,0.20242914979757085
+Potrok Aike,3,Leucheria_purpurea,0.20242914979757085
+Potrok Aike,3,Senecio_laseguei,0.20242914979757085
+Potrok Aike,3,Senecio_miser,0.20242914979757085
+Potrok Aike,4,Carex_andina,28.000000000000004
+Potrok Aike,4,Calceolaria_uniflora,27.800000000000004
+Potrok Aike,4,Festuca_pyrogea,16.400000000000002
+Potrok Aike,4,Nardophyllum_bryoides,9.4
+Potrok Aike,4,Junellia_odonellii,4.2
+Potrok Aike,4,Perezia_recurvata,3.4000000000000004
+Potrok Aike,4,Acaena_poeppigiana,2
+Potrok Aike,4,Bromus_setifolius,2
+Potrok Aike,4,Nassauvia_aculeata,1.7999999999999998
+Potrok Aike,4,Luzula_chilensis,1.2
+Potrok Aike,4,Colobanthus_lycopodoides,1
+Potrok Aike,4,Clinopodium_darwinii,0.8
+Potrok Aike,4,Azorella_fuegiana,0.6
+Potrok Aike,4,Armeria_maritima,0.4
+Potrok Aike,4,Adesmia_lotoides,0.2
+Potrok Aike,4,Erigeron_patagonicus,0.2
+Potrok Aike,4,Leucheria_purpurea,0.2
+Potrok Aike,4,Senecio_laseguei,0.2
+Potrok Aike,4,Senecio_miser,0.2
+Potrok Aike,5,Carex_andina,29.258517034068138
+Potrok Aike,5,Calceolaria_uniflora,20.64128256513026
+Potrok Aike,5,Festuca_pyrogea,16.63326653306613
+Potrok Aike,5,Nardophyllum_bryoides,10.420841683366733
+Potrok Aike,5,Junellia_odonellii,4.008016032064128
+Potrok Aike,5,Perezia_recurvata,4.008016032064128
+Potrok Aike,5,Acaena_poeppigiana,3.006012024048096
+Potrok Aike,5,Bromus_setifolius,2.2044088176352705
+Potrok Aike,5,Nassauvia_aculeata,2.2044088176352705
+Potrok Aike,5,Luzula_chilensis,1.8036072144288577
+Potrok Aike,5,Colobanthus_lycopodoides,1.402805611222445
+Potrok Aike,5,Armeria_maritima,1.2024048096192386
+Potrok Aike,5,Azorella_fuegiana,1.002004008016032
+Potrok Aike,5,Clinopodium_darwinii,1.002004008016032
+Potrok Aike,5,Adesmia_lotoides,0.6012024048096193
+Potrok Aike,5,Cerastium_arvense,0.2004008016032064
+Potrok Aike,5,Leucheria_purpurea,0.2004008016032064
+Potrok Aike,5,Senecio_miser,0.2004008016032064
+Potrok Aike,6,Carex_andina,30.25540275049116
+Potrok Aike,6,Festuca_pyrogea,16.30648330058939
+Potrok Aike,6,Calceolaria_uniflora,15.324165029469548
+Potrok Aike,6,Nardophyllum_bryoides,11.394891944990176
+Potrok Aike,6,Perezia_recurvata,5.1080550098231825
+Potrok Aike,6,Acaena_poeppigiana,4.12573673870334
+Potrok Aike,6,Junellia_odonellii,3.536345776031434
+Potrok Aike,6,Nassauvia_aculeata,2.5540275049115913
+Potrok Aike,6,Luzula_chilensis,2.357563850687623
+Potrok Aike,6,Bromus_setifolius,1.9646365422396856
+Potrok Aike,6,Armeria_maritima,1.768172888015717
+Potrok Aike,6,Colobanthus_lycopodoides,1.5717092337917484
+Potrok Aike,6,Clinopodium_darwinii,1.1787819253438114
+Potrok Aike,6,Adesmia_lotoides,0.9823182711198428
+Potrok Aike,6,Azorella_fuegiana,0.9823182711198428
+Potrok Aike,6,Cerastium_arvense,0.3929273084479371
+Potrok Aike,6,Senecio_miser,0.19646365422396855
+Saihanba,0,Sanguisorba_officinalis,32.16266173752311
+Saihanba,0,Carex_pendula,27.467652495378932
+Saihanba,0,Trifolium_lupinaster,10.739371534195934
+Saihanba,0,Polygonum_viviparum,4.436229205175601
+Saihanba,0,Pedicularis_sylvatica,4.10351201478743
+Saihanba,0,Artemisia_tanacetifolia,2.1626617375231056
+Saihanba,0,Medicago_ruthenica,2.1626617375231056
+Saihanba,0,Bupleurum_smithii,2.0702402957486137
+Saihanba,0,Potentilla_fragarioides,1.7005545286506467
+Saihanba,0,Taraxacum_mongolicum,1.2384473197781884
+Saihanba,0,Silene_repens,0.7763401109057301
+Saihanba,0,Euphorbia_esula,0.7208872458410351
+Saihanba,0,Astragalus_laxmannii,0.6469500924214419
+Saihanba,0,Equisetum_arvense,0.5914972273567467
+Saihanba,0,Halenia_corniculata,0.5360443622920518
+Saihanba,0,Vicia_sepium,0.46210720887245843
+Saihanba,0,Ranunculus_japonicus,0.44362292051756
+Saihanba,0,Vicia_unijuga,0.44362292051756
+Saihanba,0,Galium_verum,0.4066543438077634
+Saihanba,0,Geranium_wilfordii,0.4066543438077634
+Saihanba,0,Saussurea_iodostegia,0.4066543438077634
+Saihanba,1,Sanguisorba_officinalis,26.434692287717475
+Saihanba,1,Artemisia_tanacetifolia,19.008049857179955
+Saihanba,1,Taraxacum_mongolicum,6.751493118670475
+Saihanba,1,Artemisia_eriopoda,3.8431576213970398
+Saihanba,1,Trifolium_lupinaster,3.6094520903661387
+Saihanba,1,Polygonum_viviparum,3.2459101532069594
+Saihanba,1,Bupleurum_smithii,3.0901064658530255
+Saihanba,1,Achillea_asiatica,2.70059724746819
+Saihanba,1,Potentilla_fragarioides,2.622695403791223
+Saihanba,1,Equisetum_arvense,2.4928589976629447
+Saihanba,1,Medicago_ruthenica,2.1033497792781097
+Saihanba,1,Chenopodium_album,1.8177096857958972
+Saihanba,1,Artemisia_carrulescens,1.5840041547649963
+Saihanba,1,Ampelodesmos_mauritanicus,1.4022331861854065
+Saihanba,1,Iris_tectorum,1.350298623734095
+Saihanba,1,Silene_repens,1.350298623734095
+Saihanba,1,Bromus_inermis,1.3243313425084395
+Saihanba,1,Vicia_sepium,1.2983640612827836
+Saihanba,1,Hieracium_umbellatum,1.272396780057128
+Saihanba,1,Astragalus_adsurgens,0.8309529992209815
+San Claudio,-1,Festuca_arundinacea,70.02775035851975
+San Claudio,-1,Other_standing_dead,18.99688972491759
+San Claudio,-1,Sorghum_halepense,4.495930568230496
+San Claudio,-1,Dactylis_glomerata,3.6131339280725614
+San Claudio,-1,Cynodon_dactylon,2.1231817927849073
+San Claudio,-1,Cinnagrostis_viridiflavescens,0.37248803382191353
+San Claudio,-1,Araujia_sericifera,0.09312200845547838
+San Claudio,-1,Bothriochloa_laguroides,0.09312200845547838
+San Claudio,-1,Eryngium_horridum,0.09312200845547838
+San Claudio,-1,Bromus_catharticus,0.03724880338219135
+San Claudio,-1,Cyperus_eragrostis,0.03724880338219135
+San Claudio,-1,Baccharis_glutinosa,0.009312200845547838
+San Claudio,-1,Oxypetalum_solanoides,0.0074497606764382706
+San Claudio,0,Festuca_arundinacea,71.20669056152927
+San Claudio,0,Other_standing_dead,18.95659099960175
+San Claudio,0,Sorghum_halepense,4.269215452011151
+San Claudio,0,Cynodon_dactylon,2.238152130625249
+San Claudio,0,Dactylis_glomerata,1.592990840302668
+San Claudio,0,Eryngium_horridum,0.31859816806053365
+San Claudio,0,Carduus_acanthoides,0.24691358024691357
+San Claudio,0,Anoda_cristata,0.23894862604540024
+San Claudio,0,Bothriochloa_laguroides,0.23894862604540024
+San Claudio,0,Cirsium_vulgare,0.23894862604540024
+San Claudio,0,Cyperus_eragrostis,0.15929908403026682
+San Claudio,0,Other_ant_nest,0.15929908403026682
+San Claudio,0,Araujia_sericifera,0.08761449621664676
+San Claudio,0,Erigeron_bonariensis,0.04778972520908004
+San Claudio,1,Festuca_arundinacea,54.371374659305324
+San Claudio,1,Other_standing_dead,22.447410720525543
+San Claudio,1,Carduus_acanthoides,8.42826193304913
+San Claudio,1,Cirsium_vulgare,3.6061220211055978
+San Claudio,1,Cynodon_dactylon,2.893283947166119
+San Claudio,1,Chenopodium_album,2.6906142986931303
+San Claudio,1,Trifolium_repens,1.4326647564469914
+San Claudio,1,Erigeron_bonariensis,0.9224963309805018
+San Claudio,1,Sorghum_halepense,0.7128380739394787
+San Claudio,1,Geranium_molle,0.6010203368509329
+San Claudio,1,Polygonum_aviculare,0.34943042840170524
+San Claudio,1,Viola_arvensis,0.33545321126563704
+San Claudio,1,Dactylis_glomerata,0.3144873855615347
+San Claudio,1,Galium_aparine,0.2795443427213642
+San Claudio,1,Other_ant_nest,0.23761269131315957
+San Claudio,1,Anoda_cristata,0.12579495422461387
+San Claudio,1,Anagallis_arvensis,0.05590886854427283
+San Claudio,1,Ammi_majus,0.027954434272136414
+San Claudio,1,Conium_maculatum,0.027954434272136414
+San Claudio,1,Eryngium_horridum,0.027954434272136414
+San Claudio,1,Geranium_dissectum,0.027954434272136414
+San Claudio,2,Festuca_arundinacea,68.07332304541586
+San Claudio,2,Cirsium_vulgare,7.21115710226863
+San Claudio,2,Other_standing_dead,7.009244703405108
+San Claudio,2,Erigeron_bonariensis,3.89402483522506
+San Claudio,2,Viola_arvensis,3.1152198681800485
+San Claudio,2,Hirschfeldia_incana,2.7979289556802285
+San Claudio,2,Carduus_acanthoides,1.9181677892034554
+San Claudio,2,Trifolium_repens,1.9181677892034554
+San Claudio,2,Sorghum_halepense,1.5893390253400062
+San Claudio,2,Cynodon_dactylon,0.6057371965905649
+San Claudio,2,Anagallis_arvensis,0.46151405454519234
+San Claudio,2,Geranium_dissectum,0.28844628409074524
+San Claudio,2,Geranium_molle,0.28844628409074524
+San Claudio,2,Polygonum_aviculare,0.20191239886352164
+San Claudio,2,Dactylis_glomerata,0.17306777045444713
+San Claudio,2,Conium_maculatum,0.08653388522722356
+San Claudio,2,Ambrosia_tenuifolia,0.07211157102268631
+San Claudio,2,Araujia_sericifera,0.07211157102268631
+San Claudio,2,Cyperus_eragrostis,0.07211157102268631
+San Claudio,2,Solanum_bonariense,0.05768925681814904
+Sandflats,0,Other_soil_biocrust,74.97267759562841
+Sandflats,0,Hilaria_jamesii,12.786885245901638
+Sandflats,0,Oryzopsis_hymenoides,3.3333333333333335
+Sandflats,0,Bromus_tectorum,2.622950819672131
+Sandflats,0,Hymenopappus_filifolius,2.349726775956284
+Sandflats,0,Ephedra_viridis,1.366120218579235
+Sandflats,0,Gaillardia_pinnatifida,0.819672131147541
+Sandflats,0,Helianthus_annuus,0.3825136612021858
+Sandflats,0,Androstephium_breviflorum,0.32786885245901637
+Sandflats,0,Chenopodium_atrovirens,0.273224043715847
+Sandflats,0,Chenopodium_desiccatum,0.2185792349726776
+Sandflats,0,Machaeranthera_canescens,0.16393442622950818
+Sandflats,0,Cryptantha_crassisepala,0.1092896174863388
+Sandflats,0,Cymopterus_newberryi,0.1092896174863388
+Sandflats,0,Oenothera_pallida,0.0546448087431694
+Sandflats,0,Salsola_kali,0.0546448087431694
+Sandflats,0,Vulpia_octoflora,0.0546448087431694
+Sandflats,1,Other_soil_biocrust,50.85986095865349
+Sandflats,1,Bromus_tectorum,36.95572630808635
+Sandflats,1,Hilaria_jamesii,5.561653860226857
+Sandflats,1,Oryzopsis_hymenoides,1.8294914013904133
+Sandflats,1,Ephedra_torreyana,1.353823637028906
+Sandflats,1,Hymenopappus_filifolius,0.8781558726673985
+Sandflats,1,Gaillardia_pinnatifida,0.6952067325283571
+Sandflats,1,Sphaeralcea_parvifolia,0.43907793633369924
+Sandflats,1,Plantago_patagonica,0.402488108305891
+Sandflats,1,Vulpia_octoflora,0.3658982802780827
+Sandflats,1,Cryptantha_crassisepala,0.2561287961946579
+Sandflats,1,Stephanomeria_exigua,0.10976948408342481
+Sandflats,1,Ipomopsis_gunnisonii,0.07317965605561653
+Sandflats,1,Lepidium_montanum,0.07317965605561653
+Sandflats,1,Cymopterus_glomeratus,0.03658982802780827
+Sandflats,1,Helianthus_annuus,0.03658982802780827
+Sandflats,1,Machaeranthera_canescens,0.03658982802780827
+Sandflats,1,Salsola_kali,0.03658982802780827
+Sandflats,2,Other_soil_biocrust,57.60492876395842
+Sandflats,2,Bromus_tectorum,34.50134770889488
+Sandflats,2,Hilaria_jamesii,2.887947631882942
+Sandflats,2,Erodium_cicutarium,1.386214863303812
+Sandflats,2,Oryzopsis_hymenoides,1.2706969580284944
+Sandflats,2,Ephedra_torreyana,0.5005775895263765
+Sandflats,2,Cryptantha_crassisepala,0.346553715825953
+Sandflats,2,Sphaeralcea_parvifolia,0.3080477474008471
+Sandflats,2,Androstephium_breviflorum,0.19252984212552945
+Sandflats,2,Helianthus_annuus,0.15402387370042356
+Sandflats,2,Hymenopappus_filifolius,0.15402387370042356
+Sandflats,2,Plantago_patagonica,0.15402387370042356
+Sandflats,2,Cymopterus_glomeratus,0.11551790527531768
+Sandflats,2,Gaillardia_pinnatifida,0.11551790527531768
+Sandflats,2,Machaeranthera_canescens,0.11551790527531768
+Sandflats,2,Vulpia_octoflora,0.11551790527531768
+Sandflats,2,Sisymbrium_altissimum,0.07701193685021178
+Sandflats,3,Other_soil_biocrust,54.4227353463588
+Sandflats,3,Bromus_tectorum,28.987566607460035
+Sandflats,3,Other_standing_dead,12.930728241563056
+Sandflats,3,Hilaria_jamesii,1.3854351687388986
+Sandflats,3,Oryzopsis_hymenoides,0.8525754884547069
+Sandflats,3,Helianthus_annuus,0.24866785079928952
+Sandflats,3,Hymenopappus_filifolius,0.24866785079928952
+Sandflats,3,Chenopodium_atrovirens,0.17761989342806395
+Sandflats,3,Erodium_cicutarium,0.17761989342806395
+Sandflats,3,Androstephium_breviflorum,0.14209591474245115
+Sandflats,3,Chenopodium_desiccatum,0.14209591474245115
+Sandflats,3,Gaillardia_pinnatifida,0.07104795737122557
+Sandflats,3,Vulpia_octoflora,0.07104795737122557
+Sandflats,3,Cryptantha_crassisepala,0.035523978685612786
+Sandflats,3,Cymopterus_newberryi,0.035523978685612786
+Sandflats,3,Oenothera_pallida,0.035523978685612786
+Sandflats,3,Salsola_kali,0.035523978685612786
+Shortgrass Steppe LTER,0,Elymus_elymoides,43.15068493150685
+Shortgrass Steppe LTER,0,Vulpia_octoflora,36.02739726027397
+Shortgrass Steppe LTER,0,Bouteloua_gracilis,6.438356164383562
+Shortgrass Steppe LTER,0,Sphaeralcea_coccinea,4.794520547945205
+Shortgrass Steppe LTER,0,Bromus_tectorum,2.4657534246575343
+Shortgrass Steppe LTER,0,Carex_duriuscula,2.328767123287671
+Shortgrass Steppe LTER,0,Opuntia_polyacantha,1.2328767123287672
+Shortgrass Steppe LTER,0,Artemisia_frigida,0.684931506849315
+Shortgrass Steppe LTER,0,Chenopodium_leptophyllum,0.547945205479452
+Shortgrass Steppe LTER,0,Lepidium_densiflorum,0.547945205479452
+Shortgrass Steppe LTER,0,Echinocereus_viridiflorus,0.410958904109589
+Shortgrass Steppe LTER,0,Pelecyphora_vivipara,0.410958904109589
+Shortgrass Steppe LTER,0,Picradeniopsis_oppositifolia,0.410958904109589
+Shortgrass Steppe LTER,0,Salsola_iberica,0.273972602739726
+Shortgrass Steppe LTER,0,Lappula_redowskii,0.136986301369863
+Shortgrass Steppe LTER,0,Mirabilis_linearis,0.136986301369863
+Shortgrass Steppe LTER,1,Sisymbrium_altissimum,27.626459143968873
+Shortgrass Steppe LTER,1,Elymus_elymoides,17.509727626459142
+Shortgrass Steppe LTER,1,Chenopodium_leptophyllum,11.284046692607005
+Shortgrass Steppe LTER,1,Chenopodium_incanum,10.894941634241246
+Shortgrass Steppe LTER,1,Bouteloua_gracilis,10.505836575875486
+Shortgrass Steppe LTER,1,Carex_duriuscula,4.280155642023346
+Shortgrass Steppe LTER,1,Sphaeralcea_coccinea,3.8910505836575875
+Shortgrass Steppe LTER,1,Salsola_iberica,3.501945525291829
+Shortgrass Steppe LTER,1,Bromus_tectorum,1.9455252918287937
+Shortgrass Steppe LTER,1,Lepidium_densiflorum,1.556420233463035
+Shortgrass Steppe LTER,1,Opuntia_polyacantha,1.556420233463035
+Shortgrass Steppe LTER,1,Plantago_patagonica,1.1673151750972763
+Shortgrass Steppe LTER,1,Artemisia_frigida,0.7782101167315175
+Shortgrass Steppe LTER,1,Echinocereus_viridiflorus,0.7782101167315175
+Shortgrass Steppe LTER,1,Vulpia_octoflora,0.7782101167315175
+Shortgrass Steppe LTER,1,Cryptantha_minima,0.38910505836575876
+Shortgrass Steppe LTER,1,Mirabilis_linearis,0.38910505836575876
+Shortgrass Steppe LTER,1,Oenothera_albicaulis,0.38910505836575876
+Shortgrass Steppe LTER,1,Picradeniopsis_oppositifolia,0.38910505836575876
+Shortgrass Steppe LTER,1,Tragopogon_dubius,0.38910505836575876
+Shortgrass Steppe LTER,2,Salsola_iberica,44.21813403416557
+Shortgrass Steppe LTER,2,Chenopodium_leptophyllum,28.252299605781868
+Shortgrass Steppe LTER,2,Chenopodium_incanum,11.103810775295663
+Shortgrass Steppe LTER,2,Bouteloua_gracilis,7.35873850197109
+Shortgrass Steppe LTER,2,Elymus_elymoides,3.416557161629435
+Shortgrass Steppe LTER,2,Sphaeralcea_coccinea,2.036793692509855
+Shortgrass Steppe LTER,2,Carex_duriuscula,0.8541392904073587
+Shortgrass Steppe LTER,2,Artemisia_frigida,0.5913272010512484
+Shortgrass Steppe LTER,2,Bromus_tectorum,0.45992115637319314
+Shortgrass Steppe LTER,2,Opuntia_polyacantha,0.328515111695138
+Shortgrass Steppe LTER,2,Vulpia_octoflora,0.328515111695138
+Shortgrass Steppe LTER,2,Ipomopsis_laxiflora,0.19710906701708278
+Shortgrass Steppe LTER,2,Lepidium_densiflorum,0.19710906701708278
+Shortgrass Steppe LTER,2,Plantago_patagonica,0.1314060446780552
+Shortgrass Steppe LTER,2,Sisymbrium_altissimum,0.1314060446780552
+Shortgrass Steppe LTER,2,Bassia_scoparia,0.0657030223390276
+Shortgrass Steppe LTER,2,Echinocereus_viridiflorus,0.0657030223390276
+Shortgrass Steppe LTER,2,Lappula_redowskii,0.0657030223390276
+Shortgrass Steppe LTER,2,Oenothera_albicaulis,0.0657030223390276
+Shortgrass Steppe LTER,2,Picradeniopsis_oppositifolia,0.0657030223390276
+Shortgrass Steppe LTER,2,Solanum_triflorum,0.0657030223390276
+Sierra Foothills REC,0,Bromus_hordeaceus,28.202115158636897
+Sierra Foothills REC,0,Hordeum_murinum,24.864864864864867
+Sierra Foothills REC,0,Trifolium_hirtum,22.796709753231493
+Sierra Foothills REC,0,Erodium_botrys,5.405405405405405
+Sierra Foothills REC,0,Bromus_diandrus,4.9588719153936545
+Sierra Foothills REC,0,Taeniatherum_caput-medusae,3.8777908343125738
+Sierra Foothills REC,0,Avena_barbata,3.1022326674500587
+Sierra Foothills REC,0,Plagiobothrys_nothofulvus,1.8801410105757932
+Sierra Foothills REC,0,Amsinckia_menziesii,1.2220916568742655
+Sierra Foothills REC,0,Geranium_molle,1.128084606345476
+Sierra Foothills REC,0,Erodium_moschatum,0.5170387779083431
+Sierra Foothills REC,0,Vulpia_myuros,0.4700352526439483
+Sierra Foothills REC,0,Lolium_perenne,0.35252643948296125
+Sierra Foothills REC,0,Madia_gracilis,0.282021151586369
+Sierra Foothills REC,0,Sherardia_arvensis,0.23501762632197415
+Sierra Foothills REC,0,Sanicula_bipinnatifida,0.1645123384253819
+Sierra Foothills REC,0,Carduus_pycnocephalus,0.1410105757931845
+Sierra Foothills REC,0,Trifolium_dubium,0.11750881316098707
+Sierra Foothills REC,0,Hypochaeris_glabra,0.09400705052878966
+Sierra Foothills REC,0,Sisymbrium_officinale,0.09400705052878966
+Sierra Foothills REC,1,Hordeum_murinum,23.973301195883938
+Sierra Foothills REC,1,Erodium_moschatum,17.011217205895985
+Sierra Foothills REC,1,Trifolium_hirtum,16.779456753499584
+Sierra Foothills REC,1,Bromus_hordeaceus,13.428200611847593
+Sierra Foothills REC,1,Erodium_botrys,11.26355798646519
+Sierra Foothills REC,1,Vulpia_myuros,4.250486696950032
+Sierra Foothills REC,1,Amsinckia_menziesii,3.5922870121442476
+Sierra Foothills REC,1,Taeniatherum_caput-medusae,2.5493649763604336
+Sierra Foothills REC,1,Bromus_diandrus,1.4600908500973393
+Sierra Foothills REC,1,Plagiobothrys_nothofulvus,1.1680726800778716
+Sierra Foothills REC,1,Sisymbrium_officinale,1.0243811995921015
+Sierra Foothills REC,1,Cerastium_glomeratum,0.7138221933809215
+Sierra Foothills REC,1,Sherardia_arvensis,0.6721053119495689
+Sierra Foothills REC,1,Geranium_molle,0.3986279781218132
+Sierra Foothills REC,1,Avena_barbata,0.39399276907388525
+Sierra Foothills REC,1,Triteleia_laxa,0.3893575600259572
+Sierra Foothills REC,1,Carduus_pycnocephalus,0.32446463335496434
+Sierra Foothills REC,1,Hypochaeris_glabra,0.31982942430703626
+Sierra Foothills REC,1,Trifolium_dubium,0.12515064429405767
+Sierra Foothills REC,1,Capsella_bursa-pastoris,0.0834337628627051
+Sierra Foothills REC,2,Hordeum_murinum,21.217830513910044
+Sierra Foothills REC,2,Trifolium_hirtum,14.992383548464685
+Sierra Foothills REC,2,Bromus_hordeaceus,12.486971859215906
+Sierra Foothills REC,2,Erodium_botrys,11.276356930970897
+Sierra Foothills REC,2,Erodium_moschatum,9.300088190491461
+Sierra Foothills REC,2,Bromus_diandrus,7.716668002886235
+Sierra Foothills REC,2,Taeniatherum_caput-medusae,4.822416419466047
+Sierra Foothills REC,2,Vulpia_myuros,4.253186883668724
+Sierra Foothills REC,2,Sisymbrium_officinale,3.0626152489377056
+Sierra Foothills REC,2,Cerastium_glomeratum,2.54148961757396
+Sierra Foothills REC,2,Hypochaeris_glabra,1.8680349555038884
+Sierra Foothills REC,2,Geranium_molle,1.5433336005772469
+Sierra Foothills REC,2,Amsinckia_menziesii,1.2226409043534034
+Sierra Foothills REC,2,Avena_barbata,1.1945802934338172
+Sierra Foothills REC,2,Sherardia_arvensis,0.8538443036959833
+Sierra Foothills REC,2,Carduus_pycnocephalus,0.460995750821775
+Sierra Foothills REC,2,Lolium_perenne,0.22448488735669045
+Sierra Foothills REC,2,Triteleia_laxa,0.2164675699510944
+Sierra Foothills REC,2,Plagiobothrys_nothofulvus,0.18840695903150803
+Sierra Foothills REC,2,Stellaria_media,0.15633768940912374
+Sierra Foothills REC,3,Hordeum_murinum,20.49332559489263
+Sierra Foothills REC,3,Bromus_hordeaceus,17.06326175275682
+Sierra Foothills REC,3,Trifolium_hirtum,14.741729541497389
+Sierra Foothills REC,3,Bromus_diandrus,9.663377829367382
+Sierra Foothills REC,3,Vulpia_myuros,8.766686012768428
+Sierra Foothills REC,3,Taeniatherum_caput-medusae,8.18630295995357
+Sierra Foothills REC,3,Avena_barbata,5.98084735925711
+Sierra Foothills REC,3,Erodium_moschatum,3.1340684852002325
+Sierra Foothills REC,3,Amsinckia_menziesii,2.7248984329657575
+Sierra Foothills REC,3,Erodium_botrys,2.5681950087057457
+Sierra Foothills REC,3,Sisymbrium_officinale,1.9123621590249564
+Sierra Foothills REC,3,Geranium_molle,1.2826465467208357
+Sierra Foothills REC,3,Lolium_perenne,0.8908879860708067
+Sierra Foothills REC,3,Stellaria_media,0.6384213580963436
+Sierra Foothills REC,3,Carduus_pycnocephalus,0.4352872896111433
+Sierra Foothills REC,3,Sherardia_arvensis,0.38885664538595466
+Sierra Foothills REC,3,Plagiobothrys_nothofulvus,0.2901915264074289
+Sierra Foothills REC,3,Hypochaeris_glabra,0.22634939059779455
+Sierra Foothills REC,3,Trifolium_dubium,0.19442832269297738
+Sierra Foothills REC,3,Triteleia_laxa,0.16831108531630876
+Songyuan,0,Phragmites_australis,30.413385826771655
+Songyuan,0,Artemisia_annua,19.980314960629922
+Songyuan,0,Puccinellia_tenuiflora,14.86220472440945
+Songyuan,0,Artemisia_anethifolia,7.480314960629922
+Songyuan,0,Artemisia_mongolica,5.511811023622047
+Songyuan,0,Melilotus_officinalis,5.511811023622047
+Songyuan,0,Setaria_viridis,4.23228346456693
+Songyuan,0,Sonchus_wightianus,4.133858267716536
+Songyuan,0,Tournefortia_sibirica,2.7559055118110236
+Songyuan,0,Oxybasis_glauca,1.4763779527559056
+Songyuan,0,Cynanchum_chinense,1.279527559055118
+Songyuan,0,Bassia_scoparia,1.1811023622047243
+Songyuan,0,Saussurea_amara,0.4921259842519685
+Songyuan,0,Leymus_chinensis,0.2952755905511811
+Songyuan,0,Lactuca_sibirica,0.19685039370078738
+Songyuan,0,Saposhnikovia_divaricata,0.19685039370078738
+Stoderzinken,0,Potentilla_aurea,16.23931623931624
+Stoderzinken,0,Festuca_rubra,14.814814814814813
+Stoderzinken,0,Crepis_aurea,8.831908831908832
+Stoderzinken,0,Poa_supina,6.552706552706552
+Stoderzinken,0,Carex_ferruginea,5.128205128205128
+Stoderzinken,0,Lotus_alpinus,4.843304843304843
+Stoderzinken,0,Carex_umbrosa,3.7037037037037033
+Stoderzinken,0,Galium_anisophyllon,3.133903133903134
+Stoderzinken,0,Trifolium_pratense,3.133903133903134
+Stoderzinken,0,Ranunculus_acris,2.849002849002849
+Stoderzinken,0,Veronica_chamaedrys,2.849002849002849
+Stoderzinken,0,Phyteuma_orbiculare,2.564102564102564
+Stoderzinken,0,Prunella_vulgaris,2.2792022792022792
+Stoderzinken,0,Carex_digitata,1.7094017094017095
+Stoderzinken,0,Carex_flava,1.7094017094017095
+Stoderzinken,0,Ranunculus_montanus,1.7094017094017095
+Stoderzinken,0,Taraxacum_officinale,1.7094017094017095
+Stoderzinken,0,Veronica_serpyllifolia,1.7094017094017095
+Stoderzinken,0,Campanula_scheuchzeri,1.4245014245014245
+Stoderzinken,0,Primula_elatior,1.4245014245014245
+Temple,0,Sorghum_halepense,17.65267175572519
+Temple,0,Schizachyrium_scoparium,16.889312977099237
+Temple,0,Mimosa_quadrivalvis,11.603053435114504
+Temple,0,Rubus_trivialis,5.973282442748092
+Temple,0,Ambrosia_trifida,5.916030534351145
+Temple,0,Monarda_citriodora,4.33206106870229
+Temple,0,Sorghastrum_nutans,4.083969465648854
+Temple,0,Centaurea_americana,4.064885496183206
+Temple,0,Euphorbia_dentata,4.026717557251908
+Temple,0,Vernonia_altissima,3.5877862595419847
+Temple,0,Gaillardia_pulchella,2.2519083969465647
+Temple,0,Sporobolus_compositus,2.099236641221374
+Temple,0,Andropogon_gerardii,2.0610687022900764
+Temple,0,Eriochloa_sericea,1.984732824427481
+Temple,0,Salvia_azurea,1.6793893129770994
+Temple,0,Stenaria_nigricans,1.6412213740458017
+Temple,0,Symphyotrichum_ericoides,1.5076335877862594
+Temple,0,Solidago_canadensis,1.4885496183206106
+Temple,0,Brickellia_eupatorioides,0.8396946564885497
+Temple,0,Galium_texense,0.648854961832061
+Temple,1,Sorghum_halepense,24.68145351580934
+Temple,1,Ambrosia_trifida,19.466729589428976
+Temple,1,Schizachyrium_scoparium,13.331760264275601
+Temple,1,Desmanthus_illinoensis,12.081170363378952
+Temple,1,Mimosa_quadrivalvis,4.412458706937235
+Temple,1,Rubus_trivialis,3.232656913638509
+Temple,1,Vernonia_altissima,2.9495044832468142
+Temple,1,Scutellaria_drummondii,2.4775837659273243
+Temple,1,Ruellia_humilis,2.383199622463426
+Temple,1,Salvia_azurea,2.3596035865974514
+Temple,1,Euphorbia_dentata,1.5337423312883436
+Temple,1,Stenaria_nigricans,1.4157621519584709
+Temple,1,Oxalis_stricta,1.1562057574327513
+Temple,1,Ambrosia_artemisiifolia,1.1090136857008022
+Temple,1,Physalis_mollis,0.8494572911750826
+Temple,1,Polytaenia_nuttallii,0.7550731477111845
+Temple,1,Croton_monanthogynus,0.6370929683813119
+Temple,1,Nassella_leucotricha,0.6370929683813119
+Temple,1,Eriochloa_sericea,0.6134969325153374
+Temple,1,Symphyotrichum_ericoides,0.6134969325153374
+Temple,2,Ambrosia_trifida,30.288139379048467
+Temple,2,Sorghum_halepense,10.76613803886531
+Temple,2,Schizachyrium_scoparium,8.487826669644852
+Temple,2,Mimosa_quadrivalvis,7.058297967388877
+Temple,2,Centaurea_americana,5.159705159705159
+Temple,2,Monarda_citriodora,4.57895912441367
+Temple,2,Rubus_trivialis,3.886531159258432
+Temple,2,Anemone_berlandieri,3.707840071476435
+Temple,2,Desmanthus_illinoensis,3.1717668081304446
+Temple,2,Gaillardia_pulchella,3.127094036184945
+Temple,2,Helianthus_annuus,2.85905740451195
+Temple,2,Vernonia_altissima,2.054947509492964
+Temple,2,Ruellia_humilis,1.5858834040652223
+Temple,2,Symphyotrichum_ericoides,1.5858834040652223
+Temple,2,Ambrosia_artemisiifolia,1.3401831583649766
+Temple,2,Salvia_azurea,1.2285012285012284
+Temple,2,Polytaenia_nuttallii,1.1838284565557293
+Temple,2,Nassella_leucotricha,1.1168192986374805
+Temple,2,Eriochloa_sericea,0.8934554389099844
+Temple,2,Croton_monanthogynus,0.8264462809917356
+Temple,3,Ambrosia_trifida,25.70093457943925
+Temple,3,Helianthus_annuus,17.092966060009836
+Temple,3,Sorghum_halepense,10.501721593703886
+Temple,3,Schizachyrium_scoparium,7.8455484505656665
+Temple,3,Mimosa_quadrivalvis,7.452041318248893
+Temple,3,Monarda_citriodora,5.312346286276439
+Temple,3,Gaillardia_pulchella,4.230201672405312
+Temple,3,Rubus_trivialis,3.787506148548942
+Temple,3,Vernonia_altissima,2.828332513526808
+Temple,3,Symphyotrichum_ericoides,2.6561731431382194
+Temple,3,Ambrosia_artemisiifolia,1.9675356615838662
+Temple,3,Croton_monanthogynus,1.6478111165764882
+Temple,3,Salvia_azurea,1.426463354648303
+Temple,3,Oxalis_stricta,0.8853910477127398
+Temple,3,Ruellia_nudiflora,0.8607968519429415
+Temple,3,Solidago_canadensis,0.8116084604033448
+Temple,3,Celtis_laevigata,0.7624200688637481
+Temple,3,Ambrosia_psilostachya,0.6640432857845548
+Temple,3,Ruellia_humilis,0.6640432857845548
+Temple,3,Gutierrezia_texana,0.6148548942449582
+Ukulinga,-1,Tristachya_leucothrix,43.145161290322584
+Ukulinga,-1,Themeda_triandra,14.560931899641577
+Ukulinga,-1,Setaria_nigrirostris,7.93010752688172
+Ukulinga,-1,Cephalaria_pungens,4.838709677419355
+Ukulinga,-1,Hilliardiella_aristata,3.8082437275985663
+Ukulinga,-1,Gerbera_ambigua,2.3297491039426523
+Ukulinga,-1,Ipomoea_pellita,1.971326164874552
+Ukulinga,-1,Cymbopogon_caesius,1.747311827956989
+Ukulinga,-1,Eriosema_cordatum,1.702508960573477
+Ukulinga,-1,Hibiscus_aethiopicus,1.6129032258064515
+Ukulinga,-1,Crabbea_hirsuta,1.3888888888888888
+Ukulinga,-1,Diheteropogon_amplectens,1.3888888888888888
+Ukulinga,-1,Rhynchosia_cooperi,1.3888888888888888
+Ukulinga,-1,Berkheya_umbellata,1.2992831541218637
+Ukulinga,-1,Berkheya_setifera,1.1648745519713262
+Ukulinga,-1,Thunbergia_atriplicifolia,1.1648745519713262
+Ukulinga,-1,Dyschoriste_burchellii,1.1200716845878136
+Ukulinga,-1,Senecio_bupleuroides,1.0752688172043012
+Ukulinga,-1,Brachiaria_serrata,1.0304659498207887
+Ukulinga,-1,Aristida_junciformis,0.7168458781362007
+Ukulinga,0,Tristachya_leucothrix,29.773338455628124
+Ukulinga,0,Themeda_triandra,24.47176334998079
+Ukulinga,0,Setaria_nigrirostris,6.530925854782943
+Ukulinga,0,Cephalaria_pungens,4.456396465616596
+Ukulinga,0,Hilliardiella_aristata,4.033807145601229
+Ukulinga,0,Cymbopogon_caesius,3.1886285055704953
+Ukulinga,0,Eriosema_cordatum,2.1513638109873225
+Ukulinga,0,Hibiscus_aethiopicus,2.1513638109873225
+Ukulinga,0,Gerbera_ambigua,2.0745293891663468
+Ukulinga,0,Thunbergia_atriplicifolia,1.9976949673453708
+Ukulinga,0,Diheteropogon_amplectens,1.9592777564348827
+Ukulinga,0,Dyschoriste_burchellii,1.7671917018824435
+Ukulinga,0,Brachiaria_serrata,1.6519400691509798
+Ukulinga,0,Senecio_bupleuroides,1.3446023818670765
+Ukulinga,0,Crabbea_hirsuta,1.114099116404149
+Ukulinga,0,Senecio_coronatus,0.9604302727621975
+Ukulinga,0,Berkheya_setifera,0.9220130618517095
+Ukulinga,0,Berkheya_umbellata,0.9220130618517095
+Ukulinga,0,Ipomoea_pellita,0.9220130618517095
+Ukulinga,0,Helichrysum_nudifolium,0.8451786400307337
+Ukulinga,1,Tristachya_leucothrix,20.876930742401594
+Ukulinga,1,Themeda_triandra,16.093672147483808
+Ukulinga,1,Erigeron_floribundus,14.648729446935723
+Ukulinga,1,Setaria_nigrirostris,8.470353761833582
+Ukulinga,1,Hilliardiella_aristata,5.879422022919781
+Ukulinga,1,Cephalaria_pungens,4.135525660189337
+Ukulinga,1,Cymbopogon_caesius,4.08570004982561
+Ukulinga,1,Gerbera_ambigua,2.5411061285500747
+Ukulinga,1,Crabbea_hirsuta,1.9431988041853512
+Ukulinga,1,Cirsium_vulgare,1.8435475834578976
+Ukulinga,1,Thunbergia_atriplicifolia,1.7937219730941705
+Ukulinga,1,Brachiaria_serrata,1.5944195316392624
+Ukulinga,1,Eriosema_cordatum,1.2456402590931739
+Ukulinga,1,Erigeron_bonariensis,1.096163428001993
+Ukulinga,1,Spermacoce_natalensis,1.096163428001993
+Ukulinga,1,Berkheya_setifera,1.046337817638266
+Ukulinga,1,Berkheya_umbellata,0.9466865969108121
+Ukulinga,1,Senecio_coronatus,0.7972097658196312
+Ukulinga,1,Rhynchosia_cooperi,0.7473841554559043
+Ukulinga,1,Diheteropogon_amplectens,0.6975585450921774
+Ukulinga,1,Eragrostis_capensis,0.6975585450921774
+Ukulinga,1,Eragrostis_curvula,0.6975585450921774
+Ukulinga,2,Tristachya_leucothrix,19.50859950859951
+Ukulinga,2,Erigeron_floribundus,14.594594594594595
+Ukulinga,2,Setaria_nigrirostris,11.056511056511056
+Ukulinga,2,Themeda_triandra,7.96068796068796
+Ukulinga,2,Hilliardiella_aristata,5.847665847665848
+Ukulinga,2,Cephalaria_pungens,4.0294840294840295
+Ukulinga,2,Senecio_madagascariensis,3.882063882063882
+Ukulinga,2,Gerbera_ambigua,3.3906633906633905
+Ukulinga,2,Thunbergia_atriplicifolia,2.6044226044226044
+Ukulinga,2,Cymbopogon_caesius,2.2604422604422605
+Ukulinga,2,Bidens_pilosa,2.1621621621621623
+Ukulinga,2,Eragrostis_curvula,2.113022113022113
+Ukulinga,2,Crabbea_hirsuta,2.0147420147420148
+Ukulinga,2,Spermacoce_natalensis,2.0147420147420148
+Ukulinga,2,Eriosema_cordatum,1.5724815724815724
+Ukulinga,2,Solanum_aethiopicum,1.425061425061425
+Ukulinga,2,Brachiaria_serrata,1.1793611793611793
+Ukulinga,2,Berkheya_umbellata,1.0319410319410318
+Ukulinga,2,Senecio_coronatus,1.0319410319410318
+Ukulinga,2,Berkheya_setifera,0.9828009828009828
+Ukulinga,2,Helichrysum_miconiifolium,0.9828009828009828
+Ukulinga,3,Tristachya_leucothrix,19.337016574585636
+Ukulinga,3,Bidens_pilosa,13.480662983425415
+Ukulinga,3,Themeda_triandra,11.933701657458563
+Ukulinga,3,Setaria_nigrirostris,8.066298342541437
+Ukulinga,3,Hilliardiella_aristata,5.801104972375691
+Ukulinga,3,Gerbera_ambigua,3.9226519337016574
+Ukulinga,3,Cephalaria_pungens,3.4254143646408837
+Ukulinga,3,Crabbea_hirsuta,2.7624309392265194
+Ukulinga,3,Thunbergia_atriplicifolia,2.707182320441989
+Ukulinga,3,Eragrostis_curvula,2.5966850828729284
+Ukulinga,3,Solanum_viarum,2.4861878453038675
+Ukulinga,3,Physalis_peruviana,1.9889502762430937
+Ukulinga,3,Berkheya_umbellata,1.4917127071823204
+Ukulinga,3,Cymbopogon_caesius,1.4917127071823204
+Ukulinga,3,Panicum_aequinerve,1.4917127071823204
+Ukulinga,3,Tagetes_minuta,1.4364640883977902
+Ukulinga,3,Digitaria_setifolia,1.3259668508287292
+Ukulinga,3,Eriosema_cordatum,1.2154696132596685
+Ukulinga,3,Hyparrhenia_dregeana,1.0497237569060773
+Ukulinga,3,Ipomoea_pellita,1.0497237569060773
+University of Michigan Biological Station,0,Pteridium_aquilinum,44.47045055588063
+University of Michigan Biological Station,0,Centaurea_stoebe,28.26214160327677
+University of Michigan Biological Station,0,Securigera_varia,6.319485078993564
+University of Michigan Biological Station,0,Pilosella_aurantiaca,4.154476301930954
+University of Michigan Biological Station,0,Fragaria_virginiana,3.978935049736688
+University of Michigan Biological Station,0,Festuca_occidentalis,3.0427150380339376
+University of Michigan Biological Station,0,Rumex_acetosella,2.8671737858396726
+University of Michigan Biological Station,0,Hypericum_perforatum,2.399063779988297
+University of Michigan Biological Station,0,Solidago_gigantea,1.2873025160912814
+University of Michigan Biological Station,0,Geocaulon_lividum,0.5266237565827969
+University of Michigan Biological Station,0,Cetraria_ericetorum,0.3510825043885313
+University of Michigan Biological Station,0,Solidago_nemoralis,0.3510825043885313
+University of Michigan Biological Station,0,Asclepias_syriaca,0.29256875365710944
+University of Michigan Biological Station,0,Carex_peckii,0.29256875365710944
+University of Michigan Biological Station,0,Carex_tonsa,0.29256875365710944
+University of Michigan Biological Station,0,Vaccinium_angustifolium,0.29256875365710944
+University of Michigan Biological Station,0,Amelanchier_laevis,0.23405500292568754
+University of Michigan Biological Station,0,Antennaria_parlinii,0.23405500292568754
+University of Michigan Biological Station,0,Diervilla_lonicera,0.11702750146284377
+University of Michigan Biological Station,0,Symphyotrichum_laeve,0.11702750146284377
+University of Michigan Biological Station,1,Pteridium_aquilinum,49.791666666666664
+University of Michigan Biological Station,1,Anaphalis_margaritacea,9.930555555555555
+University of Michigan Biological Station,1,Rumex_acetosella,8.958333333333334
+University of Michigan Biological Station,1,Centaurea_stoebe,8.333333333333332
+University of Michigan Biological Station,1,Poa_compressa,6.875000000000001
+University of Michigan Biological Station,1,Securigera_varia,6.25
+University of Michigan Biological Station,1,Hypericum_perforatum,2.7083333333333335
+University of Michigan Biological Station,1,Pilosella_aurantiaca,1.5277777777777777
+University of Michigan Biological Station,1,Fragaria_virginiana,1.4583333333333333
+University of Michigan Biological Station,1,Agrostis_gigantea,1.1111111111111112
+University of Michigan Biological Station,1,Vaccinium_angustifolium,0.6944444444444444
+University of Michigan Biological Station,1,Asclepias_syriaca,0.3472222222222222
+University of Michigan Biological Station,1,Cetraria_ericetorum,0.3472222222222222
+University of Michigan Biological Station,1,Nepeta_cataria,0.3472222222222222
+University of Michigan Biological Station,1,Symphyotrichum_laeve,0.3472222222222222
+University of Michigan Biological Station,1,Dichanthelium_xanthophysum,0.2777777777777778
+University of Michigan Biological Station,1,Taraxacum_officinale,0.20833333333333334
+University of Michigan Biological Station,1,Apocynum_androsaemifolium,0.1388888888888889
+University of Michigan Biological Station,1,Potentilla_argentea,0.1388888888888889
+University of Michigan Biological Station,1,Spiraea_betulifolia,0.1388888888888889
+University of Michigan Biological Station,2,Pteridium_aquilinum,62.31343283582089
+University of Michigan Biological Station,2,Rumex_acetosella,13.582089552238804
+University of Michigan Biological Station,2,Centaurea_stoebe,6.4179104477611935
+University of Michigan Biological Station,2,Hypericum_perforatum,4.477611940298507
+University of Michigan Biological Station,2,Cirsium_vulgare,3.731343283582089
+University of Michigan Biological Station,2,Erigeron_canadensis,2.7611940298507465
+University of Michigan Biological Station,2,Artemisia_campestris,2.6119402985074625
+University of Michigan Biological Station,2,Poa_compressa,1.4179104477611941
+University of Michigan Biological Station,2,Cetraria_ericetorum,0.8955223880597015
+University of Michigan Biological Station,2,Pilosella_aurantiaca,0.44776119402985076
+University of Michigan Biological Station,2,Asclepias_syriaca,0.2985074626865672
+University of Michigan Biological Station,2,Symphyotrichum_laeve,0.22388059701492538
+University of Michigan Biological Station,2,Clinopodium_vulgare,0.1492537313432836
+University of Michigan Biological Station,2,Fragaria_virginiana,0.1492537313432836
+University of Michigan Biological Station,2,Securigera_varia,0.1492537313432836
+University of Michigan Biological Station,2,Tragopogon_dubius,0.1492537313432836
+University of Michigan Biological Station,2,Vaccinium_angustifolium,0.1492537313432836
+University of Michigan Biological Station,2,Turritis_glabra,0.0746268656716418
+University of Michigan Biological Station,3,Pteridium_aquilinum,42.27642276422765
+University of Michigan Biological Station,3,Poa_pratensis,23.729674796747968
+University of Michigan Biological Station,3,Centaurea_stoebe,6.65650406504065
+University of Michigan Biological Station,3,Rumex_acetosella,5.84349593495935
+University of Michigan Biological Station,3,Verbascum_thapsus,5.487804878048781
+University of Michigan Biological Station,3,Securigera_varia,3.201219512195122
+University of Michigan Biological Station,3,Veronica_filiformis,2.8455284552845526
+University of Michigan Biological Station,3,Pseudognaphalium_macounii,2.4898373983739837
+University of Michigan Biological Station,3,Poa_compressa,2.4390243902439024
+University of Michigan Biological Station,3,Stellaria_media,1.2703252032520325
+University of Michigan Biological Station,3,Asclepias_syriaca,1.1178861788617886
+University of Michigan Biological Station,3,Hypericum_perforatum,0.8638211382113822
+University of Michigan Biological Station,3,Fragaria_virginiana,0.5589430894308943
+University of Michigan Biological Station,3,Cetraria_ericetorum,0.3048780487804878
+University of Michigan Biological Station,3,Erigeron_canadensis,0.3048780487804878
+University of Michigan Biological Station,3,Symphyotrichum_laeve,0.25406504065040647
+University of Michigan Biological Station,3,Amelanchier_laevis,0.20325203252032523
+University of Michigan Biological Station,3,Berteroa_incana,0.05081300813008131
+University of Michigan Biological Station,3,Clinopodium_vulgare,0.05081300813008131
+University of Michigan Biological Station,3,Potentilla_argentea,0.05081300813008131
+University of Wyoming - SAREC,-1,Stipa_comata,35.009451795841215
+University of Wyoming - SAREC,-1,Bouteloua_gracilis,20.869565217391305
+University of Wyoming - SAREC,-1,Carex_filifolia,15.349716446124765
+University of Wyoming - SAREC,-1,Gutierrezia_sarothrae,7.901701323251417
+University of Wyoming - SAREC,-1,Pascopyrum_smithii,7.448015122873346
+University of Wyoming - SAREC,-1,Vulpia_octoflora,4.612476370510397
+University of Wyoming - SAREC,-1,Psoralidium_tenuiflorum,3.5916824196597354
+University of Wyoming - SAREC,-1,Poa_secunda,2.117202268431002
+University of Wyoming - SAREC,-1,Leucocrinum_montanum,0.7561436672967864
+University of Wyoming - SAREC,-1,Astragalus_flexuosus,0.4536862003780718
+University of Wyoming - SAREC,-1,Penstemon_albidus,0.3780718336483932
+University of Wyoming - SAREC,-1,Elymus_elymoides,0.2268431001890359
+University of Wyoming - SAREC,-1,Plantago_patagonica,0.2268431001890359
+University of Wyoming - SAREC,-1,Erysimum_capitatum,0.1890359168241966
+University of Wyoming - SAREC,-1,Taraxacum_officinale,0.1890359168241966
+University of Wyoming - SAREC,-1,Toxicoscordion_venenosum,0.15122873345935728
+University of Wyoming - SAREC,-1,Bromus_japonicus,0.11342155009451795
+University of Wyoming - SAREC,-1,Bromus_tectorum,0.07561436672967864
+University of Wyoming - SAREC,-1,Krascheninnikovia_ceratoides,0.07561436672967864
+University of Wyoming - SAREC,-1,Lepidium_densiflorum,0.07561436672967864
+University of Wyoming - SAREC,-1,Pelecyphora_vivipara,0.07561436672967864
+University of Wyoming - SAREC,0,Stipa_comata,42.900837089504186
+University of Wyoming - SAREC,0,Bouteloua_gracilis,21.490663232453315
+University of Wyoming - SAREC,0,Carex_filifolia,10.906310367031551
+University of Wyoming - SAREC,0,Gutierrezia_sarothrae,7.163554410817771
+University of Wyoming - SAREC,0,Pascopyrum_smithii,5.449130714745653
+University of Wyoming - SAREC,0,Vulpia_octoflora,2.857372826786864
+University of Wyoming - SAREC,0,Poa_secunda,2.6159047005795233
+University of Wyoming - SAREC,0,Psoralidium_tenuiflorum,1.7305215711526076
+University of Wyoming - SAREC,0,Leucocrinum_montanum,1.569542820347714
+University of Wyoming - SAREC,0,Elymus_elymoides,0.7244043786220219
+University of Wyoming - SAREC,0,Bromus_japonicus,0.5634256278171281
+University of Wyoming - SAREC,0,Penstemon_albidus,0.4426915647134578
+University of Wyoming - SAREC,0,Bromus_tectorum,0.28171281390856406
+University of Wyoming - SAREC,0,Plantago_patagonica,0.25756600128783
+University of Wyoming - SAREC,0,Lepidium_densiflorum,0.2414681262073406
+University of Wyoming - SAREC,0,Aristida_purpurea,0.20122343850611715
+University of Wyoming - SAREC,0,Astragalus_flexuosus,0.16097875080489374
+University of Wyoming - SAREC,0,Pelecyphora_vivipara,0.1207340631036703
+University of Wyoming - SAREC,0,Eriogonum_brevicaule,0.08048937540244687
+University of Wyoming - SAREC,0,Erysimum_capitatum,0.08048937540244687
+University of Wyoming - SAREC,0,Taraxacum_officinale,0.08048937540244687
+WSL,0,Galium_mollugo,18.231959552627547
+WSL,0,Arrhenatherum_elatius,17.823400234921607
+WSL,0,Holcus_lanatus,13.942086716715183
+WSL,0,Dactylis_glomerata,8.937235074817425
+WSL,0,Veronica_filiformis,7.507277462846637
+WSL,0,Trisetum_flavescens,5.413410959603698
+WSL,0,Rhinanthus_alectorolophus,2.808845309228334
+WSL,0,Plantago_lanceolata,2.604565650375364
+WSL,0,Vicia_sepium,2.5534957356621217
+WSL,0,Bromus_hordeaceus,2.502425820948879
+WSL,0,Glechoma_hederacea,2.144936417956182
+WSL,0,Ranunculus_acris,2.144936417956182
+WSL,0,Veronica_chamaedrys,2.0683315458863185
+WSL,0,Ajuga_reptans,2.0427965885296975
+WSL,0,Potentilla_reptans,1.200142995761197
+WSL,0,Lysimachia_nummularia,0.9447934221949849
+WSL,0,Crepis_biennis,0.8171186354118789
+WSL,0,Rumex_acetosa,0.8171186354118789
+WSL,0,Lolium_perenne,0.7660487206986364
+WSL,0,Poa_trivialis,0.7660487206986364
+WSL,1,Arrhenatherum_elatius,27.07874289690363
+WSL,1,Galium_mollugo,12.640612315899338
+WSL,1,Holcus_lanatus,12.292705554911285
+WSL,1,Plantago_lanceolata,6.958135219761104
+WSL,1,Veronica_filiformis,6.03038385712629
+WSL,1,Dactylis_glomerata,5.218601414820828
+WSL,1,Poa_trivialis,3.8269743708686077
+WSL,1,Trisetum_flavescens,3.3051142293865245
+WSL,1,Bromus_hordeaceus,3.1311608488924967
+WSL,1,Ranunculus_acris,3.015191928563145
+WSL,1,Bromus_sterilis,2.66728516757509
+WSL,1,Rumex_acetosa,2.290386176504697
+WSL,1,Vicia_sepium,1.8844949553519657
+WSL,1,Rhinanthus_alectorolophus,1.739533804940276
+WSL,1,Potentilla_reptans,1.2176736634581933
+WSL,1,Alopecurus_pratensis,0.9857358227994897
+WSL,1,Veronica_chamaedrys,0.9857358227994897
+WSL,1,Myosotis_arvensis,0.9567435927171519
+WSL,1,Ajuga_reptans,0.8117824423054621
+WSL,1,Lolium_perenne,0.8117824423054621
+WSL,2,Dactylis_glomerata,26.425855513307983
+WSL,2,Holcus_lanatus,19.898605830164765
+WSL,2,Arrhenatherum_elatius,13.498098859315588
+WSL,2,Bromus_hordeaceus,9.505703422053232
+WSL,2,Galium_mollugo,5.4499366286438535
+WSL,2,Trisetum_flavescens,5.323193916349809
+WSL,2,Bromus_sterilis,4.3726235741444865
+WSL,2,Plantago_lanceolata,2.9784537389100127
+WSL,2,Lolium_perenne,1.837769328263625
+WSL,2,Alopecurus_pratensis,1.520912547528517
+WSL,2,Vicia_sepium,1.520912547528517
+WSL,2,Crepis_biennis,1.0773130544993663
+WSL,2,Poa_pratensis,0.7604562737642585
+WSL,2,Veronica_filiformis,0.697084917617237
+WSL,2,Ranunculus_acris,0.6337135614702154
+WSL,2,Trifolium_pratense,0.6337135614702154
+WSL,2,Potentilla_reptans,0.5703422053231939
+WSL,2,Tragopogon_pratensis,0.5703422053231939
+WSL,2,Poa_trivialis,0.4435994930291508
+WSL,2,Lolium_multiflorum,0.3168567807351077
+WSL,2,Myosotis_arvensis,0.3168567807351077
+WSL,3,Arrhenatherum_elatius,45.207364214112566
+WSL,3,Dactylis_glomerata,14.41394221319531
+WSL,3,Galium_mollugo,12.186332962065126
+WSL,3,Holcus_lanatus,8.255257813011859
+WSL,3,Lolium_perenne,3.4069317958461647
+WSL,3,Veronica_filiformis,3.0138242809408378
+WSL,3,Trisetum_flavescens,1.9000196553757458
+WSL,3,Vicia_sepium,1.6444997706872835
+WSL,3,Bromus_sterilis,1.2448404638668678
+WSL,3,Potentilla_reptans,1.185874336631069
+WSL,3,Poa_trivialis,1.0482867064142043
+WSL,3,Lolium_multiflorum,0.9172508681124288
+WSL,3,Plantago_lanceolata,0.8517329489615412
+WSL,3,Veronica_persica,0.6551791915088778
+WSL,3,Bromus_hordeaceus,0.5896612723579899
+WSL,3,Knautia_arvensis,0.5896612723579899
+WSL,3,Tragopogon_pratensis,0.5896612723579899
+WSL,3,Veronica_chamaedrys,0.530695145122191
+WSL,3,Rumex_obtusifolius,0.3931075149053267
+WSL,3,Crepis_biennis,0.3275895957544389
+Wallula Gap Biological Station-North Face,0,Festuca_idahoensis,54.972375690607734
+Wallula Gap Biological Station-North Face,0,Bromus_tectorum,11.32596685082873
+Wallula Gap Biological Station-North Face,0,Ericameria_nauseosa,9.668508287292818
+Wallula Gap Biological Station-North Face,0,Chrysothamnus_viscidiflorus,7.18232044198895
+Wallula Gap Biological Station-North Face,0,Achillea_millefolium,5.801104972375691
+Wallula Gap Biological Station-North Face,0,Lupinus_leucophyllus,4.41988950276243
+Wallula Gap Biological Station-North Face,0,Poa_secunda,4.143646408839778
+Wallula Gap Biological Station-North Face,0,Phlox_longifolia,1.6574585635359116
+Wallula Gap Biological Station-North Face,0,Holosteum_umbellatum,0.2762430939226519
+Wallula Gap Biological Station-North Face,0,Plantago_patagonica,0.2762430939226519
+Wallula Gap Biological Station-North Face,0,Triteleia_grandiflora,0.2762430939226519
+Wallula Gap Biological Station-North Face,1,Festuca_idahoensis,40.70305272895467
+Wallula Gap Biological Station-North Face,1,Bromus_tectorum,29.047178538390376
+Wallula Gap Biological Station-North Face,1,Draba_verna,6.66049953746531
+Wallula Gap Biological Station-North Face,1,Poa_secunda,5.272895467160037
+Wallula Gap Biological Station-North Face,1,Chrysothamnus_viscidiflorus,5.180388529139686
+Wallula Gap Biological Station-North Face,1,Ericameria_nauseosa,4.162812210915819
+Wallula Gap Biological Station-North Face,1,Elymus_wawawaiensis,2.2201665124884364
+Wallula Gap Biological Station-North Face,1,Holosteum_umbellatum,1.942645698427382
+Wallula Gap Biological Station-North Face,1,Achillea_millefolium,1.757631822386679
+Wallula Gap Biological Station-North Face,1,Lupinus_leucophyllus,1.2025901942645698
+Wallula Gap Biological Station-North Face,1,Crepis_atribarba,0.5550416281221091
+Wallula Gap Biological Station-North Face,1,Triteleia_grandiflora,0.46253469010175763
+Wallula Gap Biological Station-North Face,1,Sisymbrium_altissimum,0.37002775208140615
+Wallula Gap Biological Station-North Face,1,Lactuca_serriola,0.18501387604070307
+Wallula Gap Biological Station-North Face,1,Phlox_longifolia,0.09250693802035154
+Wallula Gap Biological Station-North Face,1,Plantago_patagonica,0.09250693802035154
+Wallula Gap Biological Station-North Face,1,Tragopogon_dubius,0.09250693802035154
+Wallula Gap Biological Station-North Face,2,Bromus_tectorum,80.34069981583794
+Wallula Gap Biological Station-North Face,2,Festuca_idahoensis,9.023941068139964
+Wallula Gap Biological Station-North Face,2,Poa_secunda,2.532228360957643
+Wallula Gap Biological Station-North Face,2,Ericameria_nauseosa,1.841620626151013
+Wallula Gap Biological Station-North Face,2,Lupinus_leucophyllus,1.2430939226519337
+Wallula Gap Biological Station-North Face,2,Crepis_atribarba,1.0128913443830572
+Wallula Gap Biological Station-North Face,2,Chrysothamnus_viscidiflorus,0.9208103130755065
+Wallula Gap Biological Station-North Face,2,Lomatium_triternatum,0.8287292817679558
+Wallula Gap Biological Station-North Face,2,Holosteum_umbellatum,0.7826887661141806
+Wallula Gap Biological Station-North Face,2,Sisymbrium_altissimum,0.5064456721915286
+Wallula Gap Biological Station-North Face,2,Phlox_longifolia,0.46040515653775327
+Wallula Gap Biological Station-North Face,2,Erodium_cicutarium,0.1841620626151013
+Wallula Gap Biological Station-North Face,2,Triteleia_grandiflora,0.1841620626151013
+Wallula Gap Biological Station-North Face,2,Achillea_millefolium,0.13812154696132595
+Wallula Gap Biological Station-North Face,3,Bromus_tectorum,77.22914669223394
+Wallula Gap Biological Station-North Face,3,Festuca_idahoensis,6.0402684563758395
+Wallula Gap Biological Station-North Face,3,Machaeranthera_canescens,3.451581975071908
+Wallula Gap Biological Station-North Face,3,Achillea_millefolium,2.4928092042186005
+Wallula Gap Biological Station-North Face,3,Lagophylla_ramosissima,2.1572387344199426
+Wallula Gap Biological Station-North Face,3,Ericameria_nauseosa,1.9175455417066156
+Wallula Gap Biological Station-North Face,3,Lupinus_leucophyllus,1.4381591562799616
+Wallula Gap Biological Station-North Face,3,Sisymbrium_altissimum,1.3902205177372962
+Wallula Gap Biological Station-North Face,3,Poa_secunda,0.9108341323106425
+Wallula Gap Biological Station-North Face,3,Chrysothamnus_viscidiflorus,0.7190795781399808
+Wallula Gap Biological Station-North Face,3,Lactuca_serriola,0.5752636625119847
+Wallula Gap Biological Station-North Face,3,Triteleia_grandiflora,0.4314477468839885
+Wallula Gap Biological Station-North Face,3,Elymus_wawawaiensis,0.38350910834132307
+Wallula Gap Biological Station-North Face,3,Crepis_atribarba,0.28763183125599234
+Wallula Gap Biological Station-North Face,3,Phlox_longifolia,0.23969319271332695
+Wallula Gap Biological Station-North Face,3,Secale_cereale,0.23969319271332695
+Wallula Gap Biological Station-North Face,3,Holosteum_umbellatum,0.047938638542665384
+Wallula Gap Biological Station-North Face,3,Tragopogon_dubius,0.047938638542665384
+Wallula Gap Biological Station-North Face,4,Bromus_tectorum,63.48511383537653
+Wallula Gap Biological Station-North Face,4,Sisymbrium_altissimum,15.718038528896672
+Wallula Gap Biological Station-North Face,4,Draba_verna,3.677758318739054
+Wallula Gap Biological Station-North Face,4,Lupinus_leucophyllus,3.371278458844133
+Wallula Gap Biological Station-North Face,4,Festuca_idahoensis,2.8021015761821366
+Wallula Gap Biological Station-North Face,4,Poa_secunda,2.4518388791593697
+Wallula Gap Biological Station-North Face,4,Ericameria_nauseosa,1.9702276707530646
+Wallula Gap Biological Station-North Face,4,Chrysothamnus_viscidiflorus,1.4886164623467601
+Wallula Gap Biological Station-North Face,4,Achillea_millefolium,1.3572679509632224
+Wallula Gap Biological Station-North Face,4,Holosteum_umbellatum,1.3572679509632224
+Wallula Gap Biological Station-North Face,4,Lactuca_serriola,0.5691768826619965
+Wallula Gap Biological Station-North Face,4,Triteleia_grandiflora,0.3502626970227671
+Wallula Gap Biological Station-North Face,4,Crepis_atribarba,0.3064798598949212
+Wallula Gap Biological Station-North Face,4,Poa_bulbosa,0.2626970227670753
+Wallula Gap Biological Station-North Face,4,Lomatium_triternatum,0.21891418563922943
+Wallula Gap Biological Station-North Face,4,Erodium_cicutarium,0.17513134851138354
+Wallula Gap Biological Station-North Face,4,Phlox_longifolia,0.17513134851138354
+Wallula Gap Biological Station-North Face,4,Claytonia_perfoliata,0.13134851138353765
+Wallula Gap Biological Station-North Face,4,Bromus_racemosus,0.08756567425569177
+Wallula Gap Biological Station-North Face,4,Linum_lewisii,0.043782837127845885
+Wallula Gap Biological Station-South Face,0,Centaurea_solstitialis,64.53576864535768
+Wallula Gap Biological Station-South Face,0,Bromus_tectorum,17.04718417047184
+Wallula Gap Biological Station-South Face,0,Ericameria_nauseosa,9.28462709284627
+Wallula Gap Biological Station-South Face,0,Erodium_cicutarium,4.5662100456621
+Wallula Gap Biological Station-South Face,0,Poa_secunda,2.5875190258751903
+Wallula Gap Biological Station-South Face,0,Linum_lewisii,0.91324200913242
+Wallula Gap Biological Station-South Face,0,Lupinus_leucophyllus,0.45662100456621
+Wallula Gap Biological Station-South Face,0,Achillea_millefolium,0.30441400304414
+Wallula Gap Biological Station-South Face,0,Machaeranthera_canescens,0.15220700152207
+Wallula Gap Biological Station-South Face,0,Tragopogon_dubius,0.15220700152207
+Wallula Gap Biological Station-South Face,1,Bromus_tectorum,40.79822616407982
+Wallula Gap Biological Station-South Face,1,Erodium_cicutarium,36.25277161862528
+Wallula Gap Biological Station-South Face,1,Poa_secunda,8.869179600886918
+Wallula Gap Biological Station-South Face,1,Centaurea_solstitialis,5.099778270509978
+Wallula Gap Biological Station-South Face,1,Draba_verna,4.545454545454546
+Wallula Gap Biological Station-South Face,1,Ericameria_nauseosa,2.6607538802660753
+Wallula Gap Biological Station-South Face,1,Linum_lewisii,1.2195121951219512
+Wallula Gap Biological Station-South Face,1,Triteleia_grandiflora,0.22172949002217296
+Wallula Gap Biological Station-South Face,1,Crepis_atribarba,0.11086474501108648
+Wallula Gap Biological Station-South Face,1,Plantago_patagonica,0.11086474501108648
+Wallula Gap Biological Station-South Face,1,Sisymbrium_altissimum,0.11086474501108648
+Wallula Gap Biological Station-South Face,2,Bromus_tectorum,86.32435180477886
+Wallula Gap Biological Station-South Face,2,Centaurea_solstitialis,2.9994916115912558
+Wallula Gap Biological Station-South Face,2,Ericameria_nauseosa,2.796136248093543
+Wallula Gap Biological Station-South Face,2,Erodium_cicutarium,2.389425521098119
+Wallula Gap Biological Station-South Face,2,Linum_lewisii,1.626842907981698
+Wallula Gap Biological Station-South Face,2,Poa_secunda,1.4743263853584139
+Wallula Gap Biological Station-South Face,2,Sisymbrium_altissimum,1.3726487036095576
+Wallula Gap Biological Station-South Face,2,Poa_bulbosa,0.9150991357397051
+Wallula Gap Biological Station-South Face,2,Plantago_patagonica,0.10167768174885612
+Wallula Gap Biological Station-South Face,3,Bromus_tectorum,78.74933757286698
+Wallula Gap Biological Station-South Face,3,Centaurea_solstitialis,17.435082140964493
+Wallula Gap Biological Station-South Face,3,Ericameria_nauseosa,2.1197668256491786
+Wallula Gap Biological Station-South Face,3,Tragopogon_dubius,0.37095919448860626
+Wallula Gap Biological Station-South Face,3,Lagophylla_ramosissima,0.2649708532061473
+Wallula Gap Biological Station-South Face,3,Linum_lewisii,0.2649708532061473
+Wallula Gap Biological Station-South Face,3,Poa_secunda,0.21197668256491786
+Wallula Gap Biological Station-South Face,3,Machaeranthera_canescens,0.1589825119236884
+Wallula Gap Biological Station-South Face,3,Plantago_patagonica,0.1589825119236884
+Wallula Gap Biological Station-South Face,3,Erodium_cicutarium,0.10598834128245893
+Wallula Gap Biological Station-South Face,3,Sisymbrium_altissimum,0.10598834128245893
+Wallula Gap Biological Station-South Face,3,Secale_cereale,0.052994170641229466
+Wallula Gap Biological Station-South Face,4,Bromus_tectorum,58.44072164948454
+Wallula Gap Biological Station-South Face,4,Centaurea_solstitialis,20.29639175257732
+Wallula Gap Biological Station-South Face,4,Holosteum_umbellatum,7.989690721649484
+Wallula Gap Biological Station-South Face,4,Erodium_cicutarium,7.40979381443299
+Wallula Gap Biological Station-South Face,4,Poa_secunda,2.448453608247423
+Wallula Gap Biological Station-South Face,4,Poa_bulbosa,1.5463917525773196
+Wallula Gap Biological Station-South Face,4,Draba_verna,0.9664948453608248
+Wallula Gap Biological Station-South Face,4,Sisymbrium_altissimum,0.3865979381443299
+Wallula Gap Biological Station-South Face,4,Linum_lewisii,0.19329896907216496
+Wallula Gap Biological Station-South Face,4,Plantago_patagonica,0.12886597938144329
+Wallula Gap Biological Station-South Face,4,Tragopogon_dubius,0.12886597938144329
+Wallula Gap Biological Station-South Face,4,Ericameria_nauseosa,0.06443298969072164
+Wytham Woods,0,Brachypodium_pinnatum,16.35012386457473
+Wytham Woods,0,Medicago_lupulina,10.333844520467146
+Wytham Woods,0,Trisetum_flavescens,7.361094726908105
+Wytham Woods,0,Lotus_corniculatus,6.700483661672761
+Wytham Woods,0,Trifolium_repens,6.37017812905509
+Wytham Woods,0,Brachypodium_sylvaticum,4.907396484605403
+Wytham Woods,0,Arrhenatherum_elatius,4.872006606110652
+Wytham Woods,0,Trifolium_pratense,3.3030553261767133
+Wytham Woods,0,Potentilla_reptans,3.137902559867878
+Wytham Woods,0,Agrimonia_eupatoria,3.0907160552082105
+Wytham Woods,0,Galium_verum,2.9255632888993746
+Wytham Woods,0,Festuca_rubra,2.784003774920373
+Wytham Woods,0,Holcus_lanatus,2.5480712516220363
+Wytham Woods,0,Veronica_chamaedrys,2.2885454759938657
+Wytham Woods,0,Vicia_sativa,1.7694939247375252
+Wytham Woods,0,Crataegus_monogyna,1.5099681491093548
+Wytham Woods,0,Crepis_capillaris,1.2740356258110181
+Wytham Woods,0,Hypericum_perforatum,1.2740356258110181
+Wytham Woods,0,Geranium_dissectum,1.132476111832016
+Wytham Woods,0,Carex_flacca,1.0852896071723488
+Wytham Woods,1,Brachypodium_pinnatum,14.686062680500589
+Wytham Woods,1,Trisetum_flavescens,10.428922879452347
+Wytham Woods,1,Medicago_lupulina,9.722965022997112
+Wytham Woods,1,Crepis_capillaris,6.61247192213071
+Wytham Woods,1,Lotus_corniculatus,6.3001390523050596
+Wytham Woods,1,Trifolium_repens,4.676435982458017
+Wytham Woods,1,Potentilla_reptans,4.141619424537383
+Wytham Woods,1,Festuca_rubra,3.9854529896245583
+Wytham Woods,1,Trifolium_pratense,3.136164295646593
+Wytham Woods,1,Galium_verum,3.0013905230505933
+Wytham Woods,1,Cerastium_fontanum,2.9414910685634825
+Wytham Woods,1,Bromus_commutatus,2.4644346988982777
+Wytham Woods,1,Brachypodium_sylvaticum,2.353192854850786
+Wytham Woods,1,Holcus_lanatus,2.312546796448818
+Wytham Woods,1,Arrhenatherum_elatius,2.259065140656755
+Wytham Woods,1,Bromus_sterilis,2.1093165044389774
+Wytham Woods,1,Odontites_vernus,1.9125040111241844
+Wytham Woods,1,Agrimonia_eupatoria,1.8504652904053909
+Wytham Woods,1,Veronica_chamaedrys,1.606588939993582
+Wytham Woods,1,Geranium_columbinum,1.4675366349342174
+Wytham Woods,2,Geranium_columbinum,11.790575916230367
+Wytham Woods,2,Brachypodium_pinnatum,10.094240837696335
+Wytham Woods,2,Festuca_rubra,7.581151832460733
+Wytham Woods,2,Cerastium_fontanum,5.989528795811518
+Wytham Woods,2,Trisetum_flavescens,5.109947643979058
+Wytham Woods,2,Potentilla_reptans,4.900523560209424
+Wytham Woods,2,Lotus_corniculatus,4.858638743455498
+Wytham Woods,2,Agrostis_stolonifera,4.230366492146597
+Wytham Woods,2,Bromus_commutatus,4.12565445026178
+Wytham Woods,2,Medicago_lupulina,3.8324607329842935
+Wytham Woods,2,Arrhenatherum_elatius,3.3926701570680633
+Wytham Woods,2,Taraxacum_officinale,3.329842931937173
+Wytham Woods,2,Crepis_biennis,2.994764397905759
+Wytham Woods,2,Crepis_capillaris,2.764397905759162
+Wytham Woods,2,Galium_verum,2.513089005235602
+Wytham Woods,2,Bromus_sterilis,2.1570680628272254
+Wytham Woods,2,Trifolium_dubium,1.9267015706806283
+Wytham Woods,2,Pastinaca_sativa,1.8848167539267016
+Wytham Woods,2,Bromus_hordeaceus,1.193717277486911
+Wytham Woods,2,Clinopodium_vulgare,1.1727748691099475
+Wytham Woods,2,Trifolium_campestre,1.1727748691099475
+Wytham Woods,3,Brachypodium_pinnatum,30.65930496914583
+Wytham Woods,3,Geranium_columbinum,13.445924001299122
+Wytham Woods,3,Trisetum_flavescens,10.06820396232543
+Wytham Woods,3,Trifolium_campestre,7.567392010392984
+Wytham Woods,3,Holcus_lanatus,3.4101981162715163
+Wytham Woods,3,Festuca_rubra,3.1503734978889253
+Wytham Woods,3,Lotus_corniculatus,2.825592724910685
+Wytham Woods,3,Crepis_capillaris,2.4358557973367976
+Wytham Woods,3,Brachypodium_sylvaticum,2.111075024358558
+Wytham Woods,3,Medicago_lupulina,2.111075024358558
+Wytham Woods,3,Sherardia_arvensis,1.7538161740824942
+Wytham Woods,3,Arrhenatherum_elatius,1.6239038648911983
+Wytham Woods,3,Cerastium_fontanum,1.4615134784020787
+Wytham Woods,3,Trifolium_dubium,1.4290354011042548
+Wytham Woods,3,Bromus_sterilis,1.3316011692107828
+Wytham Woods,3,Agrimonia_eupatoria,1.2991230919129588
+Wytham Woods,3,Galium_verum,1.136732705423839
+Wytham Woods,3,Linum_catharticum,1.136732705423839
+Wytham Woods,3,Bromus_commutatus,1.006820396232543
+Wytham Woods,3,Potentilla_reptans,1.006820396232543
