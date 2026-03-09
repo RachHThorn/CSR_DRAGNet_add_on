@@ -28,8 +28,15 @@
 # for each site in the add-on we need to select the species the site PIs should
 # sample to obtain maximum cumulative cover
 
+# all_code_PI_function.R
+
+# this code produces the following plots/table in a folder in results labelled with the site name
 # 1) Their site in terms of where it sits in richness/evenness space
-# 2) 
+# 2) Top 20 taxa and their contribution to total cover across treatments for each time point
+# 3) Cover capture plot: shows diminishing returns of number of species sampled at the site
+# 4) species list (top 20) by order of sampling priority
+
+
 
 
 

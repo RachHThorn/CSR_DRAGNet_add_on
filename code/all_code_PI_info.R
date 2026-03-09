@@ -1,4 +1,4 @@
-# rough code that needs to be fucntionalised
+# rough code that needs to be functionalised
 
 # name the focal site
 focal_site <- "Wytham Woods"
