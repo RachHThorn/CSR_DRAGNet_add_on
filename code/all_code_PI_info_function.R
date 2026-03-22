@@ -1,12 +1,18 @@
 # R Thornley
 # 09/03/2026
-# Function that prod
+# Function that produces the species sampling plots per site
+# for the CSR DRAGNet Add-On project
 
 library(tidyverse)
 library(viridis)
 
-see <- read_csv("results/site_level_diversity_metrics.csv")
-unique(see$site_name)
+
+# check data for site names / codes if not sure
+master <- read_csv("data/full-cover-2025-09-11.csv")
+unique(master$site_name)
+unique(master$site_code)
+see <- master %>% filter(site_name == "Bayreuth DRAGNet")
+master %>% filter(site_code == "bayr.dn.de")
 
 make_site_report <- function(
     focal_site,
@@ -163,3 +169,52 @@ make_site_report(focal_site = "Jena")
 make_site_report(focal_site = "CEREEP - Ecotron IDF")
 make_site_report(focal_site = "Algaida")
 make_site_report(focal_site = "Agroscope Changins")
+make_site_report(focal_site = "Bayreuth DRAGNet")
+
+
+################################################################################
+# when the data form the site is not in the master data frame or correct format
+###############################################################################
+
+ucl_dat <- read_csv("data/UCR_tidy_data.csv")
+unique(ucl_dat$taxa)
+ucl_dat <- ucl_dat %>% 
+  group_by(block, plot, year, taxa) %>% 
+  summarise(total_cover = sum(cover)) %>% 
+  mutate(total_cover = if_else(is.na(total_cover), 0, total_cover)) %>%
+  filter(!taxa %in% c("LITTER", "DISTURB", "BARE"))
+
+ucl_dat %>% group_by(year, taxa) %>% 
+  summarise(year_cover_sum = sum(total_cover)) %>%
+  filter(year == 2026) %>% arrange(-year_cover_sum)
+
+ucl_dat %>% group_by(year, taxa) %>% 
+  summarise(year_cover_sum = sum(total_cover)) %>%
+  filter(year == 2025) %>% arrange(-year_cover_sum)
+
+
+# rank species by abundnace per annum
+ucl_dat <- ucl_dat %>%
+  group_by(block, plot, year) %>%
+  mutate(rank_cover_year = rank(-total_cover))
+
+ucl_dat <- ucl_dat %>% 
+  pivot_wider(names_from = year, values_from = rank_cover_year) %>%
+  rename("year_2025" ='2025', "year_2026" = '2026') %>%
+  select(1:3, 5:6) %>%
+  mutate(across(c(year_2025, year_2026), ~replace_na(.x, 0))) %>%
+  mutate(treatment_unique = paste0("block", "_", block, "_", "plot", "_", plot))
+unique(ucl_dat$treatment_unique)
+
+# Year 0 - pre disturbance year
+year_2025 <- ucl_dat %>%
+  group_by(taxa) %>% summarise(mean_rank_2025 = mean(year_2025)) %>% 
+  arrange(mean_rank_2025) %>% filter(!is.na(taxa))
+
+# Year 1 - post disturbance year
+year_2026 <- ucl_dat %>%
+  group_by(taxa) %>% summarise(mean_rank_2026 = mean(year_2026)) %>% 
+  arrange(mean_rank_2026) %>% filter(!is.na(taxa)) %>% 
+  mutate(mean_rank_2026 = if_else(mean_rank_2026 == 0, NA_real_, mean_rank_2026))
+
+year_2026 %>% left_join(year_2025)
